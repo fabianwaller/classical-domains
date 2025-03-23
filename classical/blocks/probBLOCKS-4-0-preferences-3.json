@@ -1,0 +1,28 @@
+{
+  "partial_order": [
+    [
+      "ON(D, C)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(C, B)",
+      "ON(C, B)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(C, B)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(D, C)"
+    ]
+  ]
+}

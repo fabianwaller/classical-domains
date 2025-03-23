@@ -1,0 +1,1360 @@
+{
+  "partial_order": [
+    [
+      "available(p0)",
+      "available(p0)"
+    ],
+    [
+      "colour(p0, black)",
+      "colour(p0, black)"
+    ],
+    [
+      "wood(p0, cherry)",
+      "wood(p0, cherry)"
+    ],
+    [
+      "surface-condition(p0, verysmooth)",
+      "surface-condition(p0, verysmooth)"
+    ],
+    [
+      "treatment(p0, varnished)",
+      "treatment(p0, varnished)"
+    ],
+    [
+      "available(p1)",
+      "available(p1)"
+    ],
+    [
+      "colour(p1, red)",
+      "colour(p1, red)"
+    ],
+    [
+      "wood(p1, teak)",
+      "wood(p1, teak)"
+    ],
+    [
+      "available(p2)",
+      "available(p2)"
+    ],
+    [
+      "colour(p2, mauve)",
+      "colour(p2, mauve)"
+    ],
+    [
+      "surface-condition(p2, smooth)",
+      "surface-condition(p2, smooth)"
+    ],
+    [
+      "available(p3)",
+      "available(p3)"
+    ],
+    [
+      "colour(p3, black)",
+      "colour(p3, black)"
+    ],
+    [
+      "surface-condition(p3, smooth)",
+      "surface-condition(p3, smooth)"
+    ],
+    [
+      "available(p4)",
+      "available(p4)"
+    ],
+    [
+      "wood(p4, walnut)",
+      "wood(p4, walnut)"
+    ],
+    [
+      "surface-condition(p4, verysmooth)",
+      "surface-condition(p4, verysmooth)"
+    ],
+    [
+      "treatment(p4, varnished)",
+      "treatment(p4, varnished)"
+    ],
+    [
+      "available(p5)",
+      "available(p5)"
+    ],
+    [
+      "colour(p5, white)",
+      "colour(p5, white)"
+    ],
+    [
+      "wood(p5, mahogany)",
+      "wood(p5, mahogany)"
+    ],
+    [
+      "surface-condition(p5, smooth)",
+      "surface-condition(p5, smooth)"
+    ],
+    [
+      "treatment(p5, glazed)",
+      "treatment(p5, glazed)"
+    ],
+    [
+      "available(p6)",
+      "available(p6)"
+    ],
+    [
+      "wood(p6, pine)",
+      "wood(p6, pine)"
+    ],
+    [
+      "surface-condition(p6, verysmooth)",
+      "surface-condition(p6, verysmooth)"
+    ],
+    [
+      "available(p7)",
+      "available(p7)"
+    ],
+    [
+      "wood(p7, mahogany)",
+      "wood(p7, mahogany)"
+    ],
+    [
+      "surface-condition(p7, verysmooth)",
+      "surface-condition(p7, verysmooth)"
+    ],
+    [
+      "available(p8)",
+      "available(p8)"
+    ],
+    [
+      "colour(p8, blue)",
+      "colour(p8, blue)"
+    ],
+    [
+      "wood(p8, mahogany)",
+      "wood(p8, mahogany)"
+    ],
+    [
+      "available(p9)",
+      "available(p9)"
+    ],
+    [
+      "colour(p9, natural)",
+      "colour(p9, natural)"
+    ],
+    [
+      "surface-condition(p9, verysmooth)",
+      "surface-condition(p9, verysmooth)"
+    ],
+    [
+      "available(p10)",
+      "available(p10)"
+    ],
+    [
+      "colour(p10, mauve)",
+      "colour(p10, mauve)"
+    ],
+    [
+      "wood(p10, walnut)",
+      "wood(p10, walnut)"
+    ],
+    [
+      "available(p11)",
+      "available(p11)"
+    ],
+    [
+      "colour(p11, black)",
+      "colour(p11, black)"
+    ],
+    [
+      "wood(p11, pine)",
+      "wood(p11, pine)"
+    ],
+    [
+      "available(p12)",
+      "available(p12)"
+    ],
+    [
+      "colour(p12, mauve)",
+      "colour(p12, mauve)"
+    ],
+    [
+      "surface-condition(p12, verysmooth)",
+      "surface-condition(p12, verysmooth)"
+    ],
+    [
+      "available(p13)",
+      "available(p13)"
+    ],
+    [
+      "colour(p13, black)",
+      "colour(p13, black)"
+    ],
+    [
+      "wood(p13, beech)",
+      "wood(p13, beech)"
+    ],
+    [
+      "available(p14)",
+      "available(p14)"
+    ],
+    [
+      "colour(p14, black)",
+      "colour(p14, black)"
+    ],
+    [
+      "wood(p14, beech)",
+      "wood(p14, beech)"
+    ],
+    [
+      "surface-condition(p14, verysmooth)",
+      "surface-condition(p14, verysmooth)"
+    ],
+    [
+      "treatment(p14, glazed)",
+      "treatment(p14, glazed)"
+    ],
+    [
+      "available(p15)",
+      "available(p15)"
+    ],
+    [
+      "colour(p15, mauve)",
+      "colour(p15, mauve)"
+    ],
+    [
+      "wood(p15, teak)",
+      "wood(p15, teak)"
+    ],
+    [
+      "surface-condition(p15, smooth)",
+      "surface-condition(p15, smooth)"
+    ],
+    [
+      "available(p16)",
+      "available(p16)"
+    ],
+    [
+      "wood(p16, cherry)",
+      "wood(p16, cherry)"
+    ],
+    [
+      "treatment(p16, varnished)",
+      "treatment(p16, varnished)"
+    ],
+    [
+      "available(p17)",
+      "available(p17)"
+    ],
+    [
+      "colour(p17, mauve)",
+      "colour(p17, mauve)"
+    ],
+    [
+      "wood(p17, cherry)",
+      "wood(p17, cherry)"
+    ],
+    [
+      "surface-condition(p17, smooth)",
+      "surface-condition(p17, smooth)"
+    ],
+    [
+      "treatment(p17, glazed)",
+      "treatment(p17, glazed)"
+    ],
+    [
+      "available(p18)",
+      "available(p18)"
+    ],
+    [
+      "colour(p18, green)",
+      "colour(p18, green)"
+    ],
+    [
+      "treatment(p18, glazed)",
+      "treatment(p18, glazed)"
+    ],
+    [
+      "available(p19)",
+      "available(p19)"
+    ],
+    [
+      "colour(p19, red)",
+      "colour(p19, red)"
+    ],
+    [
+      "surface-condition(p19, smooth)",
+      "surface-condition(p19, smooth)"
+    ],
+    [
+      "available(p20)",
+      "available(p20)"
+    ],
+    [
+      "colour(p20, black)",
+      "colour(p20, black)"
+    ],
+    [
+      "treatment(p20, glazed)",
+      "treatment(p20, glazed)"
+    ],
+    [
+      "available(p21)",
+      "available(p21)"
+    ],
+    [
+      "colour(p21, black)",
+      "colour(p21, black)"
+    ],
+    [
+      "treatment(p21, varnished)",
+      "treatment(p21, varnished)"
+    ],
+    [
+      "available(p22)",
+      "available(p22)"
+    ],
+    [
+      "colour(p22, white)",
+      "colour(p22, white)"
+    ],
+    [
+      "wood(p22, teak)",
+      "wood(p22, teak)"
+    ],
+    [
+      "treatment(p22, varnished)",
+      "treatment(p22, varnished)"
+    ],
+    [
+      "available(p23)",
+      "available(p23)"
+    ],
+    [
+      "surface-condition(p23, verysmooth)",
+      "surface-condition(p23, verysmooth)"
+    ],
+    [
+      "treatment(p23, glazed)",
+      "treatment(p23, glazed)"
+    ],
+    [
+      "available(p24)",
+      "available(p24)"
+    ],
+    [
+      "colour(p24, mauve)",
+      "colour(p24, mauve)"
+    ],
+    [
+      "surface-condition(p24, verysmooth)",
+      "surface-condition(p24, verysmooth)"
+    ],
+    [
+      "available(p25)",
+      "available(p25)"
+    ],
+    [
+      "colour(p25, green)",
+      "colour(p25, green)"
+    ],
+    [
+      "wood(p25, pine)",
+      "wood(p25, pine)"
+    ],
+    [
+      "surface-condition(p25, verysmooth)",
+      "surface-condition(p25, verysmooth)"
+    ],
+    [
+      "treatment(p25, glazed)",
+      "treatment(p25, glazed)"
+    ],
+    [
+      "available(p26)",
+      "available(p26)"
+    ],
+    [
+      "colour(p26, white)",
+      "colour(p26, white)"
+    ],
+    [
+      "wood(p26, walnut)",
+      "wood(p26, walnut)"
+    ],
+    [
+      "treatment(p26, glazed)",
+      "treatment(p26, glazed)"
+    ],
+    [
+      "available(p27)",
+      "available(p27)"
+    ],
+    [
+      "colour(p27, red)",
+      "colour(p27, red)"
+    ],
+    [
+      "surface-condition(p27, smooth)",
+      "surface-condition(p27, smooth)"
+    ],
+    [
+      "treatment(p27, glazed)",
+      "treatment(p27, glazed)"
+    ],
+    [
+      "available(p28)",
+      "available(p28)"
+    ],
+    [
+      "surface-condition(p28, smooth)",
+      "surface-condition(p28, smooth)"
+    ],
+    [
+      "treatment(p28, glazed)",
+      "treatment(p28, glazed)"
+    ],
+    [
+      "available(p29)",
+      "available(p29)"
+    ],
+    [
+      "wood(p29, oak)",
+      "wood(p29, oak)"
+    ],
+    [
+      "surface-condition(p29, smooth)",
+      "surface-condition(p29, smooth)"
+    ],
+    [
+      "treatment(p29, glazed)",
+      "treatment(p29, glazed)"
+    ],
+    [
+      "available(p30)",
+      "available(p30)"
+    ],
+    [
+      "colour(p30, green)",
+      "colour(p30, green)"
+    ],
+    [
+      "wood(p30, walnut)",
+      "wood(p30, walnut)"
+    ],
+    [
+      "surface-condition(p30, smooth)",
+      "surface-condition(p30, smooth)"
+    ],
+    [
+      "treatment(p30, varnished)",
+      "treatment(p30, varnished)"
+    ],
+    [
+      "available(p31)",
+      "available(p31)"
+    ],
+    [
+      "wood(p31, cherry)",
+      "wood(p31, cherry)"
+    ],
+    [
+      "surface-condition(p31, verysmooth)",
+      "surface-condition(p31, verysmooth)"
+    ],
+    [
+      "treatment(p31, varnished)",
+      "treatment(p31, varnished)"
+    ],
+    [
+      "available(p32)",
+      "available(p32)"
+    ],
+    [
+      "wood(p32, pine)",
+      "wood(p32, pine)"
+    ],
+    [
+      "surface-condition(p32, smooth)",
+      "surface-condition(p32, smooth)"
+    ],
+    [
+      "treatment(p22, varnished)",
+      "wood(p7, mahogany)"
+    ],
+    [
+      "wood(p7, mahogany)",
+      "wood(p5, mahogany)"
+    ],
+    [
+      "wood(p5, mahogany)",
+      "colour(p26, white)"
+    ],
+    [
+      "colour(p26, white)",
+      "available(p23)"
+    ],
+    [
+      "available(p23)",
+      "available(p2)"
+    ],
+    [
+      "available(p2)",
+      "treatment(p14, glazed)"
+    ],
+    [
+      "treatment(p14, glazed)",
+      "available(p0)"
+    ],
+    [
+      "available(p0)",
+      "wood(p13, beech)"
+    ],
+    [
+      "wood(p13, beech)",
+      "surface-condition(p12, verysmooth)"
+    ],
+    [
+      "surface-condition(p12, verysmooth)",
+      "surface-condition(p9, verysmooth)"
+    ],
+    [
+      "surface-condition(p9, verysmooth)",
+      "available(p21)"
+    ],
+    [
+      "available(p21)",
+      "surface-condition(p3, smooth)"
+    ],
+    [
+      "surface-condition(p3, smooth)",
+      "treatment(p4, varnished)"
+    ],
+    [
+      "treatment(p4, varnished)",
+      "wood(p0, cherry)"
+    ],
+    [
+      "wood(p0, cherry)",
+      "available(p11)"
+    ],
+    [
+      "available(p11)",
+      "wood(p22, teak)"
+    ],
+    [
+      "wood(p22, teak)",
+      "wood(p1, teak)"
+    ],
+    [
+      "wood(p1, teak)",
+      "surface-condition(p2, smooth)"
+    ],
+    [
+      "surface-condition(p2, smooth)",
+      "wood(p30, walnut)"
+    ],
+    [
+      "wood(p30, walnut)",
+      "available(p15)"
+    ],
+    [
+      "available(p15)",
+      "colour(p17, mauve)"
+    ],
+    [
+      "colour(p17, mauve)",
+      "surface-condition(p14, verysmooth)"
+    ],
+    [
+      "surface-condition(p14, verysmooth)",
+      "colour(p1, red)"
+    ],
+    [
+      "colour(p1, red)",
+      "colour(p2, mauve)"
+    ],
+    [
+      "colour(p2, mauve)",
+      "wood(p15, teak)"
+    ],
+    [
+      "wood(p15, teak)",
+      "available(p1)"
+    ],
+    [
+      "available(p1)",
+      "colour(p15, mauve)"
+    ],
+    [
+      "colour(p15, mauve)",
+      "surface-condition(p7, verysmooth)"
+    ],
+    [
+      "surface-condition(p7, verysmooth)",
+      "colour(p19, red)"
+    ],
+    [
+      "colour(p19, red)",
+      "treatment(p16, varnished)"
+    ],
+    [
+      "treatment(p16, varnished)",
+      "available(p10)"
+    ],
+    [
+      "available(p10)",
+      "colour(p5, white)"
+    ],
+    [
+      "colour(p5, white)",
+      "colour(p13, black)"
+    ],
+    [
+      "colour(p13, black)",
+      "wood(p17, cherry)"
+    ],
+    [
+      "wood(p17, cherry)",
+      "colour(p14, black)"
+    ],
+    [
+      "colour(p14, black)",
+      "colour(p25, green)"
+    ],
+    [
+      "colour(p25, green)",
+      "wood(p6, pine)"
+    ],
+    [
+      "wood(p6, pine)",
+      "surface-condition(p4, verysmooth)"
+    ],
+    [
+      "surface-condition(p4, verysmooth)",
+      "colour(p11, black)"
+    ],
+    [
+      "colour(p11, black)",
+      "wood(p4, walnut)"
+    ],
+    [
+      "wood(p4, walnut)",
+      "wood(p10, walnut)"
+    ],
+    [
+      "wood(p10, walnut)",
+      "treatment(p17, glazed)"
+    ],
+    [
+      "treatment(p17, glazed)",
+      "available(p6)"
+    ],
+    [
+      "available(p6)",
+      "colour(p3, black)"
+    ],
+    [
+      "colour(p3, black)",
+      "available(p3)"
+    ],
+    [
+      "available(p3)",
+      "surface-condition(p30, smooth)"
+    ],
+    [
+      "surface-condition(p30, smooth)",
+      "available(p9)"
+    ],
+    [
+      "available(p9)",
+      "colour(p0, black)"
+    ],
+    [
+      "colour(p0, black)",
+      "colour(p21, black)"
+    ],
+    [
+      "colour(p21, black)",
+      "surface-condition(p6, verysmooth)"
+    ],
+    [
+      "surface-condition(p6, verysmooth)",
+      "colour(p12, mauve)"
+    ],
+    [
+      "colour(p12, mauve)",
+      "treatment(p5, glazed)"
+    ],
+    [
+      "treatment(p5, glazed)",
+      "available(p30)"
+    ],
+    [
+      "available(p30)",
+      "available(p20)"
+    ],
+    [
+      "available(p20)",
+      "treatment(p0, varnished)"
+    ],
+    [
+      "treatment(p0, varnished)",
+      "available(p17)"
+    ],
+    [
+      "available(p17)",
+      "surface-condition(p0, verysmooth)"
+    ],
+    [
+      "surface-condition(p0, verysmooth)",
+      "colour(p8, blue)"
+    ],
+    [
+      "colour(p8, blue)",
+      "available(p26)"
+    ],
+    [
+      "available(p26)",
+      "colour(p10, mauve)"
+    ],
+    [
+      "colour(p10, mauve)",
+      "surface-condition(p32, smooth)"
+    ],
+    [
+      "surface-condition(p32, smooth)",
+      "available(p4)"
+    ],
+    [
+      "available(p4)",
+      "wood(p25, pine)"
+    ],
+    [
+      "wood(p7, mahogany)",
+      "surface-condition(p24, verysmooth)"
+    ],
+    [
+      "surface-condition(p24, verysmooth)",
+      "wood(p7, mahogany)"
+    ],
+    [
+      "available(p2)",
+      "available(p7)"
+    ],
+    [
+      "available(p2)",
+      "wood(p8, mahogany)"
+    ],
+    [
+      "available(p7)",
+      "available(p2)"
+    ],
+    [
+      "available(p7)",
+      "wood(p8, mahogany)"
+    ],
+    [
+      "wood(p8, mahogany)",
+      "available(p2)"
+    ],
+    [
+      "wood(p8, mahogany)",
+      "available(p7)"
+    ],
+    [
+      "surface-condition(p12, verysmooth)",
+      "available(p16)"
+    ],
+    [
+      "available(p16)",
+      "surface-condition(p12, verysmooth)"
+    ],
+    [
+      "surface-condition(p3, smooth)",
+      "colour(p27, red)"
+    ],
+    [
+      "surface-condition(p3, smooth)",
+      "available(p28)"
+    ],
+    [
+      "surface-condition(p3, smooth)",
+      "surface-condition(p29, smooth)"
+    ],
+    [
+      "colour(p27, red)",
+      "surface-condition(p3, smooth)"
+    ],
+    [
+      "colour(p27, red)",
+      "available(p28)"
+    ],
+    [
+      "colour(p27, red)",
+      "surface-condition(p29, smooth)"
+    ],
+    [
+      "available(p28)",
+      "surface-condition(p3, smooth)"
+    ],
+    [
+      "available(p28)",
+      "colour(p27, red)"
+    ],
+    [
+      "available(p28)",
+      "surface-condition(p29, smooth)"
+    ],
+    [
+      "surface-condition(p29, smooth)",
+      "surface-condition(p3, smooth)"
+    ],
+    [
+      "surface-condition(p29, smooth)",
+      "colour(p27, red)"
+    ],
+    [
+      "surface-condition(p29, smooth)",
+      "available(p28)"
+    ],
+    [
+      "treatment(p4, varnished)",
+      "available(p5)"
+    ],
+    [
+      "available(p5)",
+      "treatment(p4, varnished)"
+    ],
+    [
+      "wood(p0, cherry)",
+      "available(p8)"
+    ],
+    [
+      "wood(p0, cherry)",
+      "available(p27)"
+    ],
+    [
+      "available(p8)",
+      "wood(p0, cherry)"
+    ],
+    [
+      "available(p8)",
+      "available(p27)"
+    ],
+    [
+      "available(p27)",
+      "wood(p0, cherry)"
+    ],
+    [
+      "available(p27)",
+      "available(p8)"
+    ],
+    [
+      "surface-condition(p2, smooth)",
+      "available(p22)"
+    ],
+    [
+      "surface-condition(p2, smooth)",
+      "available(p24)"
+    ],
+    [
+      "available(p22)",
+      "surface-condition(p2, smooth)"
+    ],
+    [
+      "available(p22)",
+      "available(p24)"
+    ],
+    [
+      "available(p24)",
+      "surface-condition(p2, smooth)"
+    ],
+    [
+      "available(p24)",
+      "available(p22)"
+    ],
+    [
+      "available(p15)",
+      "available(p31)"
+    ],
+    [
+      "available(p31)",
+      "available(p15)"
+    ],
+    [
+      "colour(p1, red)",
+      "wood(p31, cherry)"
+    ],
+    [
+      "wood(p31, cherry)",
+      "colour(p1, red)"
+    ],
+    [
+      "wood(p15, teak)",
+      "surface-condition(p17, smooth)"
+    ],
+    [
+      "wood(p15, teak)",
+      "colour(p22, white)"
+    ],
+    [
+      "surface-condition(p17, smooth)",
+      "wood(p15, teak)"
+    ],
+    [
+      "surface-condition(p17, smooth)",
+      "colour(p22, white)"
+    ],
+    [
+      "colour(p22, white)",
+      "wood(p15, teak)"
+    ],
+    [
+      "colour(p22, white)",
+      "surface-condition(p17, smooth)"
+    ],
+    [
+      "available(p1)",
+      "wood(p11, pine)"
+    ],
+    [
+      "wood(p11, pine)",
+      "available(p1)"
+    ],
+    [
+      "colour(p15, mauve)",
+      "treatment(p18, glazed)"
+    ],
+    [
+      "colour(p15, mauve)",
+      "colour(p30, green)"
+    ],
+    [
+      "treatment(p18, glazed)",
+      "colour(p15, mauve)"
+    ],
+    [
+      "treatment(p18, glazed)",
+      "colour(p30, green)"
+    ],
+    [
+      "colour(p30, green)",
+      "colour(p15, mauve)"
+    ],
+    [
+      "colour(p30, green)",
+      "treatment(p18, glazed)"
+    ],
+    [
+      "surface-condition(p7, verysmooth)",
+      "wood(p16, cherry)"
+    ],
+    [
+      "wood(p16, cherry)",
+      "surface-condition(p7, verysmooth)"
+    ],
+    [
+      "colour(p19, red)",
+      "available(p25)"
+    ],
+    [
+      "colour(p19, red)",
+      "wood(p32, pine)"
+    ],
+    [
+      "available(p25)",
+      "colour(p19, red)"
+    ],
+    [
+      "available(p25)",
+      "wood(p32, pine)"
+    ],
+    [
+      "wood(p32, pine)",
+      "colour(p19, red)"
+    ],
+    [
+      "wood(p32, pine)",
+      "available(p25)"
+    ],
+    [
+      "treatment(p16, varnished)",
+      "surface-condition(p25, verysmooth)"
+    ],
+    [
+      "surface-condition(p25, verysmooth)",
+      "treatment(p16, varnished)"
+    ],
+    [
+      "available(p10)",
+      "treatment(p31, varnished)"
+    ],
+    [
+      "treatment(p31, varnished)",
+      "available(p10)"
+    ],
+    [
+      "colour(p5, white)",
+      "treatment(p21, varnished)"
+    ],
+    [
+      "treatment(p21, varnished)",
+      "colour(p5, white)"
+    ],
+    [
+      "wood(p6, pine)",
+      "available(p14)"
+    ],
+    [
+      "available(p14)",
+      "wood(p6, pine)"
+    ],
+    [
+      "surface-condition(p4, verysmooth)",
+      "surface-condition(p27, smooth)"
+    ],
+    [
+      "surface-condition(p27, smooth)",
+      "surface-condition(p4, verysmooth)"
+    ],
+    [
+      "colour(p11, black)",
+      "colour(p20, black)"
+    ],
+    [
+      "colour(p11, black)",
+      "surface-condition(p31, verysmooth)"
+    ],
+    [
+      "colour(p20, black)",
+      "colour(p11, black)"
+    ],
+    [
+      "colour(p20, black)",
+      "surface-condition(p31, verysmooth)"
+    ],
+    [
+      "surface-condition(p31, verysmooth)",
+      "colour(p11, black)"
+    ],
+    [
+      "surface-condition(p31, verysmooth)",
+      "colour(p20, black)"
+    ],
+    [
+      "wood(p4, walnut)",
+      "surface-condition(p5, smooth)"
+    ],
+    [
+      "wood(p4, walnut)",
+      "available(p18)"
+    ],
+    [
+      "surface-condition(p5, smooth)",
+      "wood(p4, walnut)"
+    ],
+    [
+      "surface-condition(p5, smooth)",
+      "available(p18)"
+    ],
+    [
+      "available(p18)",
+      "wood(p4, walnut)"
+    ],
+    [
+      "available(p18)",
+      "surface-condition(p5, smooth)"
+    ],
+    [
+      "wood(p10, walnut)",
+      "available(p12)"
+    ],
+    [
+      "wood(p10, walnut)",
+      "wood(p14, beech)"
+    ],
+    [
+      "wood(p10, walnut)",
+      "treatment(p20, glazed)"
+    ],
+    [
+      "available(p12)",
+      "wood(p10, walnut)"
+    ],
+    [
+      "available(p12)",
+      "wood(p14, beech)"
+    ],
+    [
+      "available(p12)",
+      "treatment(p20, glazed)"
+    ],
+    [
+      "wood(p14, beech)",
+      "wood(p10, walnut)"
+    ],
+    [
+      "wood(p14, beech)",
+      "available(p12)"
+    ],
+    [
+      "wood(p14, beech)",
+      "treatment(p20, glazed)"
+    ],
+    [
+      "treatment(p20, glazed)",
+      "wood(p10, walnut)"
+    ],
+    [
+      "treatment(p20, glazed)",
+      "available(p12)"
+    ],
+    [
+      "treatment(p20, glazed)",
+      "wood(p14, beech)"
+    ],
+    [
+      "treatment(p17, glazed)",
+      "treatment(p28, glazed)"
+    ],
+    [
+      "treatment(p28, glazed)",
+      "treatment(p17, glazed)"
+    ],
+    [
+      "available(p6)",
+      "available(p13)"
+    ],
+    [
+      "available(p13)",
+      "available(p6)"
+    ],
+    [
+      "available(p3)",
+      "surface-condition(p28, smooth)"
+    ],
+    [
+      "surface-condition(p28, smooth)",
+      "available(p3)"
+    ],
+    [
+      "colour(p0, black)",
+      "colour(p18, green)"
+    ],
+    [
+      "colour(p18, green)",
+      "colour(p0, black)"
+    ],
+    [
+      "colour(p21, black)",
+      "treatment(p27, glazed)"
+    ],
+    [
+      "treatment(p27, glazed)",
+      "colour(p21, black)"
+    ],
+    [
+      "surface-condition(p6, verysmooth)",
+      "surface-condition(p19, smooth)"
+    ],
+    [
+      "surface-condition(p6, verysmooth)",
+      "treatment(p29, glazed)"
+    ],
+    [
+      "surface-condition(p19, smooth)",
+      "surface-condition(p6, verysmooth)"
+    ],
+    [
+      "surface-condition(p19, smooth)",
+      "treatment(p29, glazed)"
+    ],
+    [
+      "treatment(p29, glazed)",
+      "surface-condition(p6, verysmooth)"
+    ],
+    [
+      "treatment(p29, glazed)",
+      "surface-condition(p19, smooth)"
+    ],
+    [
+      "colour(p12, mauve)",
+      "colour(p24, mauve)"
+    ],
+    [
+      "colour(p24, mauve)",
+      "colour(p12, mauve)"
+    ],
+    [
+      "treatment(p5, glazed)",
+      "colour(p9, natural)"
+    ],
+    [
+      "treatment(p5, glazed)",
+      "treatment(p23, glazed)"
+    ],
+    [
+      "treatment(p5, glazed)",
+      "treatment(p25, glazed)"
+    ],
+    [
+      "colour(p9, natural)",
+      "treatment(p5, glazed)"
+    ],
+    [
+      "colour(p9, natural)",
+      "treatment(p23, glazed)"
+    ],
+    [
+      "colour(p9, natural)",
+      "treatment(p25, glazed)"
+    ],
+    [
+      "treatment(p23, glazed)",
+      "treatment(p5, glazed)"
+    ],
+    [
+      "treatment(p23, glazed)",
+      "colour(p9, natural)"
+    ],
+    [
+      "treatment(p23, glazed)",
+      "treatment(p25, glazed)"
+    ],
+    [
+      "treatment(p25, glazed)",
+      "treatment(p5, glazed)"
+    ],
+    [
+      "treatment(p25, glazed)",
+      "colour(p9, natural)"
+    ],
+    [
+      "treatment(p25, glazed)",
+      "treatment(p23, glazed)"
+    ],
+    [
+      "treatment(p0, varnished)",
+      "available(p19)"
+    ],
+    [
+      "available(p19)",
+      "treatment(p0, varnished)"
+    ],
+    [
+      "surface-condition(p0, verysmooth)",
+      "wood(p26, walnut)"
+    ],
+    [
+      "surface-condition(p0, verysmooth)",
+      "wood(p29, oak)"
+    ],
+    [
+      "wood(p26, walnut)",
+      "surface-condition(p0, verysmooth)"
+    ],
+    [
+      "wood(p26, walnut)",
+      "wood(p29, oak)"
+    ],
+    [
+      "wood(p29, oak)",
+      "surface-condition(p0, verysmooth)"
+    ],
+    [
+      "wood(p29, oak)",
+      "wood(p26, walnut)"
+    ],
+    [
+      "colour(p8, blue)",
+      "surface-condition(p23, verysmooth)"
+    ],
+    [
+      "colour(p8, blue)",
+      "treatment(p26, glazed)"
+    ],
+    [
+      "colour(p8, blue)",
+      "treatment(p30, varnished)"
+    ],
+    [
+      "colour(p8, blue)",
+      "available(p32)"
+    ],
+    [
+      "surface-condition(p23, verysmooth)",
+      "colour(p8, blue)"
+    ],
+    [
+      "surface-condition(p23, verysmooth)",
+      "treatment(p26, glazed)"
+    ],
+    [
+      "surface-condition(p23, verysmooth)",
+      "treatment(p30, varnished)"
+    ],
+    [
+      "surface-condition(p23, verysmooth)",
+      "available(p32)"
+    ],
+    [
+      "treatment(p26, glazed)",
+      "colour(p8, blue)"
+    ],
+    [
+      "treatment(p26, glazed)",
+      "surface-condition(p23, verysmooth)"
+    ],
+    [
+      "treatment(p26, glazed)",
+      "treatment(p30, varnished)"
+    ],
+    [
+      "treatment(p26, glazed)",
+      "available(p32)"
+    ],
+    [
+      "treatment(p30, varnished)",
+      "colour(p8, blue)"
+    ],
+    [
+      "treatment(p30, varnished)",
+      "surface-condition(p23, verysmooth)"
+    ],
+    [
+      "treatment(p30, varnished)",
+      "treatment(p26, glazed)"
+    ],
+    [
+      "treatment(p30, varnished)",
+      "available(p32)"
+    ],
+    [
+      "available(p32)",
+      "colour(p8, blue)"
+    ],
+    [
+      "available(p32)",
+      "surface-condition(p23, verysmooth)"
+    ],
+    [
+      "available(p32)",
+      "treatment(p26, glazed)"
+    ],
+    [
+      "available(p32)",
+      "treatment(p30, varnished)"
+    ],
+    [
+      "colour(p10, mauve)",
+      "surface-condition(p15, smooth)"
+    ],
+    [
+      "surface-condition(p15, smooth)",
+      "colour(p10, mauve)"
+    ],
+    [
+      "wood(p25, pine)",
+      "available(p29)"
+    ],
+    [
+      "available(p29)",
+      "wood(p25, pine)"
+    ]
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "partial_order": [
+    [
+      "on(B10, A3)",
+      "on(B10, A3)"
+    ],
+    [
+      "on(B12, A1)",
+      "on(B12, A1)"
+    ],
+    [
+      "normal(S12)",
+      "normal(S12)"
+    ],
+    [
+      "normal(S13)",
+      "normal(S13)"
+    ],
+    [
+      "normal(S34)",
+      "normal(S34)"
+    ],
+    [
+      "normal(S23)",
+      "normal(S23)"
+    ],
+    [
+      "normal(S15)",
+      "normal(S15)"
+    ],
+    [
+      "on(B12, A1)",
+      "on(B10, A3)"
+    ],
+    [
+      "on(B10, A3)",
+      "normal(S34)"
+    ],
+    [
+      "normal(S34)",
+      "normal(S13)"
+    ],
+    [
+      "on(B10, A3)",
+      "normal(S12)"
+    ],
+    [
+      "on(B10, A3)",
+      "normal(S15)"
+    ],
+    [
+      "normal(S12)",
+      "on(B10, A3)"
+    ],
+    [
+      "normal(S12)",
+      "normal(S15)"
+    ],
+    [
+      "normal(S15)",
+      "on(B10, A3)"
+    ],
+    [
+      "normal(S15)",
+      "normal(S12)"
+    ],
+    [
+      "normal(S34)",
+      "normal(S23)"
+    ],
+    [
+      "normal(S23)",
+      "normal(S34)"
+    ]
+  ]
+}

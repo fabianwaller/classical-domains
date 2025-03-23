@@ -1,0 +1,104 @@
+{
+  "partial_order": [
+    [
+      "is-parked(airplane_CFBEG, seg_p104_0_76)",
+      "is-parked(airplane_CFBEG, seg_p104_0_76)"
+    ],
+    [
+      "is-parked(airplane_CFBE1, seg_p116_0_76)",
+      "is-parked(airplane_CFBE1, seg_p116_0_76)"
+    ],
+    [
+      "airborne(airplane_DAEW8, seg_08r_0_80)",
+      "airborne(airplane_DAEW8, seg_08r_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW9, seg_08r_0_80)",
+      "airborne(airplane_DAEW9, seg_08r_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW0, seg_08l_0_80)",
+      "airborne(airplane_DAEW0, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW3, seg_08l_0_80)",
+      "airborne(airplane_DAEW3, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEWH, seg_08l_0_80)",
+      "airborne(airplane_DAEWH, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW1, seg_08l_0_80)",
+      "airborne(airplane_DAEW1, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW2, seg_08r_0_80)",
+      "airborne(airplane_DAEW2, seg_08r_0_80)"
+    ],
+    [
+      "is-parked(airplane_CFBEG, seg_p104_0_76)",
+      "is-parked(airplane_CFBE1, seg_p116_0_76)"
+    ],
+    [
+      "is-parked(airplane_CFBE1, seg_p116_0_76)",
+      "airborne(airplane_DAEW9, seg_08r_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW9, seg_08r_0_80)",
+      "airborne(airplane_DAEW2, seg_08r_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW2, seg_08r_0_80)",
+      "airborne(airplane_DAEW8, seg_08r_0_80)"
+    ],
+    [
+      "is-parked(airplane_CFBEG, seg_p104_0_76)",
+      "airborne(airplane_DAEWH, seg_08l_0_80)"
+    ],
+    [
+      "is-parked(airplane_CFBEG, seg_p104_0_76)",
+      "airborne(airplane_DAEW1, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEWH, seg_08l_0_80)",
+      "is-parked(airplane_CFBEG, seg_p104_0_76)"
+    ],
+    [
+      "airborne(airplane_DAEWH, seg_08l_0_80)",
+      "airborne(airplane_DAEW1, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW1, seg_08l_0_80)",
+      "is-parked(airplane_CFBEG, seg_p104_0_76)"
+    ],
+    [
+      "airborne(airplane_DAEW1, seg_08l_0_80)",
+      "airborne(airplane_DAEWH, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW8, seg_08r_0_80)",
+      "airborne(airplane_DAEW0, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW8, seg_08r_0_80)",
+      "airborne(airplane_DAEW3, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW0, seg_08l_0_80)",
+      "airborne(airplane_DAEW8, seg_08r_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW0, seg_08l_0_80)",
+      "airborne(airplane_DAEW3, seg_08l_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW3, seg_08l_0_80)",
+      "airborne(airplane_DAEW8, seg_08r_0_80)"
+    ],
+    [
+      "airborne(airplane_DAEW3, seg_08l_0_80)",
+      "airborne(airplane_DAEW0, seg_08l_0_80)"
+    ]
+  ]
+}

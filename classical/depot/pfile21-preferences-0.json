@@ -1,0 +1,116 @@
+{
+  "partial_order": [
+    [
+      "on(crate0, pallet2)",
+      "on(crate0, pallet2)"
+    ],
+    [
+      "on(crate1, pallet7)",
+      "on(crate1, pallet7)"
+    ],
+    [
+      "on(crate2, pallet11)",
+      "on(crate2, pallet11)"
+    ],
+    [
+      "on(crate3, pallet3)",
+      "on(crate3, pallet3)"
+    ],
+    [
+      "on(crate5, pallet5)",
+      "on(crate5, pallet5)"
+    ],
+    [
+      "on(crate6, pallet12)",
+      "on(crate6, pallet12)"
+    ],
+    [
+      "on(crate7, pallet18)",
+      "on(crate7, pallet18)"
+    ],
+    [
+      "on(crate8, pallet15)",
+      "on(crate8, pallet15)"
+    ],
+    [
+      "on(crate1, pallet7)",
+      "on(crate0, pallet2)"
+    ],
+    [
+      "on(crate0, pallet2)",
+      "on(crate3, pallet3)"
+    ],
+    [
+      "on(crate1, pallet7)",
+      "on(crate2, pallet11)"
+    ],
+    [
+      "on(crate1, pallet7)",
+      "on(crate5, pallet5)"
+    ],
+    [
+      "on(crate2, pallet11)",
+      "on(crate1, pallet7)"
+    ],
+    [
+      "on(crate2, pallet11)",
+      "on(crate5, pallet5)"
+    ],
+    [
+      "on(crate5, pallet5)",
+      "on(crate1, pallet7)"
+    ],
+    [
+      "on(crate5, pallet5)",
+      "on(crate2, pallet11)"
+    ],
+    [
+      "on(crate0, pallet2)",
+      "on(crate6, pallet12)"
+    ],
+    [
+      "on(crate0, pallet2)",
+      "on(crate7, pallet18)"
+    ],
+    [
+      "on(crate0, pallet2)",
+      "on(crate8, pallet15)"
+    ],
+    [
+      "on(crate6, pallet12)",
+      "on(crate0, pallet2)"
+    ],
+    [
+      "on(crate6, pallet12)",
+      "on(crate7, pallet18)"
+    ],
+    [
+      "on(crate6, pallet12)",
+      "on(crate8, pallet15)"
+    ],
+    [
+      "on(crate7, pallet18)",
+      "on(crate0, pallet2)"
+    ],
+    [
+      "on(crate7, pallet18)",
+      "on(crate6, pallet12)"
+    ],
+    [
+      "on(crate7, pallet18)",
+      "on(crate8, pallet15)"
+    ],
+    [
+      "on(crate8, pallet15)",
+      "on(crate0, pallet2)"
+    ],
+    [
+      "on(crate8, pallet15)",
+      "on(crate6, pallet12)"
+    ],
+    [
+      "on(crate8, pallet15)",
+      "on(crate7, pallet18)"
+    ]
+  ]
+}

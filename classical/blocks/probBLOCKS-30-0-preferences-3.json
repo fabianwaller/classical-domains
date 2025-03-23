@@ -1,0 +1,324 @@
+{
+  "partial_order": [
+    [
+      "ON(C1, I)",
+      "ON(C1, I)"
+    ],
+    [
+      "ON(I, X)",
+      "ON(I, X)"
+    ],
+    [
+      "ON(X, H)",
+      "ON(X, H)"
+    ],
+    [
+      "ON(H, U)",
+      "ON(H, U)"
+    ],
+    [
+      "ON(U, B1)",
+      "ON(U, B1)"
+    ],
+    [
+      "ON(B1, K)",
+      "ON(B1, K)"
+    ],
+    [
+      "ON(K, A)",
+      "ON(K, A)"
+    ],
+    [
+      "ON(A, N)",
+      "ON(A, N)"
+    ],
+    [
+      "ON(N, D)",
+      "ON(N, D)"
+    ],
+    [
+      "ON(D, E)",
+      "ON(D, E)"
+    ],
+    [
+      "ON(E, O)",
+      "ON(E, O)"
+    ],
+    [
+      "ON(O, R)",
+      "ON(O, R)"
+    ],
+    [
+      "ON(R, V)",
+      "ON(R, V)"
+    ],
+    [
+      "ON(V, D1)",
+      "ON(V, D1)"
+    ],
+    [
+      "ON(D1, F)",
+      "ON(D1, F)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(J, T)",
+      "ON(J, T)"
+    ],
+    [
+      "ON(T, M)",
+      "ON(T, M)"
+    ],
+    [
+      "ON(M, P)",
+      "ON(M, P)"
+    ],
+    [
+      "ON(P, S)",
+      "ON(P, S)"
+    ],
+    [
+      "ON(S, A1)",
+      "ON(S, A1)"
+    ],
+    [
+      "ON(A1, Y)",
+      "ON(A1, Y)"
+    ],
+    [
+      "ON(Y, Z)",
+      "ON(Y, Z)"
+    ],
+    [
+      "ON(Z, C)",
+      "ON(Z, C)"
+    ],
+    [
+      "ON(C, W)",
+      "ON(C, W)"
+    ],
+    [
+      "ON(W, G)",
+      "ON(W, G)"
+    ],
+    [
+      "ON(G, Q)",
+      "ON(G, Q)"
+    ],
+    [
+      "ON(Q, B)",
+      "ON(Q, B)"
+    ],
+    [
+      "ON(B, L)",
+      "ON(B, L)"
+    ],
+    [
+      "ON(A, N)",
+      "ON(I, X)"
+    ],
+    [
+      "ON(I, X)",
+      "ON(J, T)"
+    ],
+    [
+      "ON(J, T)",
+      "ON(C1, I)"
+    ],
+    [
+      "ON(C1, I)",
+      "ON(K, A)"
+    ],
+    [
+      "ON(K, A)",
+      "ON(M, P)"
+    ],
+    [
+      "ON(M, P)",
+      "ON(R, V)"
+    ],
+    [
+      "ON(R, V)",
+      "ON(A1, Y)"
+    ],
+    [
+      "ON(A1, Y)",
+      "ON(X, H)"
+    ],
+    [
+      "ON(X, H)",
+      "ON(T, M)"
+    ],
+    [
+      "ON(T, M)",
+      "ON(W, G)"
+    ],
+    [
+      "ON(W, G)",
+      "ON(B1, K)"
+    ],
+    [
+      "ON(B1, K)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(H, U)"
+    ],
+    [
+      "ON(H, U)",
+      "ON(E, O)"
+    ],
+    [
+      "ON(E, O)",
+      "ON(Z, C)"
+    ],
+    [
+      "ON(Z, C)",
+      "ON(B, L)"
+    ],
+    [
+      "ON(B, L)",
+      "ON(N, D)"
+    ],
+    [
+      "ON(A, N)",
+      "ON(V, D1)"
+    ],
+    [
+      "ON(A, N)",
+      "ON(Y, Z)"
+    ],
+    [
+      "ON(V, D1)",
+      "ON(A, N)"
+    ],
+    [
+      "ON(V, D1)",
+      "ON(Y, Z)"
+    ],
+    [
+      "ON(Y, Z)",
+      "ON(A, N)"
+    ],
+    [
+      "ON(Y, Z)",
+      "ON(V, D1)"
+    ],
+    [
+      "ON(I, X)",
+      "ON(S, A1)"
+    ],
+    [
+      "ON(I, X)",
+      "ON(C, W)"
+    ],
+    [
+      "ON(S, A1)",
+      "ON(I, X)"
+    ],
+    [
+      "ON(S, A1)",
+      "ON(C, W)"
+    ],
+    [
+      "ON(C, W)",
+      "ON(I, X)"
+    ],
+    [
+      "ON(C, W)",
+      "ON(S, A1)"
+    ],
+    [
+      "ON(C1, I)",
+      "ON(U, B1)"
+    ],
+    [
+      "ON(C1, I)",
+      "ON(D1, F)"
+    ],
+    [
+      "ON(U, B1)",
+      "ON(C1, I)"
+    ],
+    [
+      "ON(U, B1)",
+      "ON(D1, F)"
+    ],
+    [
+      "ON(D1, F)",
+      "ON(C1, I)"
+    ],
+    [
+      "ON(D1, F)",
+      "ON(U, B1)"
+    ],
+    [
+      "ON(K, A)",
+      "ON(D, E)"
+    ],
+    [
+      "ON(K, A)",
+      "ON(O, R)"
+    ],
+    [
+      "ON(K, A)",
+      "ON(Q, B)"
+    ],
+    [
+      "ON(D, E)",
+      "ON(K, A)"
+    ],
+    [
+      "ON(D, E)",
+      "ON(O, R)"
+    ],
+    [
+      "ON(D, E)",
+      "ON(Q, B)"
+    ],
+    [
+      "ON(O, R)",
+      "ON(K, A)"
+    ],
+    [
+      "ON(O, R)",
+      "ON(D, E)"
+    ],
+    [
+      "ON(O, R)",
+      "ON(Q, B)"
+    ],
+    [
+      "ON(Q, B)",
+      "ON(K, A)"
+    ],
+    [
+      "ON(Q, B)",
+      "ON(D, E)"
+    ],
+    [
+      "ON(Q, B)",
+      "ON(O, R)"
+    ],
+    [
+      "ON(W, G)",
+      "ON(G, Q)"
+    ],
+    [
+      "ON(G, Q)",
+      "ON(W, G)"
+    ],
+    [
+      "ON(B1, K)",
+      "ON(P, S)"
+    ],
+    [
+      "ON(P, S)",
+      "ON(B1, K)"
+    ]
+  ]
+}

@@ -1,0 +1,288 @@
+{
+  "partial_order": [
+    [
+      "pointing(satellite0, Planet21)",
+      "pointing(satellite0, Planet21)"
+    ],
+    [
+      "pointing(satellite2, Star14)",
+      "pointing(satellite2, Star14)"
+    ],
+    [
+      "pointing(satellite5, Planet17)",
+      "pointing(satellite5, Planet17)"
+    ],
+    [
+      "have_image(Phenomenon5, image1)",
+      "have_image(Phenomenon5, image1)"
+    ],
+    [
+      "have_image(Phenomenon7, thermograph0)",
+      "have_image(Phenomenon7, thermograph0)"
+    ],
+    [
+      "have_image(Planet8, image2)",
+      "have_image(Planet8, image2)"
+    ],
+    [
+      "have_image(Star9, thermograph0)",
+      "have_image(Star9, thermograph0)"
+    ],
+    [
+      "have_image(Star10, thermograph3)",
+      "have_image(Star10, thermograph3)"
+    ],
+    [
+      "have_image(Phenomenon12, thermograph0)",
+      "have_image(Phenomenon12, thermograph0)"
+    ],
+    [
+      "have_image(Phenomenon13, image1)",
+      "have_image(Phenomenon13, image1)"
+    ],
+    [
+      "have_image(Star14, thermograph4)",
+      "have_image(Star14, thermograph4)"
+    ],
+    [
+      "have_image(Planet15, image2)",
+      "have_image(Planet15, image2)"
+    ],
+    [
+      "have_image(Planet17, image2)",
+      "have_image(Planet17, image2)"
+    ],
+    [
+      "have_image(Phenomenon18, image1)",
+      "have_image(Phenomenon18, image1)"
+    ],
+    [
+      "have_image(Star19, thermograph4)",
+      "have_image(Star19, thermograph4)"
+    ],
+    [
+      "have_image(Star20, thermograph4)",
+      "have_image(Star20, thermograph4)"
+    ],
+    [
+      "have_image(Planet21, thermograph0)",
+      "have_image(Planet21, thermograph0)"
+    ],
+    [
+      "have_image(Star22, thermograph3)",
+      "have_image(Star22, thermograph3)"
+    ],
+    [
+      "have_image(Planet23, image1)",
+      "have_image(Planet23, image1)"
+    ],
+    [
+      "pointing(satellite2, Star14)",
+      "have_image(Phenomenon12, thermograph0)"
+    ],
+    [
+      "have_image(Phenomenon12, thermograph0)",
+      "have_image(Phenomenon7, thermograph0)"
+    ],
+    [
+      "have_image(Phenomenon7, thermograph0)",
+      "have_image(Planet8, image2)"
+    ],
+    [
+      "have_image(Planet8, image2)",
+      "pointing(satellite0, Planet21)"
+    ],
+    [
+      "pointing(satellite0, Planet21)",
+      "pointing(satellite5, Planet17)"
+    ],
+    [
+      "pointing(satellite5, Planet17)",
+      "have_image(Star20, thermograph4)"
+    ],
+    [
+      "pointing(satellite2, Star14)",
+      "have_image(Star14, thermograph4)"
+    ],
+    [
+      "pointing(satellite2, Star14)",
+      "have_image(Planet21, thermograph0)"
+    ],
+    [
+      "have_image(Star14, thermograph4)",
+      "pointing(satellite2, Star14)"
+    ],
+    [
+      "have_image(Star14, thermograph4)",
+      "have_image(Planet21, thermograph0)"
+    ],
+    [
+      "have_image(Planet21, thermograph0)",
+      "pointing(satellite2, Star14)"
+    ],
+    [
+      "have_image(Planet21, thermograph0)",
+      "have_image(Star14, thermograph4)"
+    ],
+    [
+      "have_image(Phenomenon7, thermograph0)",
+      "have_image(Phenomenon13, image1)"
+    ],
+    [
+      "have_image(Phenomenon7, thermograph0)",
+      "have_image(Star19, thermograph4)"
+    ],
+    [
+      "have_image(Phenomenon13, image1)",
+      "have_image(Phenomenon7, thermograph0)"
+    ],
+    [
+      "have_image(Phenomenon13, image1)",
+      "have_image(Star19, thermograph4)"
+    ],
+    [
+      "have_image(Star19, thermograph4)",
+      "have_image(Phenomenon7, thermograph0)"
+    ],
+    [
+      "have_image(Star19, thermograph4)",
+      "have_image(Phenomenon13, image1)"
+    ],
+    [
+      "have_image(Planet8, image2)",
+      "have_image(Planet23, image1)"
+    ],
+    [
+      "have_image(Planet23, image1)",
+      "have_image(Planet8, image2)"
+    ],
+    [
+      "pointing(satellite0, Planet21)",
+      "have_image(Planet15, image2)"
+    ],
+    [
+      "pointing(satellite0, Planet21)",
+      "have_image(Planet17, image2)"
+    ],
+    [
+      "pointing(satellite0, Planet21)",
+      "have_image(Phenomenon18, image1)"
+    ],
+    [
+      "have_image(Planet15, image2)",
+      "pointing(satellite0, Planet21)"
+    ],
+    [
+      "have_image(Planet15, image2)",
+      "have_image(Planet17, image2)"
+    ],
+    [
+      "have_image(Planet15, image2)",
+      "have_image(Phenomenon18, image1)"
+    ],
+    [
+      "have_image(Planet17, image2)",
+      "pointing(satellite0, Planet21)"
+    ],
+    [
+      "have_image(Planet17, image2)",
+      "have_image(Planet15, image2)"
+    ],
+    [
+      "have_image(Planet17, image2)",
+      "have_image(Phenomenon18, image1)"
+    ],
+    [
+      "have_image(Phenomenon18, image1)",
+      "pointing(satellite0, Planet21)"
+    ],
+    [
+      "have_image(Phenomenon18, image1)",
+      "have_image(Planet15, image2)"
+    ],
+    [
+      "have_image(Phenomenon18, image1)",
+      "have_image(Planet17, image2)"
+    ],
+    [
+      "pointing(satellite5, Planet17)",
+      "have_image(Phenomenon5, image1)"
+    ],
+    [
+      "pointing(satellite5, Planet17)",
+      "have_image(Star9, thermograph0)"
+    ],
+    [
+      "pointing(satellite5, Planet17)",
+      "have_image(Star10, thermograph3)"
+    ],
+    [
+      "pointing(satellite5, Planet17)",
+      "have_image(Star22, thermograph3)"
+    ],
+    [
+      "have_image(Phenomenon5, image1)",
+      "pointing(satellite5, Planet17)"
+    ],
+    [
+      "have_image(Phenomenon5, image1)",
+      "have_image(Star9, thermograph0)"
+    ],
+    [
+      "have_image(Phenomenon5, image1)",
+      "have_image(Star10, thermograph3)"
+    ],
+    [
+      "have_image(Phenomenon5, image1)",
+      "have_image(Star22, thermograph3)"
+    ],
+    [
+      "have_image(Star9, thermograph0)",
+      "pointing(satellite5, Planet17)"
+    ],
+    [
+      "have_image(Star9, thermograph0)",
+      "have_image(Phenomenon5, image1)"
+    ],
+    [
+      "have_image(Star9, thermograph0)",
+      "have_image(Star10, thermograph3)"
+    ],
+    [
+      "have_image(Star9, thermograph0)",
+      "have_image(Star22, thermograph3)"
+    ],
+    [
+      "have_image(Star10, thermograph3)",
+      "pointing(satellite5, Planet17)"
+    ],
+    [
+      "have_image(Star10, thermograph3)",
+      "have_image(Phenomenon5, image1)"
+    ],
+    [
+      "have_image(Star10, thermograph3)",
+      "have_image(Star9, thermograph0)"
+    ],
+    [
+      "have_image(Star10, thermograph3)",
+      "have_image(Star22, thermograph3)"
+    ],
+    [
+      "have_image(Star22, thermograph3)",
+      "pointing(satellite5, Planet17)"
+    ],
+    [
+      "have_image(Star22, thermograph3)",
+      "have_image(Phenomenon5, image1)"
+    ],
+    [
+      "have_image(Star22, thermograph3)",
+      "have_image(Star9, thermograph0)"
+    ],
+    [
+      "have_image(Star22, thermograph3)",
+      "have_image(Star10, thermograph3)"
+    ]
+  ]
+}

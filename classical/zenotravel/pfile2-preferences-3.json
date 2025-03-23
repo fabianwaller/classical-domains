@@ -1,0 +1,28 @@
+{
+  "partial_order": [
+    [
+      "at(plane1, city2)",
+      "at(plane1, city2)"
+    ],
+    [
+      "at(person1, city1)",
+      "at(person1, city1)"
+    ],
+    [
+      "at(person3, city2)",
+      "at(person3, city2)"
+    ],
+    [
+      "at(plane1, city2)",
+      "at(person3, city2)"
+    ],
+    [
+      "at(plane1, city2)",
+      "at(person1, city1)"
+    ],
+    [
+      "at(person1, city1)",
+      "at(plane1, city2)"
+    ]
+  ]
+}

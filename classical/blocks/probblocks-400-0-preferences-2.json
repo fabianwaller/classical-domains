@@ -1,0 +1,4360 @@
+{
+  "partial_order": [
+    [
+      "ONTABLE(GH)",
+      "ONTABLE(GH)"
+    ],
+    [
+      "ONTABLE(IN)",
+      "ONTABLE(IN)"
+    ],
+    [
+      "ONTABLE(MA)",
+      "ONTABLE(MA)"
+    ],
+    [
+      "ONTABLE(PJ)",
+      "ONTABLE(PJ)"
+    ],
+    [
+      "ON(ML, IE)",
+      "ON(ML, IE)"
+    ],
+    [
+      "ON(IE, CQ)",
+      "ON(IE, CQ)"
+    ],
+    [
+      "ON(CQ, MK)",
+      "ON(CQ, MK)"
+    ],
+    [
+      "ON(MK, HH)",
+      "ON(MK, HH)"
+    ],
+    [
+      "ON(HH, NP)",
+      "ON(HH, NP)"
+    ],
+    [
+      "ON(NP, DF)",
+      "ON(NP, DF)"
+    ],
+    [
+      "ON(DF, NT)",
+      "ON(DF, NT)"
+    ],
+    [
+      "ON(NT, FX)",
+      "ON(NT, FX)"
+    ],
+    [
+      "ON(FX, AE)",
+      "ON(FX, AE)"
+    ],
+    [
+      "ON(AE, HT)",
+      "ON(AE, HT)"
+    ],
+    [
+      "ON(HT, HG)",
+      "ON(HT, HG)"
+    ],
+    [
+      "ON(HG, PC)",
+      "ON(HG, PC)"
+    ],
+    [
+      "ON(PC, GU)",
+      "ON(PC, GU)"
+    ],
+    [
+      "ON(GU, ES)",
+      "ON(GU, ES)"
+    ],
+    [
+      "ON(ES, JX)",
+      "ON(ES, JX)"
+    ],
+    [
+      "ON(JX, GK)",
+      "ON(JX, GK)"
+    ],
+    [
+      "ON(GK, OL)",
+      "ON(GK, OL)"
+    ],
+    [
+      "ON(OL, DI)",
+      "ON(OL, DI)"
+    ],
+    [
+      "ON(DI, LM)",
+      "ON(DI, LM)"
+    ],
+    [
+      "ON(LM, GB)",
+      "ON(LM, GB)"
+    ],
+    [
+      "ON(GB, CM)",
+      "ON(GB, CM)"
+    ],
+    [
+      "ON(CM, DN)",
+      "ON(CM, DN)"
+    ],
+    [
+      "ON(DN, KF)",
+      "ON(DN, KF)"
+    ],
+    [
+      "ON(KF, BB)",
+      "ON(KF, BB)"
+    ],
+    [
+      "ON(BB, CZ)",
+      "ON(BB, CZ)"
+    ],
+    [
+      "ON(CZ, JW)",
+      "ON(CZ, JW)"
+    ],
+    [
+      "ON(JW, LB)",
+      "ON(JW, LB)"
+    ],
+    [
+      "ON(LB, LR)",
+      "ON(LB, LR)"
+    ],
+    [
+      "ON(LR, DT)",
+      "ON(LR, DT)"
+    ],
+    [
+      "ON(DT, GC)",
+      "ON(DT, GC)"
+    ],
+    [
+      "ON(GC, ON)",
+      "ON(GC, ON)"
+    ],
+    [
+      "ON(ON, DZ)",
+      "ON(ON, DZ)"
+    ],
+    [
+      "ON(DZ, DS)",
+      "ON(DZ, DS)"
+    ],
+    [
+      "ON(DS, LW)",
+      "ON(DS, LW)"
+    ],
+    [
+      "ON(LW, LI)",
+      "ON(LW, LI)"
+    ],
+    [
+      "ON(LI, CT)",
+      "ON(LI, CT)"
+    ],
+    [
+      "ON(CT, CS)",
+      "ON(CT, CS)"
+    ],
+    [
+      "ON(CS, AK)",
+      "ON(CS, AK)"
+    ],
+    [
+      "ON(AK, IV)",
+      "ON(AK, IV)"
+    ],
+    [
+      "ON(IV, MG)",
+      "ON(IV, MG)"
+    ],
+    [
+      "ON(MG, LX)",
+      "ON(MG, LX)"
+    ],
+    [
+      "ON(LX, EO)",
+      "ON(LX, EO)"
+    ],
+    [
+      "ON(EO, CH)",
+      "ON(EO, CH)"
+    ],
+    [
+      "ON(CH, BM)",
+      "ON(CH, BM)"
+    ],
+    [
+      "ON(BM, NF)",
+      "ON(BM, NF)"
+    ],
+    [
+      "ON(NF, LJ)",
+      "ON(NF, LJ)"
+    ],
+    [
+      "ON(LJ, DL)",
+      "ON(LJ, DL)"
+    ],
+    [
+      "ON(DL, KW)",
+      "ON(DL, KW)"
+    ],
+    [
+      "ON(KW, CY)",
+      "ON(KW, CY)"
+    ],
+    [
+      "ON(CY, GA)",
+      "ON(CY, GA)"
+    ],
+    [
+      "ON(GA, LA)",
+      "ON(GA, LA)"
+    ],
+    [
+      "ON(LA, GR)",
+      "ON(LA, GR)"
+    ],
+    [
+      "ON(GR, JV)",
+      "ON(GR, JV)"
+    ],
+    [
+      "ON(JV, HY)",
+      "ON(JV, HY)"
+    ],
+    [
+      "ON(HY, KR)",
+      "ON(HY, KR)"
+    ],
+    [
+      "ON(KR, FB)",
+      "ON(KR, FB)"
+    ],
+    [
+      "ON(FB, HS)",
+      "ON(FB, HS)"
+    ],
+    [
+      "ON(HS, MD)",
+      "ON(HS, MD)"
+    ],
+    [
+      "ON(MD, CW)",
+      "ON(MD, CW)"
+    ],
+    [
+      "ON(CW, DO)",
+      "ON(CW, DO)"
+    ],
+    [
+      "ON(DO, BS)",
+      "ON(DO, BS)"
+    ],
+    [
+      "ON(BS, FT)",
+      "ON(BS, FT)"
+    ],
+    [
+      "ON(FT, JK)",
+      "ON(FT, JK)"
+    ],
+    [
+      "ON(JK, JY)",
+      "ON(JK, JY)"
+    ],
+    [
+      "ON(JY, CG)",
+      "ON(JY, CG)"
+    ],
+    [
+      "ON(CG, LU)",
+      "ON(CG, LU)"
+    ],
+    [
+      "ON(LU, OG)",
+      "ON(LU, OG)"
+    ],
+    [
+      "ON(OG, HU)",
+      "ON(OG, HU)"
+    ],
+    [
+      "ON(HU, BY)",
+      "ON(HU, BY)"
+    ],
+    [
+      "ON(BY, AT)",
+      "ON(BY, AT)"
+    ],
+    [
+      "ON(AT, HO)",
+      "ON(AT, HO)"
+    ],
+    [
+      "ON(HO, FE)",
+      "ON(HO, FE)"
+    ],
+    [
+      "ON(FE, AC)",
+      "ON(FE, AC)"
+    ],
+    [
+      "ON(AC, NQ)",
+      "ON(AC, NQ)"
+    ],
+    [
+      "ON(NQ, IK)",
+      "ON(NQ, IK)"
+    ],
+    [
+      "ON(IK, NL)",
+      "ON(IK, NL)"
+    ],
+    [
+      "ON(NL, LE)",
+      "ON(NL, LE)"
+    ],
+    [
+      "ON(LE, AN)",
+      "ON(LE, AN)"
+    ],
+    [
+      "ON(AN, FF)",
+      "ON(AN, FF)"
+    ],
+    [
+      "ON(FF, HJ)",
+      "ON(FF, HJ)"
+    ],
+    [
+      "ON(HJ, DK)",
+      "ON(HJ, DK)"
+    ],
+    [
+      "ON(DK, OK)",
+      "ON(DK, OK)"
+    ],
+    [
+      "ON(OK, JD)",
+      "ON(OK, JD)"
+    ],
+    [
+      "ON(JD, HW)",
+      "ON(JD, HW)"
+    ],
+    [
+      "ON(HW, PH)",
+      "ON(HW, PH)"
+    ],
+    [
+      "ON(PH, HK)",
+      "ON(PH, HK)"
+    ],
+    [
+      "ON(HK, JE)",
+      "ON(HK, JE)"
+    ],
+    [
+      "ON(JE, FY)",
+      "ON(JE, FY)"
+    ],
+    [
+      "ON(FY, AB)",
+      "ON(FY, AB)"
+    ],
+    [
+      "ON(AB, ID)",
+      "ON(AB, ID)"
+    ],
+    [
+      "ON(ID, OP)",
+      "ON(ID, OP)"
+    ],
+    [
+      "ON(OP, PA)",
+      "ON(OP, PA)"
+    ],
+    [
+      "ON(PA, ET)",
+      "ON(PA, ET)"
+    ],
+    [
+      "ON(ET, JQ)",
+      "ON(ET, JQ)"
+    ],
+    [
+      "ON(JQ, EH)",
+      "ON(JQ, EH)"
+    ],
+    [
+      "ON(EH, DU)",
+      "ON(EH, DU)"
+    ],
+    [
+      "ON(DU, NY)",
+      "ON(DU, NY)"
+    ],
+    [
+      "ON(NY, BH)",
+      "ON(NY, BH)"
+    ],
+    [
+      "ON(BH, OQ)",
+      "ON(BH, OQ)"
+    ],
+    [
+      "ON(OQ, EN)",
+      "ON(OQ, EN)"
+    ],
+    [
+      "ON(EN, IG)",
+      "ON(EN, IG)"
+    ],
+    [
+      "ON(IG, DH)",
+      "ON(IG, DH)"
+    ],
+    [
+      "ON(DH, EL)",
+      "ON(DH, EL)"
+    ],
+    [
+      "ON(EL, NJ)",
+      "ON(EL, NJ)"
+    ],
+    [
+      "ON(NJ, KC)",
+      "ON(NJ, KC)"
+    ],
+    [
+      "ON(KC, EC)",
+      "ON(KC, EC)"
+    ],
+    [
+      "ON(EC, CO)",
+      "ON(EC, CO)"
+    ],
+    [
+      "ON(CO, JC)",
+      "ON(CO, JC)"
+    ],
+    [
+      "ON(JC, FM)",
+      "ON(JC, FM)"
+    ],
+    [
+      "ON(FM, KQ)",
+      "ON(FM, KQ)"
+    ],
+    [
+      "ON(KQ, JI)",
+      "ON(KQ, JI)"
+    ],
+    [
+      "ON(JI, NN)",
+      "ON(JI, NN)"
+    ],
+    [
+      "ON(NN, GX)",
+      "ON(NN, GX)"
+    ],
+    [
+      "ON(GX, IZ)",
+      "ON(GX, IZ)"
+    ],
+    [
+      "ON(IZ, AJ)",
+      "ON(IZ, AJ)"
+    ],
+    [
+      "ON(AJ, MX)",
+      "ON(AJ, MX)"
+    ],
+    [
+      "ON(MX, IO)",
+      "ON(MX, IO)"
+    ],
+    [
+      "ON(IO, OY)",
+      "ON(IO, OY)"
+    ],
+    [
+      "ON(OY, GM)",
+      "ON(OY, GM)"
+    ],
+    [
+      "ON(GM, BE)",
+      "ON(GM, BE)"
+    ],
+    [
+      "ON(BE, HP)",
+      "ON(BE, HP)"
+    ],
+    [
+      "ON(HP, PB)",
+      "ON(HP, PB)"
+    ],
+    [
+      "ON(PB, PF)",
+      "ON(PB, PF)"
+    ],
+    [
+      "ON(PF, JU)",
+      "ON(PF, JU)"
+    ],
+    [
+      "ON(JU, MV)",
+      "ON(JU, MV)"
+    ],
+    [
+      "ON(MV, IR)",
+      "ON(MV, IR)"
+    ],
+    [
+      "ON(IR, CN)",
+      "ON(IR, CN)"
+    ],
+    [
+      "ON(CN, JM)",
+      "ON(CN, JM)"
+    ],
+    [
+      "ON(JM, FZ)",
+      "ON(JM, FZ)"
+    ],
+    [
+      "ON(FZ, HX)",
+      "ON(FZ, HX)"
+    ],
+    [
+      "ON(HX, GS)",
+      "ON(HX, GS)"
+    ],
+    [
+      "ON(GS, BU)",
+      "ON(GS, BU)"
+    ],
+    [
+      "ON(BU, KO)",
+      "ON(BU, KO)"
+    ],
+    [
+      "ON(KO, LH)",
+      "ON(KO, LH)"
+    ],
+    [
+      "ON(LH, EX)",
+      "ON(LH, EX)"
+    ],
+    [
+      "ON(EX, CC)",
+      "ON(EX, CC)"
+    ],
+    [
+      "ON(CC, HF)",
+      "ON(CC, HF)"
+    ],
+    [
+      "ON(HF, LN)",
+      "ON(HF, LN)"
+    ],
+    [
+      "ON(LN, DX)",
+      "ON(LN, DX)"
+    ],
+    [
+      "ON(DX, EA)",
+      "ON(DX, EA)"
+    ],
+    [
+      "ON(EA, IH)",
+      "ON(EA, IH)"
+    ],
+    [
+      "ON(IH, KG)",
+      "ON(IH, KG)"
+    ],
+    [
+      "ON(KG, NO)",
+      "ON(KG, NO)"
+    ],
+    [
+      "ON(NO, DA)",
+      "ON(NO, DA)"
+    ],
+    [
+      "ON(DA, BD)",
+      "ON(DA, BD)"
+    ],
+    [
+      "ON(BD, OA)",
+      "ON(BD, OA)"
+    ],
+    [
+      "ON(OA, AO)",
+      "ON(OA, AO)"
+    ],
+    [
+      "ON(AO, KX)",
+      "ON(AO, KX)"
+    ],
+    [
+      "ON(KX, OB)",
+      "ON(KX, OB)"
+    ],
+    [
+      "ON(OB, NE)",
+      "ON(OB, NE)"
+    ],
+    [
+      "ON(NE, GI)",
+      "ON(NE, GI)"
+    ],
+    [
+      "ON(GI, FL)",
+      "ON(GI, FL)"
+    ],
+    [
+      "ON(FL, JN)",
+      "ON(FL, JN)"
+    ],
+    [
+      "ON(JN, BN)",
+      "ON(JN, BN)"
+    ],
+    [
+      "ON(BN, IC)",
+      "ON(BN, IC)"
+    ],
+    [
+      "ON(IC, KV)",
+      "ON(IC, KV)"
+    ],
+    [
+      "ON(KV, CE)",
+      "ON(KV, CE)"
+    ],
+    [
+      "ON(CE, OC)",
+      "ON(CE, OC)"
+    ],
+    [
+      "ON(OC, BP)",
+      "ON(OC, BP)"
+    ],
+    [
+      "ON(BP, HV)",
+      "ON(BP, HV)"
+    ],
+    [
+      "ON(HV, FV)",
+      "ON(HV, FV)"
+    ],
+    [
+      "ON(FV, OD)",
+      "ON(FV, OD)"
+    ],
+    [
+      "ON(OD, DD)",
+      "ON(OD, DD)"
+    ],
+    [
+      "ON(DD, DY)",
+      "ON(DD, DY)"
+    ],
+    [
+      "ON(DY, GF)",
+      "ON(DY, GF)"
+    ],
+    [
+      "ON(GF, NI)",
+      "ON(GF, NI)"
+    ],
+    [
+      "ON(NI, IM)",
+      "ON(NI, IM)"
+    ],
+    [
+      "ON(IM, EV)",
+      "ON(IM, EV)"
+    ],
+    [
+      "ON(EV, AX)",
+      "ON(EV, AX)"
+    ],
+    [
+      "ON(AX, JJ)",
+      "ON(AX, JJ)"
+    ],
+    [
+      "ON(JJ, NR)",
+      "ON(JJ, NR)"
+    ],
+    [
+      "ON(NR, BQ)",
+      "ON(NR, BQ)"
+    ],
+    [
+      "ON(BQ, NH)",
+      "ON(BQ, NH)"
+    ],
+    [
+      "ON(NH, IP)",
+      "ON(NH, IP)"
+    ],
+    [
+      "ON(IP, DC)",
+      "ON(IP, DC)"
+    ],
+    [
+      "ON(DC, AL)",
+      "ON(DC, AL)"
+    ],
+    [
+      "ON(AL, OO)",
+      "ON(AL, OO)"
+    ],
+    [
+      "ON(OO, EW)",
+      "ON(OO, EW)"
+    ],
+    [
+      "ON(EW, HD)",
+      "ON(EW, HD)"
+    ],
+    [
+      "ON(HD, KI)",
+      "ON(HD, KI)"
+    ],
+    [
+      "ON(KI, CA)",
+      "ON(KI, CA)"
+    ],
+    [
+      "ON(CA, LG)",
+      "ON(CA, LG)"
+    ],
+    [
+      "ON(LG, OU)",
+      "ON(LG, OU)"
+    ],
+    [
+      "ON(OU, IS)",
+      "ON(OU, IS)"
+    ],
+    [
+      "ON(IS, BW)",
+      "ON(IS, BW)"
+    ],
+    [
+      "ON(BW, NB)",
+      "ON(BW, NB)"
+    ],
+    [
+      "ON(NB, AI)",
+      "ON(NB, AI)"
+    ],
+    [
+      "ON(AI, GP)",
+      "ON(AI, GP)"
+    ],
+    [
+      "ON(GP, IL)",
+      "ON(GP, IL)"
+    ],
+    [
+      "ON(IL, JF)",
+      "ON(IL, JF)"
+    ],
+    [
+      "ON(JF, EM)",
+      "ON(JF, EM)"
+    ],
+    [
+      "ON(EM, JP)",
+      "ON(EM, JP)"
+    ],
+    [
+      "ON(JP, OV)",
+      "ON(JP, OV)"
+    ],
+    [
+      "ON(OV, AF)",
+      "ON(OV, AF)"
+    ],
+    [
+      "ON(AF, OI)",
+      "ON(AF, OI)"
+    ],
+    [
+      "ON(OI, KY)",
+      "ON(OI, KY)"
+    ],
+    [
+      "ON(KY, PD)",
+      "ON(KY, PD)"
+    ],
+    [
+      "ON(PD, HQ)",
+      "ON(PD, HQ)"
+    ],
+    [
+      "ON(HQ, KH)",
+      "ON(HQ, KH)"
+    ],
+    [
+      "ON(KH, JH)",
+      "ON(KH, JH)"
+    ],
+    [
+      "ON(JH, AV)",
+      "ON(JH, AV)"
+    ],
+    [
+      "ON(AV, BI)",
+      "ON(AV, BI)"
+    ],
+    [
+      "ON(BI, GY)",
+      "ON(BI, GY)"
+    ],
+    [
+      "ON(GY, CL)",
+      "ON(GY, CL)"
+    ],
+    [
+      "ON(CL, JT)",
+      "ON(CL, JT)"
+    ],
+    [
+      "ON(JT, EE)",
+      "ON(JT, EE)"
+    ],
+    [
+      "ON(EE, IA)",
+      "ON(EE, IA)"
+    ],
+    [
+      "ON(IA, KK)",
+      "ON(IA, KK)"
+    ],
+    [
+      "ON(KK, IB)",
+      "ON(KK, IB)"
+    ],
+    [
+      "ON(IB, EU)",
+      "ON(IB, EU)"
+    ],
+    [
+      "ON(EU, AQ)",
+      "ON(EU, AQ)"
+    ],
+    [
+      "ON(AQ, GE)",
+      "ON(AQ, GE)"
+    ],
+    [
+      "ON(GE, GL)",
+      "ON(GE, GL)"
+    ],
+    [
+      "ON(GL, IF)",
+      "ON(GL, IF)"
+    ],
+    [
+      "ON(IF, NA)",
+      "ON(IF, NA)"
+    ],
+    [
+      "ON(NA, EG)",
+      "ON(NA, EG)"
+    ],
+    [
+      "ON(EG, LV)",
+      "ON(EG, LV)"
+    ],
+    [
+      "ON(LV, EP)",
+      "ON(LV, EP)"
+    ],
+    [
+      "ON(EP, DG)",
+      "ON(EP, DG)"
+    ],
+    [
+      "ON(DG, JG)",
+      "ON(DG, JG)"
+    ],
+    [
+      "ON(JG, GZ)",
+      "ON(JG, GZ)"
+    ],
+    [
+      "ON(GZ, AS)",
+      "ON(GZ, AS)"
+    ],
+    [
+      "ON(AS, HR)",
+      "ON(AS, HR)"
+    ],
+    [
+      "ON(HR, JO)",
+      "ON(HR, JO)"
+    ],
+    [
+      "ON(JO, LL)",
+      "ON(JO, LL)"
+    ],
+    [
+      "ON(LL, KN)",
+      "ON(LL, KN)"
+    ],
+    [
+      "ON(KN, OT)",
+      "ON(KN, OT)"
+    ],
+    [
+      "ON(OT, NC)",
+      "ON(OT, NC)"
+    ],
+    [
+      "ON(NC, AY)",
+      "ON(NC, AY)"
+    ],
+    [
+      "ON(AY, DV)",
+      "ON(AY, DV)"
+    ],
+    [
+      "ON(DV, LF)",
+      "ON(DV, LF)"
+    ],
+    [
+      "ON(LF, GH)",
+      "ON(LF, GH)"
+    ],
+    [
+      "ON(KL, NZ)",
+      "ON(KL, NZ)"
+    ],
+    [
+      "ON(NZ, BF)",
+      "ON(NZ, BF)"
+    ],
+    [
+      "ON(BF, OS)",
+      "ON(BF, OS)"
+    ],
+    [
+      "ON(OS, JL)",
+      "ON(OS, JL)"
+    ],
+    [
+      "ON(JL, MN)",
+      "ON(JL, MN)"
+    ],
+    [
+      "ON(MN, ED)",
+      "ON(MN, ED)"
+    ],
+    [
+      "ON(ED, IW)",
+      "ON(ED, IW)"
+    ],
+    [
+      "ON(IW, JB)",
+      "ON(IW, JB)"
+    ],
+    [
+      "ON(JB, OF)",
+      "ON(JB, OF)"
+    ],
+    [
+      "ON(OF, MW)",
+      "ON(OF, MW)"
+    ],
+    [
+      "ON(MW, II)",
+      "ON(MW, II)"
+    ],
+    [
+      "ON(II, HM)",
+      "ON(II, HM)"
+    ],
+    [
+      "ON(HM, DW)",
+      "ON(HM, DW)"
+    ],
+    [
+      "ON(DW, OW)",
+      "ON(DW, OW)"
+    ],
+    [
+      "ON(OW, MT)",
+      "ON(OW, MT)"
+    ],
+    [
+      "ON(MT, ND)",
+      "ON(MT, ND)"
+    ],
+    [
+      "ON(ND, ME)",
+      "ON(ND, ME)"
+    ],
+    [
+      "ON(ME, MQ)",
+      "ON(ME, MQ)"
+    ],
+    [
+      "ON(MQ, MU)",
+      "ON(MQ, MU)"
+    ],
+    [
+      "ON(MU, FI)",
+      "ON(MU, FI)"
+    ],
+    [
+      "ON(FI, NW)",
+      "ON(FI, NW)"
+    ],
+    [
+      "ON(NW, LY)",
+      "ON(NW, LY)"
+    ],
+    [
+      "ON(LY, KA)",
+      "ON(LY, KA)"
+    ],
+    [
+      "ON(KA, GO)",
+      "ON(KA, GO)"
+    ],
+    [
+      "ON(GO, LT)",
+      "ON(GO, LT)"
+    ],
+    [
+      "ON(LT, DB)",
+      "ON(LT, DB)"
+    ],
+    [
+      "ON(DB, FH)",
+      "ON(DB, FH)"
+    ],
+    [
+      "ON(FH, DE)",
+      "ON(FH, DE)"
+    ],
+    [
+      "ON(DE, KT)",
+      "ON(DE, KT)"
+    ],
+    [
+      "ON(KT, FU)",
+      "ON(KT, FU)"
+    ],
+    [
+      "ON(FU, HE)",
+      "ON(FU, HE)"
+    ],
+    [
+      "ON(HE, HI)",
+      "ON(HE, HI)"
+    ],
+    [
+      "ON(HI, KB)",
+      "ON(HI, KB)"
+    ],
+    [
+      "ON(KB, AP)",
+      "ON(KB, AP)"
+    ],
+    [
+      "ON(AP, AA)",
+      "ON(AP, AA)"
+    ],
+    [
+      "ON(AA, CP)",
+      "ON(AA, CP)"
+    ],
+    [
+      "ON(CP, NG)",
+      "ON(CP, NG)"
+    ],
+    [
+      "ON(NG, AW)",
+      "ON(NG, AW)"
+    ],
+    [
+      "ON(AW, MS)",
+      "ON(AW, MS)"
+    ],
+    [
+      "ON(MS, IU)",
+      "ON(MS, IU)"
+    ],
+    [
+      "ON(IU, FR)",
+      "ON(IU, FR)"
+    ],
+    [
+      "ON(FR, GV)",
+      "ON(FR, GV)"
+    ],
+    [
+      "ON(GV, OE)",
+      "ON(GV, OE)"
+    ],
+    [
+      "ON(OE, GN)",
+      "ON(OE, GN)"
+    ],
+    [
+      "ON(GN, PE)",
+      "ON(GN, PE)"
+    ],
+    [
+      "ON(PE, HC)",
+      "ON(PE, HC)"
+    ],
+    [
+      "ON(HC, FA)",
+      "ON(HC, FA)"
+    ],
+    [
+      "ON(FA, MM)",
+      "ON(FA, MM)"
+    ],
+    [
+      "ON(MM, FJ)",
+      "ON(MM, FJ)"
+    ],
+    [
+      "ON(FJ, GT)",
+      "ON(FJ, GT)"
+    ],
+    [
+      "ON(GT, CV)",
+      "ON(GT, CV)"
+    ],
+    [
+      "ON(CV, LO)",
+      "ON(CV, LO)"
+    ],
+    [
+      "ON(LO, MP)",
+      "ON(LO, MP)"
+    ],
+    [
+      "ON(MP, GG)",
+      "ON(MP, GG)"
+    ],
+    [
+      "ON(GG, CU)",
+      "ON(GG, CU)"
+    ],
+    [
+      "ON(CU, MR)",
+      "ON(CU, MR)"
+    ],
+    [
+      "ON(MR, BT)",
+      "ON(MR, BT)"
+    ],
+    [
+      "ON(BT, FG)",
+      "ON(BT, FG)"
+    ],
+    [
+      "ON(FG, KE)",
+      "ON(FG, KE)"
+    ],
+    [
+      "ON(KE, LK)",
+      "ON(KE, LK)"
+    ],
+    [
+      "ON(LK, LD)",
+      "ON(LK, LD)"
+    ],
+    [
+      "ON(LD, EB)",
+      "ON(LD, EB)"
+    ],
+    [
+      "ON(EB, AD)",
+      "ON(EB, AD)"
+    ],
+    [
+      "ON(AD, PI)",
+      "ON(AD, PI)"
+    ],
+    [
+      "ON(PI, OX)",
+      "ON(PI, OX)"
+    ],
+    [
+      "ON(OX, MJ)",
+      "ON(OX, MJ)"
+    ],
+    [
+      "ON(MJ, AM)",
+      "ON(MJ, AM)"
+    ],
+    [
+      "ON(AM, MH)",
+      "ON(AM, MH)"
+    ],
+    [
+      "ON(MH, BZ)",
+      "ON(MH, BZ)"
+    ],
+    [
+      "ON(BZ, FC)",
+      "ON(BZ, FC)"
+    ],
+    [
+      "ON(FC, DJ)",
+      "ON(FC, DJ)"
+    ],
+    [
+      "ON(DJ, GW)",
+      "ON(DJ, GW)"
+    ],
+    [
+      "ON(GW, LQ)",
+      "ON(GW, LQ)"
+    ],
+    [
+      "ON(LQ, MO)",
+      "ON(LQ, MO)"
+    ],
+    [
+      "ON(MO, IY)",
+      "ON(MO, IY)"
+    ],
+    [
+      "ON(IY, LC)",
+      "ON(IY, LC)"
+    ],
+    [
+      "ON(LC, KJ)",
+      "ON(LC, KJ)"
+    ],
+    [
+      "ON(KJ, NM)",
+      "ON(KJ, NM)"
+    ],
+    [
+      "ON(NM, FD)",
+      "ON(NM, FD)"
+    ],
+    [
+      "ON(FD, HN)",
+      "ON(FD, HN)"
+    ],
+    [
+      "ON(HN, JR)",
+      "ON(HN, JR)"
+    ],
+    [
+      "ON(JR, BX)",
+      "ON(JR, BX)"
+    ],
+    [
+      "ON(BX, BR)",
+      "ON(BX, BR)"
+    ],
+    [
+      "ON(BR, BA)",
+      "ON(BR, BA)"
+    ],
+    [
+      "ON(BA, EK)",
+      "ON(BA, EK)"
+    ],
+    [
+      "ON(EK, OZ)",
+      "ON(EK, OZ)"
+    ],
+    [
+      "ON(OZ, BC)",
+      "ON(OZ, BC)"
+    ],
+    [
+      "ON(BC, DR)",
+      "ON(BC, DR)"
+    ],
+    [
+      "ON(DR, AU)",
+      "ON(DR, AU)"
+    ],
+    [
+      "ON(AU, KP)",
+      "ON(AU, KP)"
+    ],
+    [
+      "ON(KP, OH)",
+      "ON(KP, OH)"
+    ],
+    [
+      "ON(OH, NK)",
+      "ON(OH, NK)"
+    ],
+    [
+      "ON(NK, IT)",
+      "ON(NK, IT)"
+    ],
+    [
+      "ON(IT, DP)",
+      "ON(IT, DP)"
+    ],
+    [
+      "ON(DP, AG)",
+      "ON(DP, AG)"
+    ],
+    [
+      "ON(AG, FP)",
+      "ON(AG, FP)"
+    ],
+    [
+      "ON(FP, NV)",
+      "ON(FP, NV)"
+    ],
+    [
+      "ON(NV, IQ)",
+      "ON(NV, IQ)"
+    ],
+    [
+      "ON(IQ, BL)",
+      "ON(IQ, BL)"
+    ],
+    [
+      "ON(BL, OJ)",
+      "ON(BL, OJ)"
+    ],
+    [
+      "ON(OJ, PG)",
+      "ON(OJ, PG)"
+    ],
+    [
+      "ON(PG, JZ)",
+      "ON(PG, JZ)"
+    ],
+    [
+      "ON(JZ, BK)",
+      "ON(JZ, BK)"
+    ],
+    [
+      "ON(BK, EZ)",
+      "ON(BK, EZ)"
+    ],
+    [
+      "ON(EZ, GQ)",
+      "ON(EZ, GQ)"
+    ],
+    [
+      "ON(GQ, MI)",
+      "ON(GQ, MI)"
+    ],
+    [
+      "ON(MI, FS)",
+      "ON(MI, FS)"
+    ],
+    [
+      "ON(FS, CB)",
+      "ON(FS, CB)"
+    ],
+    [
+      "ON(CB, FO)",
+      "ON(CB, FO)"
+    ],
+    [
+      "ON(FO, IJ)",
+      "ON(FO, IJ)"
+    ],
+    [
+      "ON(IJ, DQ)",
+      "ON(IJ, DQ)"
+    ],
+    [
+      "ON(DQ, EJ)",
+      "ON(DQ, EJ)"
+    ],
+    [
+      "ON(EJ, LS)",
+      "ON(EJ, LS)"
+    ],
+    [
+      "ON(LS, GJ)",
+      "ON(LS, GJ)"
+    ],
+    [
+      "ON(GJ, MF)",
+      "ON(GJ, MF)"
+    ],
+    [
+      "ON(MF, ER)",
+      "ON(MF, ER)"
+    ],
+    [
+      "ON(ER, AH)",
+      "ON(ER, AH)"
+    ],
+    [
+      "ON(AH, OR)",
+      "ON(AH, OR)"
+    ],
+    [
+      "ON(OR, HB)",
+      "ON(OR, HB)"
+    ],
+    [
+      "ON(HB, HA)",
+      "ON(HB, HA)"
+    ],
+    [
+      "ON(HA, LZ)",
+      "ON(HA, LZ)"
+    ],
+    [
+      "ON(LZ, BV)",
+      "ON(LZ, BV)"
+    ],
+    [
+      "ON(BV, LP)",
+      "ON(BV, LP)"
+    ],
+    [
+      "ON(LP, DM)",
+      "ON(LP, DM)"
+    ],
+    [
+      "ON(DM, JS)",
+      "ON(DM, JS)"
+    ],
+    [
+      "ON(JS, EF)",
+      "ON(JS, EF)"
+    ],
+    [
+      "ON(EF, CK)",
+      "ON(EF, CK)"
+    ],
+    [
+      "ON(CK, IX)",
+      "ON(CK, IX)"
+    ],
+    [
+      "ON(IX, CR)",
+      "ON(IX, CR)"
+    ],
+    [
+      "ON(CR, NX)",
+      "ON(CR, NX)"
+    ],
+    [
+      "ON(NX, BG)",
+      "ON(NX, BG)"
+    ],
+    [
+      "ON(BG, IN)",
+      "ON(BG, IN)"
+    ],
+    [
+      "ON(MB, KM)",
+      "ON(MB, KM)"
+    ],
+    [
+      "ON(KM, OM)",
+      "ON(KM, OM)"
+    ],
+    [
+      "ON(OM, HZ)",
+      "ON(OM, HZ)"
+    ],
+    [
+      "ON(HZ, FW)",
+      "ON(HZ, FW)"
+    ],
+    [
+      "ON(FW, KU)",
+      "ON(FW, KU)"
+    ],
+    [
+      "ON(KU, CF)",
+      "ON(KU, CF)"
+    ],
+    [
+      "ON(CF, GD)",
+      "ON(CF, GD)"
+    ],
+    [
+      "ON(GD, EQ)",
+      "ON(GD, EQ)"
+    ],
+    [
+      "ON(EQ, MC)",
+      "ON(EQ, MC)"
+    ],
+    [
+      "ON(MC, AR)",
+      "ON(MC, AR)"
+    ],
+    [
+      "ON(AR, MZ)",
+      "ON(AR, MZ)"
+    ],
+    [
+      "ON(MZ, NS)",
+      "ON(MZ, NS)"
+    ],
+    [
+      "ON(NS, BJ)",
+      "ON(NS, BJ)"
+    ],
+    [
+      "ON(BJ, CJ)",
+      "ON(BJ, CJ)"
+    ],
+    [
+      "ON(CJ, KD)",
+      "ON(CJ, KD)"
+    ],
+    [
+      "ON(KD, HL)",
+      "ON(KD, HL)"
+    ],
+    [
+      "ON(HL, MY)",
+      "ON(HL, MY)"
+    ],
+    [
+      "ON(MY, FN)",
+      "ON(MY, FN)"
+    ],
+    [
+      "ON(FN, EI)",
+      "ON(FN, EI)"
+    ],
+    [
+      "ON(EI, BO)",
+      "ON(EI, BO)"
+    ],
+    [
+      "ON(BO, KS)",
+      "ON(BO, KS)"
+    ],
+    [
+      "ON(KS, AZ)",
+      "ON(KS, AZ)"
+    ],
+    [
+      "ON(AZ, NU)",
+      "ON(AZ, NU)"
+    ],
+    [
+      "ON(NU, EY)",
+      "ON(NU, EY)"
+    ],
+    [
+      "ON(EY, CI)",
+      "ON(EY, CI)"
+    ],
+    [
+      "ON(CI, FK)",
+      "ON(CI, FK)"
+    ],
+    [
+      "ON(FK, FQ)",
+      "ON(FK, FQ)"
+    ],
+    [
+      "ON(FQ, JA)",
+      "ON(FQ, JA)"
+    ],
+    [
+      "ON(JA, CD)",
+      "ON(JA, CD)"
+    ],
+    [
+      "ON(CD, CX)",
+      "ON(CD, CX)"
+    ],
+    [
+      "ON(CX, MA)",
+      "ON(CX, MA)"
+    ],
+    [
+      "ON(KZ, PJ)",
+      "ON(KZ, PJ)"
+    ],
+    [
+      "HANDEMPTY()",
+      "HANDEMPTY()"
+    ],
+    [
+      "ON(JV, HY)",
+      "ON(OB, NE)"
+    ],
+    [
+      "ON(OB, NE)",
+      "ON(BS, FT)"
+    ],
+    [
+      "ON(BS, FT)",
+      "ON(EJ, LS)"
+    ],
+    [
+      "ON(EJ, LS)",
+      "ON(FZ, HX)"
+    ],
+    [
+      "ON(FZ, HX)",
+      "ON(ER, AH)"
+    ],
+    [
+      "ON(ER, AH)",
+      "ON(MX, IO)"
+    ],
+    [
+      "ON(MX, IO)",
+      "ON(NX, BG)"
+    ],
+    [
+      "ON(NX, BG)",
+      "ON(AO, KX)"
+    ],
+    [
+      "ON(AO, KX)",
+      "ON(OV, AF)"
+    ],
+    [
+      "ON(OV, AF)",
+      "ON(GL, IF)"
+    ],
+    [
+      "ON(GL, IF)",
+      "ON(GA, LA)"
+    ],
+    [
+      "ON(GA, LA)",
+      "ON(HT, HG)"
+    ],
+    [
+      "ON(HT, HG)",
+      "ON(JQ, EH)"
+    ],
+    [
+      "ON(JQ, EH)",
+      "ON(JE, FY)"
+    ],
+    [
+      "ON(JE, FY)",
+      "ON(KF, BB)"
+    ],
+    [
+      "ON(KF, BB)",
+      "ON(HO, FE)"
+    ],
+    [
+      "ON(HO, FE)",
+      "ON(BY, AT)"
+    ],
+    [
+      "ON(BY, AT)",
+      "ON(FU, HE)"
+    ],
+    [
+      "ON(FU, HE)",
+      "ON(NC, AY)"
+    ],
+    [
+      "ON(NC, AY)",
+      "ON(AB, ID)"
+    ],
+    [
+      "ON(AB, ID)",
+      "ON(FH, DE)"
+    ],
+    [
+      "ON(FH, DE)",
+      "ON(OO, EW)"
+    ],
+    [
+      "ON(OO, EW)",
+      "ON(DI, LM)"
+    ],
+    [
+      "ON(DI, LM)",
+      "ON(JM, FZ)"
+    ],
+    [
+      "ON(JM, FZ)",
+      "ON(LB, LR)"
+    ],
+    [
+      "ON(LB, LR)",
+      "ON(HR, JO)"
+    ],
+    [
+      "ON(HR, JO)",
+      "ON(NF, LJ)"
+    ],
+    [
+      "ON(NF, LJ)",
+      "ON(EB, AD)"
+    ],
+    [
+      "ON(EB, AD)",
+      "ON(BM, NF)"
+    ],
+    [
+      "ON(BM, NF)",
+      "ON(CV, LO)"
+    ],
+    [
+      "ON(CV, LO)",
+      "ON(DZ, DS)"
+    ],
+    [
+      "ON(DZ, DS)",
+      "ON(DC, AL)"
+    ],
+    [
+      "ON(DC, AL)",
+      "ON(HA, LZ)"
+    ],
+    [
+      "ON(HA, LZ)",
+      "ON(IT, DP)"
+    ],
+    [
+      "ON(IT, DP)",
+      "ON(OK, JD)"
+    ],
+    [
+      "ON(OK, JD)",
+      "ON(FD, HN)"
+    ],
+    [
+      "ON(FD, HN)",
+      "ON(BH, OQ)"
+    ],
+    [
+      "ON(BH, OQ)",
+      "ON(NB, AI)"
+    ],
+    [
+      "ON(NB, AI)",
+      "ON(FY, AB)"
+    ],
+    [
+      "ON(FY, AB)",
+      "ON(NI, IM)"
+    ],
+    [
+      "ON(NI, IM)",
+      "ON(NE, GI)"
+    ],
+    [
+      "ON(NE, GI)",
+      "ON(NO, DA)"
+    ],
+    [
+      "ON(NO, DA)",
+      "ON(FM, KQ)"
+    ],
+    [
+      "ON(FM, KQ)",
+      "ON(OD, DD)"
+    ],
+    [
+      "ON(OD, DD)",
+      "ON(GF, NI)"
+    ],
+    [
+      "ON(GF, NI)",
+      "ON(IC, KV)"
+    ],
+    [
+      "ON(IC, KV)",
+      "ON(NH, IP)"
+    ],
+    [
+      "ON(NH, IP)",
+      "ON(IG, DH)"
+    ],
+    [
+      "ON(IG, DH)",
+      "ON(AM, MH)"
+    ],
+    [
+      "ON(AM, MH)",
+      "ON(CC, HF)"
+    ],
+    [
+      "ON(CC, HF)",
+      "ON(DB, FH)"
+    ],
+    [
+      "ON(DB, FH)",
+      "ON(BB, CZ)"
+    ],
+    [
+      "ON(BB, CZ)",
+      "ON(IR, CN)"
+    ],
+    [
+      "ON(IR, CN)",
+      "ON(GT, CV)"
+    ],
+    [
+      "ON(GT, CV)",
+      "ON(DX, EA)"
+    ],
+    [
+      "ON(DX, EA)",
+      "ON(CX, MA)"
+    ],
+    [
+      "ON(CX, MA)",
+      "ON(MU, FI)"
+    ],
+    [
+      "ON(MU, FI)",
+      "ON(IB, EU)"
+    ],
+    [
+      "ON(IB, EU)",
+      "ON(FG, KE)"
+    ],
+    [
+      "ON(FG, KE)",
+      "ON(JA, CD)"
+    ],
+    [
+      "ON(JA, CD)",
+      "ON(FA, MM)"
+    ],
+    [
+      "ON(FA, MM)",
+      "ON(LL, KN)"
+    ],
+    [
+      "ON(LL, KN)",
+      "ON(GG, CU)"
+    ],
+    [
+      "ON(GG, CU)",
+      "ON(AK, IV)"
+    ],
+    [
+      "ON(AK, IV)",
+      "ON(KZ, PJ)"
+    ],
+    [
+      "ON(KZ, PJ)",
+      "ON(GR, JV)"
+    ],
+    [
+      "ON(GR, JV)",
+      "ON(GS, BU)"
+    ],
+    [
+      "ON(GS, BU)",
+      "ON(KL, NZ)"
+    ],
+    [
+      "ON(KL, NZ)",
+      "ON(IL, JF)"
+    ],
+    [
+      "ON(IL, JF)",
+      "ON(IE, CQ)"
+    ],
+    [
+      "ON(IE, CQ)",
+      "ONTABLE(PJ)"
+    ],
+    [
+      "ONTABLE(PJ)",
+      "ON(KD, HL)"
+    ],
+    [
+      "ON(KD, HL)",
+      "ON(IS, BW)"
+    ],
+    [
+      "ON(IS, BW)",
+      "ON(BG, IN)"
+    ],
+    [
+      "ON(BG, IN)",
+      "ON(JC, FM)"
+    ],
+    [
+      "ON(JC, FM)",
+      "ON(HW, PH)"
+    ],
+    [
+      "ON(HW, PH)",
+      "ON(HD, KI)"
+    ],
+    [
+      "ON(HD, KI)",
+      "ON(BD, OA)"
+    ],
+    [
+      "ON(BD, OA)",
+      "ON(CK, IX)"
+    ],
+    [
+      "ON(CK, IX)",
+      "ON(IV, MG)"
+    ],
+    [
+      "ON(IV, MG)",
+      "ON(CQ, MK)"
+    ],
+    [
+      "ON(CQ, MK)",
+      "ON(AD, PI)"
+    ],
+    [
+      "ON(AD, PI)",
+      "ON(IK, NL)"
+    ],
+    [
+      "ON(IK, NL)",
+      "ON(GW, LQ)"
+    ],
+    [
+      "ON(GW, LQ)",
+      "ON(KE, LK)"
+    ],
+    [
+      "ON(KE, LK)",
+      "ONTABLE(GH)"
+    ],
+    [
+      "ONTABLE(GH)",
+      "ON(HG, PC)"
+    ],
+    [
+      "ON(HG, PC)",
+      "ON(KM, OM)"
+    ],
+    [
+      "ON(KM, OM)",
+      "ON(JI, NN)"
+    ],
+    [
+      "ON(JI, NN)",
+      "ON(OP, PA)"
+    ],
+    [
+      "ON(OP, PA)",
+      "ON(OY, GM)"
+    ],
+    [
+      "ON(OY, GM)",
+      "ON(NT, FX)"
+    ],
+    [
+      "ON(NT, FX)",
+      "ON(BZ, FC)"
+    ],
+    [
+      "ON(BZ, FC)",
+      "ON(EO, CH)"
+    ],
+    [
+      "ON(EO, CH)",
+      "ON(BP, HV)"
+    ],
+    [
+      "ON(BP, HV)",
+      "ON(JT, EE)"
+    ],
+    [
+      "ON(JT, EE)",
+      "ON(DS, LW)"
+    ],
+    [
+      "ON(DS, LW)",
+      "ON(FL, JN)"
+    ],
+    [
+      "ON(FL, JN)",
+      "ON(FB, HS)"
+    ],
+    [
+      "ON(FB, HS)",
+      "ON(KG, NO)"
+    ],
+    [
+      "ON(KG, NO)",
+      "ON(GX, IZ)"
+    ],
+    [
+      "ON(GX, IZ)",
+      "ON(HQ, KH)"
+    ],
+    [
+      "ON(HQ, KH)",
+      "ON(CB, FO)"
+    ],
+    [
+      "ON(CB, FO)",
+      "ON(AX, JJ)"
+    ],
+    [
+      "ON(AX, JJ)",
+      "ON(ND, ME)"
+    ],
+    [
+      "ON(ND, ME)",
+      "ON(CN, JM)"
+    ],
+    [
+      "ON(CN, JM)",
+      "ON(JP, OV)"
+    ],
+    [
+      "ON(JP, OV)",
+      "ON(GB, CM)"
+    ],
+    [
+      "ON(GB, CM)",
+      "ON(EK, OZ)"
+    ],
+    [
+      "ON(EK, OZ)",
+      "ON(HY, KR)"
+    ],
+    [
+      "ON(HY, KR)",
+      "ON(CZ, JW)"
+    ],
+    [
+      "ON(CZ, JW)",
+      "ON(ED, IW)"
+    ],
+    [
+      "ON(ED, IW)",
+      "ON(KT, FU)"
+    ],
+    [
+      "ON(KT, FU)",
+      "ONTABLE(IN)"
+    ],
+    [
+      "ONTABLE(IN)",
+      "ON(MD, CW)"
+    ],
+    [
+      "ON(MD, CW)",
+      "ON(MJ, AM)"
+    ],
+    [
+      "ON(MJ, AM)",
+      "ON(NP, DF)"
+    ],
+    [
+      "ON(NP, DF)",
+      "ON(AC, NQ)"
+    ],
+    [
+      "ON(AC, NQ)",
+      "ON(CY, GA)"
+    ],
+    [
+      "ON(CY, GA)",
+      "ON(FQ, JA)"
+    ],
+    [
+      "ON(FQ, JA)",
+      "ON(LS, GJ)"
+    ],
+    [
+      "ON(LS, GJ)",
+      "ON(EV, AX)"
+    ],
+    [
+      "ON(EV, AX)",
+      "ON(CR, NX)"
+    ],
+    [
+      "ON(CR, NX)",
+      "ON(HL, MY)"
+    ],
+    [
+      "ON(HL, MY)",
+      "ON(LQ, MO)"
+    ],
+    [
+      "ON(LQ, MO)",
+      "ON(AV, BI)"
+    ],
+    [
+      "ON(AV, BI)",
+      "ON(CG, LU)"
+    ],
+    [
+      "ON(CG, LU)",
+      "ON(PH, HK)"
+    ],
+    [
+      "ON(PH, HK)",
+      "ON(JZ, BK)"
+    ],
+    [
+      "ON(JZ, BK)",
+      "ON(LP, DM)"
+    ],
+    [
+      "ON(LP, DM)",
+      "ON(EM, JP)"
+    ],
+    [
+      "ON(EM, JP)",
+      "ON(AN, FF)"
+    ],
+    [
+      "ON(AN, FF)",
+      "ON(DD, DY)"
+    ],
+    [
+      "ON(DD, DY)",
+      "ON(EW, HD)"
+    ],
+    [
+      "ON(EW, HD)",
+      "ON(LH, EX)"
+    ],
+    [
+      "ON(LH, EX)",
+      "ON(EE, IA)"
+    ],
+    [
+      "ON(EE, IA)",
+      "ON(CL, JT)"
+    ],
+    [
+      "ON(CL, JT)",
+      "ON(CJ, KD)"
+    ],
+    [
+      "ON(CJ, KD)",
+      "ON(ML, IE)"
+    ],
+    [
+      "ON(ML, IE)",
+      "ON(JK, JY)"
+    ],
+    [
+      "ON(JK, JY)",
+      "ON(MV, IR)"
+    ],
+    [
+      "ON(MV, IR)",
+      "ON(BE, HP)"
+    ],
+    [
+      "ON(BE, HP)",
+      "ON(OQ, EN)"
+    ],
+    [
+      "ON(OQ, EN)",
+      "ON(HZ, FW)"
+    ],
+    [
+      "ON(HZ, FW)",
+      "ON(PB, PF)"
+    ],
+    [
+      "ON(PB, PF)",
+      "ON(HJ, DK)"
+    ],
+    [
+      "ON(HJ, DK)",
+      "ON(GC, ON)"
+    ],
+    [
+      "ON(GC, ON)",
+      "ON(DO, BS)"
+    ],
+    [
+      "ON(DO, BS)",
+      "ON(FE, AC)"
+    ],
+    [
+      "ON(FE, AC)",
+      "ON(LI, CT)"
+    ],
+    [
+      "ON(LI, CT)",
+      "ON(LJ, DL)"
+    ],
+    [
+      "ON(LJ, DL)",
+      "ON(KO, LH)"
+    ],
+    [
+      "ON(KO, LH)",
+      "ON(JU, MV)"
+    ],
+    [
+      "ON(JU, MV)",
+      "ON(LV, EP)"
+    ],
+    [
+      "ON(LV, EP)",
+      "ON(CE, OC)"
+    ],
+    [
+      "ON(CE, OC)",
+      "ON(JF, EM)"
+    ],
+    [
+      "ON(JF, EM)",
+      "ON(IZ, AJ)"
+    ],
+    [
+      "ON(IZ, AJ)",
+      "ON(HE, HI)"
+    ],
+    [
+      "ON(HE, HI)",
+      "ON(PA, ET)"
+    ],
+    [
+      "ON(PA, ET)",
+      "ON(DN, KF)"
+    ],
+    [
+      "ON(DN, KF)",
+      "ON(HU, BY)"
+    ],
+    [
+      "ON(HU, BY)",
+      "ON(FW, KU)"
+    ],
+    [
+      "ON(FW, KU)",
+      "ON(JJ, NR)"
+    ],
+    [
+      "ON(JJ, NR)",
+      "ON(DH, EL)"
+    ],
+    [
+      "ON(DH, EL)",
+      "ON(OI, KY)"
+    ],
+    [
+      "ON(OI, KY)",
+      "ON(FC, DJ)"
+    ],
+    [
+      "ON(FC, DJ)",
+      "ON(DU, NY)"
+    ],
+    [
+      "ON(DU, NY)",
+      "ON(AE, HT)"
+    ],
+    [
+      "ON(AE, HT)",
+      "ON(MQ, MU)"
+    ],
+    [
+      "ON(MQ, MU)",
+      "ON(ES, JX)"
+    ],
+    [
+      "ON(ES, JX)",
+      "ON(DL, KW)"
+    ],
+    [
+      "ON(DL, KW)",
+      "ON(GU, ES)"
+    ],
+    [
+      "ON(GU, ES)",
+      "ON(AT, HO)"
+    ],
+    [
+      "ON(AT, HO)",
+      "ON(JW, LB)"
+    ],
+    [
+      "ON(JW, LB)",
+      "ON(PE, HC)"
+    ],
+    [
+      "ON(PE, HC)",
+      "ON(IA, KK)"
+    ],
+    [
+      "ON(IA, KK)",
+      "ON(KH, JH)"
+    ],
+    [
+      "ON(KH, JH)",
+      "ONTABLE(MA)"
+    ],
+    [
+      "ONTABLE(MA)",
+      "ON(DA, BD)"
+    ],
+    [
+      "ON(DA, BD)",
+      "ON(GZ, AS)"
+    ],
+    [
+      "ON(GZ, AS)",
+      "ON(DF, NT)"
+    ],
+    [
+      "ON(DF, NT)",
+      "ON(HX, GS)"
+    ],
+    [
+      "ON(HX, GS)",
+      "ON(EX, CC)"
+    ],
+    [
+      "ON(EX, CC)",
+      "ON(GK, OL)"
+    ],
+    [
+      "ON(GK, OL)",
+      "ON(NR, BQ)"
+    ],
+    [
+      "ON(NR, BQ)",
+      "ON(AY, DV)"
+    ],
+    [
+      "ON(AY, DV)",
+      "ON(DT, GC)"
+    ],
+    [
+      "ON(DT, GC)",
+      "ON(FF, HJ)"
+    ],
+    [
+      "ON(FF, HJ)",
+      "ON(GP, IL)"
+    ],
+    [
+      "ON(GP, IL)",
+      "ON(AP, AA)"
+    ],
+    [
+      "ON(AP, AA)",
+      "ON(CA, LG)"
+    ],
+    [
+      "ON(CA, LG)",
+      "ON(MK, HH)"
+    ],
+    [
+      "ON(MK, HH)",
+      "ON(MO, IY)"
+    ],
+    [
+      "ON(MO, IY)",
+      "ON(KS, AZ)"
+    ],
+    [
+      "ON(KS, AZ)",
+      "ON(JD, HW)"
+    ],
+    [
+      "ON(JD, HW)",
+      "ON(NY, BH)"
+    ],
+    [
+      "ON(NY, BH)",
+      "ON(HH, NP)"
+    ],
+    [
+      "ON(HH, NP)",
+      "ON(IM, EV)"
+    ],
+    [
+      "ON(IM, EV)",
+      "ON(EL, NJ)"
+    ],
+    [
+      "ON(EL, NJ)",
+      "ON(IJ, DQ)"
+    ],
+    [
+      "ON(IJ, DQ)",
+      "ON(KW, CY)"
+    ],
+    [
+      "ON(KW, CY)",
+      "ON(JG, GZ)"
+    ],
+    [
+      "ON(JG, GZ)",
+      "ON(KY, PD)"
+    ],
+    [
+      "ON(KY, PD)",
+      "ON(FX, AE)"
+    ],
+    [
+      "ON(FX, AE)",
+      "ON(IO, OY)"
+    ],
+    [
+      "ON(IO, OY)",
+      "ON(BW, NB)"
+    ],
+    [
+      "ON(BW, NB)",
+      "ON(LG, OU)"
+    ],
+    [
+      "ON(LG, OU)",
+      "ON(GO, LT)"
+    ],
+    [
+      "ON(GO, LT)",
+      "ON(CM, DN)"
+    ],
+    [
+      "ON(CM, DN)",
+      "ON(KQ, JI)"
+    ],
+    [
+      "ON(KQ, JI)",
+      "ON(LW, LI)"
+    ],
+    [
+      "ON(LW, LI)",
+      "ON(OL, DI)"
+    ],
+    [
+      "ON(OL, DI)",
+      "ON(EA, IH)"
+    ],
+    [
+      "ON(EA, IH)",
+      "ON(LZ, BV)"
+    ],
+    [
+      "ON(LZ, BV)",
+      "ON(LD, EB)"
+    ],
+    [
+      "ON(LD, EB)",
+      "ON(CF, GD)"
+    ],
+    [
+      "ON(CF, GD)",
+      "ON(LN, DX)"
+    ],
+    [
+      "ON(LN, DX)",
+      "ON(HF, LN)"
+    ],
+    [
+      "ON(HF, LN)",
+      "ON(PC, GU)"
+    ],
+    [
+      "ON(PC, GU)",
+      "ON(LM, GB)"
+    ],
+    [
+      "ON(LM, GB)",
+      "ON(KJ, NM)"
+    ],
+    [
+      "ON(KJ, NM)",
+      "ON(LR, DT)"
+    ],
+    [
+      "ON(LR, DT)",
+      "ON(KR, FB)"
+    ],
+    [
+      "ON(KR, FB)",
+      "ON(CH, BM)"
+    ],
+    [
+      "ON(CH, BM)",
+      "ON(JX, GK)"
+    ],
+    [
+      "ON(JX, GK)",
+      "ON(GM, BE)"
+    ],
+    [
+      "ON(GM, BE)",
+      "ON(IW, JB)"
+    ],
+    [
+      "ON(IW, JB)",
+      "ON(BF, OS)"
+    ],
+    [
+      "ON(BF, OS)",
+      "ON(HS, MD)"
+    ],
+    [
+      "ON(HS, MD)",
+      "ON(AA, CP)"
+    ],
+    [
+      "ON(AA, CP)",
+      "ON(EH, DU)"
+    ],
+    [
+      "ON(EH, DU)",
+      "ON(LX, EO)"
+    ],
+    [
+      "ON(LX, EO)",
+      "ON(IU, FR)"
+    ],
+    [
+      "ON(IU, FR)",
+      "ON(ON, DZ)"
+    ],
+    [
+      "ON(ON, DZ)",
+      "ON(FT, JK)"
+    ],
+    [
+      "ON(FT, JK)",
+      "ON(AJ, MX)"
+    ],
+    [
+      "ON(AJ, MX)",
+      "ON(AG, FP)"
+    ],
+    [
+      "ON(AG, FP)",
+      "ON(LO, MP)"
+    ],
+    [
+      "ON(LO, MP)",
+      "ON(HP, PB)"
+    ],
+    [
+      "ON(HP, PB)",
+      "ON(OR, HB)"
+    ],
+    [
+      "ON(JV, HY)",
+      "ON(LU, OG)"
+    ],
+    [
+      "ON(LU, OG)",
+      "ON(JV, HY)"
+    ],
+    [
+      "ON(OB, NE)",
+      "ON(MT, ND)"
+    ],
+    [
+      "ON(MT, ND)",
+      "ON(OB, NE)"
+    ],
+    [
+      "ON(BS, FT)",
+      "ON(DE, KT)"
+    ],
+    [
+      "ON(BS, FT)",
+      "ON(AR, MZ)"
+    ],
+    [
+      "ON(DE, KT)",
+      "ON(BS, FT)"
+    ],
+    [
+      "ON(DE, KT)",
+      "ON(AR, MZ)"
+    ],
+    [
+      "ON(AR, MZ)",
+      "ON(BS, FT)"
+    ],
+    [
+      "ON(AR, MZ)",
+      "ON(DE, KT)"
+    ],
+    [
+      "ON(FZ, HX)",
+      "ON(MP, GG)"
+    ],
+    [
+      "ON(FZ, HX)",
+      "ON(PG, JZ)"
+    ],
+    [
+      "ON(MP, GG)",
+      "ON(FZ, HX)"
+    ],
+    [
+      "ON(MP, GG)",
+      "ON(PG, JZ)"
+    ],
+    [
+      "ON(PG, JZ)",
+      "ON(FZ, HX)"
+    ],
+    [
+      "ON(PG, JZ)",
+      "ON(MP, GG)"
+    ],
+    [
+      "ON(MX, IO)",
+      "ON(IX, CR)"
+    ],
+    [
+      "ON(IX, CR)",
+      "ON(MX, IO)"
+    ],
+    [
+      "ON(AO, KX)",
+      "ON(OC, BP)"
+    ],
+    [
+      "ON(OC, BP)",
+      "ON(AO, KX)"
+    ],
+    [
+      "ON(HT, HG)",
+      "ON(AI, GP)"
+    ],
+    [
+      "ON(HT, HG)",
+      "ON(LT, DB)"
+    ],
+    [
+      "ON(AI, GP)",
+      "ON(HT, HG)"
+    ],
+    [
+      "ON(AI, GP)",
+      "ON(LT, DB)"
+    ],
+    [
+      "ON(LT, DB)",
+      "ON(HT, HG)"
+    ],
+    [
+      "ON(LT, DB)",
+      "ON(AI, GP)"
+    ],
+    [
+      "ON(JE, FY)",
+      "ON(BU, KO)"
+    ],
+    [
+      "ON(JE, FY)",
+      "ON(EU, AQ)"
+    ],
+    [
+      "ON(JE, FY)",
+      "ON(KP, OH)"
+    ],
+    [
+      "ON(BU, KO)",
+      "ON(JE, FY)"
+    ],
+    [
+      "ON(BU, KO)",
+      "ON(EU, AQ)"
+    ],
+    [
+      "ON(BU, KO)",
+      "ON(KP, OH)"
+    ],
+    [
+      "ON(EU, AQ)",
+      "ON(JE, FY)"
+    ],
+    [
+      "ON(EU, AQ)",
+      "ON(BU, KO)"
+    ],
+    [
+      "ON(EU, AQ)",
+      "ON(KP, OH)"
+    ],
+    [
+      "ON(KP, OH)",
+      "ON(JE, FY)"
+    ],
+    [
+      "ON(KP, OH)",
+      "ON(BU, KO)"
+    ],
+    [
+      "ON(KP, OH)",
+      "ON(EU, AQ)"
+    ],
+    [
+      "ON(HO, FE)",
+      "ON(GY, CL)"
+    ],
+    [
+      "ON(HO, FE)",
+      "ON(OT, NC)"
+    ],
+    [
+      "ON(GY, CL)",
+      "ON(HO, FE)"
+    ],
+    [
+      "ON(GY, CL)",
+      "ON(OT, NC)"
+    ],
+    [
+      "ON(OT, NC)",
+      "ON(HO, FE)"
+    ],
+    [
+      "ON(OT, NC)",
+      "ON(GY, CL)"
+    ],
+    [
+      "ON(BY, AT)",
+      "ON(MW, II)"
+    ],
+    [
+      "ON(BY, AT)",
+      "ON(LK, LD)"
+    ],
+    [
+      "ON(MW, II)",
+      "ON(BY, AT)"
+    ],
+    [
+      "ON(MW, II)",
+      "ON(LK, LD)"
+    ],
+    [
+      "ON(LK, LD)",
+      "ON(BY, AT)"
+    ],
+    [
+      "ON(LK, LD)",
+      "ON(MW, II)"
+    ],
+    [
+      "ON(AB, ID)",
+      "ON(FS, CB)"
+    ],
+    [
+      "ON(FS, CB)",
+      "ON(AB, ID)"
+    ],
+    [
+      "ON(FH, DE)",
+      "ON(MH, BZ)"
+    ],
+    [
+      "ON(MH, BZ)",
+      "ON(FH, DE)"
+    ],
+    [
+      "ON(DI, LM)",
+      "ON(BN, IC)"
+    ],
+    [
+      "ON(DI, LM)",
+      "ON(DP, AG)"
+    ],
+    [
+      "ON(BN, IC)",
+      "ON(DI, LM)"
+    ],
+    [
+      "ON(BN, IC)",
+      "ON(DP, AG)"
+    ],
+    [
+      "ON(DP, AG)",
+      "ON(DI, LM)"
+    ],
+    [
+      "ON(DP, AG)",
+      "ON(BN, IC)"
+    ],
+    [
+      "ON(LB, LR)",
+      "ON(ET, JQ)"
+    ],
+    [
+      "ON(ET, JQ)",
+      "ON(LB, LR)"
+    ],
+    [
+      "ON(NF, LJ)",
+      "ON(CW, DO)"
+    ],
+    [
+      "ON(CW, DO)",
+      "ON(NF, LJ)"
+    ],
+    [
+      "ON(DZ, DS)",
+      "ON(ID, OP)"
+    ],
+    [
+      "ON(DZ, DS)",
+      "ON(LC, KJ)"
+    ],
+    [
+      "ON(ID, OP)",
+      "ON(DZ, DS)"
+    ],
+    [
+      "ON(ID, OP)",
+      "ON(LC, KJ)"
+    ],
+    [
+      "ON(LC, KJ)",
+      "ON(DZ, DS)"
+    ],
+    [
+      "ON(LC, KJ)",
+      "ON(ID, OP)"
+    ],
+    [
+      "ON(OK, JD)",
+      "ON(KV, CE)"
+    ],
+    [
+      "ON(OK, JD)",
+      "ON(OX, MJ)"
+    ],
+    [
+      "ON(KV, CE)",
+      "ON(OK, JD)"
+    ],
+    [
+      "ON(KV, CE)",
+      "ON(OX, MJ)"
+    ],
+    [
+      "ON(OX, MJ)",
+      "ON(OK, JD)"
+    ],
+    [
+      "ON(OX, MJ)",
+      "ON(KV, CE)"
+    ],
+    [
+      "ON(BH, OQ)",
+      "ON(MI, FS)"
+    ],
+    [
+      "ON(MI, FS)",
+      "ON(BH, OQ)"
+    ],
+    [
+      "ON(NB, AI)",
+      "ON(GE, GL)"
+    ],
+    [
+      "ON(GE, GL)",
+      "ON(NB, AI)"
+    ],
+    [
+      "ON(NI, IM)",
+      "ON(EG, LV)"
+    ],
+    [
+      "ON(EG, LV)",
+      "ON(NI, IM)"
+    ],
+    [
+      "ON(NE, GI)",
+      "ON(OS, JL)"
+    ],
+    [
+      "ON(OS, JL)",
+      "ON(NE, GI)"
+    ],
+    [
+      "ON(GF, NI)",
+      "ON(MR, BT)"
+    ],
+    [
+      "ON(MR, BT)",
+      "ON(GF, NI)"
+    ],
+    [
+      "ON(NH, IP)",
+      "ON(FK, FQ)"
+    ],
+    [
+      "ON(FK, FQ)",
+      "ON(NH, IP)"
+    ],
+    [
+      "ON(BB, CZ)",
+      "ON(KX, OB)"
+    ],
+    [
+      "ON(BB, CZ)",
+      "ON(BI, GY)"
+    ],
+    [
+      "ON(BB, CZ)",
+      "ON(BR, BA)"
+    ],
+    [
+      "ON(KX, OB)",
+      "ON(BB, CZ)"
+    ],
+    [
+      "ON(KX, OB)",
+      "ON(BI, GY)"
+    ],
+    [
+      "ON(KX, OB)",
+      "ON(BR, BA)"
+    ],
+    [
+      "ON(BI, GY)",
+      "ON(BB, CZ)"
+    ],
+    [
+      "ON(BI, GY)",
+      "ON(KX, OB)"
+    ],
+    [
+      "ON(BI, GY)",
+      "ON(BR, BA)"
+    ],
+    [
+      "ON(BR, BA)",
+      "ON(BB, CZ)"
+    ],
+    [
+      "ON(BR, BA)",
+      "ON(KX, OB)"
+    ],
+    [
+      "ON(BR, BA)",
+      "ON(BI, GY)"
+    ],
+    [
+      "ON(IR, CN)",
+      "ON(CP, NG)"
+    ],
+    [
+      "ON(CP, NG)",
+      "ON(IR, CN)"
+    ],
+    [
+      "ON(MU, FI)",
+      "ON(MM, FJ)"
+    ],
+    [
+      "ON(MU, FI)",
+      "ON(DQ, EJ)"
+    ],
+    [
+      "ON(MM, FJ)",
+      "ON(MU, FI)"
+    ],
+    [
+      "ON(MM, FJ)",
+      "ON(DQ, EJ)"
+    ],
+    [
+      "ON(DQ, EJ)",
+      "ON(MU, FI)"
+    ],
+    [
+      "ON(DQ, EJ)",
+      "ON(MM, FJ)"
+    ],
+    [
+      "ON(GR, JV)",
+      "ON(OA, AO)"
+    ],
+    [
+      "ON(OA, AO)",
+      "ON(GR, JV)"
+    ],
+    [
+      "ON(KL, NZ)",
+      "ON(NW, LY)"
+    ],
+    [
+      "ON(NW, LY)",
+      "ON(KL, NZ)"
+    ],
+    [
+      "ON(IE, CQ)",
+      "ON(DY, GF)"
+    ],
+    [
+      "ON(IE, CQ)",
+      "ON(HM, DW)"
+    ],
+    [
+      "ON(IE, CQ)",
+      "ON(BJ, CJ)"
+    ],
+    [
+      "ON(DY, GF)",
+      "ON(IE, CQ)"
+    ],
+    [
+      "ON(DY, GF)",
+      "ON(HM, DW)"
+    ],
+    [
+      "ON(DY, GF)",
+      "ON(BJ, CJ)"
+    ],
+    [
+      "ON(HM, DW)",
+      "ON(IE, CQ)"
+    ],
+    [
+      "ON(HM, DW)",
+      "ON(DY, GF)"
+    ],
+    [
+      "ON(HM, DW)",
+      "ON(BJ, CJ)"
+    ],
+    [
+      "ON(BJ, CJ)",
+      "ON(IE, CQ)"
+    ],
+    [
+      "ON(BJ, CJ)",
+      "ON(DY, GF)"
+    ],
+    [
+      "ON(BJ, CJ)",
+      "ON(HM, DW)"
+    ],
+    [
+      "ON(JC, FM)",
+      "ON(AS, HR)"
+    ],
+    [
+      "ON(AS, HR)",
+      "ON(JC, FM)"
+    ],
+    [
+      "ON(HD, KI)",
+      "ON(AF, OI)"
+    ],
+    [
+      "ON(HD, KI)",
+      "ON(NM, FD)"
+    ],
+    [
+      "ON(AF, OI)",
+      "ON(HD, KI)"
+    ],
+    [
+      "ON(AF, OI)",
+      "ON(NM, FD)"
+    ],
+    [
+      "ON(NM, FD)",
+      "ON(HD, KI)"
+    ],
+    [
+      "ON(NM, FD)",
+      "ON(AF, OI)"
+    ],
+    [
+      "ON(CK, IX)",
+      "ON(AZ, NU)"
+    ],
+    [
+      "ON(AZ, NU)",
+      "ON(CK, IX)"
+    ],
+    [
+      "ON(IV, MG)",
+      "ON(MF, ER)"
+    ],
+    [
+      "ON(MF, ER)",
+      "ON(IV, MG)"
+    ],
+    [
+      "ON(CQ, MK)",
+      "ON(GI, FL)"
+    ],
+    [
+      "ON(CQ, MK)",
+      "ON(FO, IJ)"
+    ],
+    [
+      "ON(GI, FL)",
+      "ON(CQ, MK)"
+    ],
+    [
+      "ON(GI, FL)",
+      "ON(FO, IJ)"
+    ],
+    [
+      "ON(FO, IJ)",
+      "ON(CQ, MK)"
+    ],
+    [
+      "ON(FO, IJ)",
+      "ON(GI, FL)"
+    ],
+    [
+      "ONTABLE(GH)",
+      "ON(DV, LF)"
+    ],
+    [
+      "ON(DV, LF)",
+      "ONTABLE(GH)"
+    ],
+    [
+      "ON(HG, PC)",
+      "ON(IY, LC)"
+    ],
+    [
+      "ON(IY, LC)",
+      "ON(HG, PC)"
+    ],
+    [
+      "ON(OY, GM)",
+      "ON(HV, FV)"
+    ],
+    [
+      "ON(OY, GM)",
+      "ON(IF, NA)"
+    ],
+    [
+      "ON(OY, GM)",
+      "ON(LF, GH)"
+    ],
+    [
+      "ON(HV, FV)",
+      "ON(OY, GM)"
+    ],
+    [
+      "ON(HV, FV)",
+      "ON(IF, NA)"
+    ],
+    [
+      "ON(HV, FV)",
+      "ON(LF, GH)"
+    ],
+    [
+      "ON(IF, NA)",
+      "ON(OY, GM)"
+    ],
+    [
+      "ON(IF, NA)",
+      "ON(HV, FV)"
+    ],
+    [
+      "ON(IF, NA)",
+      "ON(LF, GH)"
+    ],
+    [
+      "ON(LF, GH)",
+      "ON(OY, GM)"
+    ],
+    [
+      "ON(LF, GH)",
+      "ON(HV, FV)"
+    ],
+    [
+      "ON(LF, GH)",
+      "ON(IF, NA)"
+    ],
+    [
+      "ON(NT, FX)",
+      "ON(GV, OE)"
+    ],
+    [
+      "ON(NT, FX)",
+      "ON(FP, NV)"
+    ],
+    [
+      "ON(NT, FX)",
+      "ON(CD, CX)"
+    ],
+    [
+      "ON(GV, OE)",
+      "ON(NT, FX)"
+    ],
+    [
+      "ON(GV, OE)",
+      "ON(FP, NV)"
+    ],
+    [
+      "ON(GV, OE)",
+      "ON(CD, CX)"
+    ],
+    [
+      "ON(FP, NV)",
+      "ON(NT, FX)"
+    ],
+    [
+      "ON(FP, NV)",
+      "ON(GV, OE)"
+    ],
+    [
+      "ON(FP, NV)",
+      "ON(CD, CX)"
+    ],
+    [
+      "ON(CD, CX)",
+      "ON(NT, FX)"
+    ],
+    [
+      "ON(CD, CX)",
+      "ON(GV, OE)"
+    ],
+    [
+      "ON(CD, CX)",
+      "ON(FP, NV)"
+    ],
+    [
+      "ON(JT, EE)",
+      "ON(OJ, PG)"
+    ],
+    [
+      "ON(OJ, PG)",
+      "ON(JT, EE)"
+    ],
+    [
+      "ON(DS, LW)",
+      "ON(JY, CG)"
+    ],
+    [
+      "ON(JY, CG)",
+      "ON(DS, LW)"
+    ],
+    [
+      "ON(FL, JN)",
+      "ON(BX, BR)"
+    ],
+    [
+      "ON(FL, JN)",
+      "ON(NK, IT)"
+    ],
+    [
+      "ON(BX, BR)",
+      "ON(FL, JN)"
+    ],
+    [
+      "ON(BX, BR)",
+      "ON(NK, IT)"
+    ],
+    [
+      "ON(NK, IT)",
+      "ON(FL, JN)"
+    ],
+    [
+      "ON(NK, IT)",
+      "ON(BX, BR)"
+    ],
+    [
+      "ON(FB, HS)",
+      "ON(MN, ED)"
+    ],
+    [
+      "ON(FB, HS)",
+      "ON(NV, IQ)"
+    ],
+    [
+      "ON(MN, ED)",
+      "ON(FB, HS)"
+    ],
+    [
+      "ON(MN, ED)",
+      "ON(NV, IQ)"
+    ],
+    [
+      "ON(NV, IQ)",
+      "ON(FB, HS)"
+    ],
+    [
+      "ON(NV, IQ)",
+      "ON(MN, ED)"
+    ],
+    [
+      "ON(KG, NO)",
+      "ON(CU, MR)"
+    ],
+    [
+      "ON(KG, NO)",
+      "ON(BT, FG)"
+    ],
+    [
+      "ON(CU, MR)",
+      "ON(KG, NO)"
+    ],
+    [
+      "ON(CU, MR)",
+      "ON(BT, FG)"
+    ],
+    [
+      "ON(BT, FG)",
+      "ON(KG, NO)"
+    ],
+    [
+      "ON(BT, FG)",
+      "ON(CU, MR)"
+    ],
+    [
+      "ON(GX, IZ)",
+      "ON(GN, PE)"
+    ],
+    [
+      "ON(GX, IZ)",
+      "ON(GQ, MI)"
+    ],
+    [
+      "ON(GN, PE)",
+      "ON(GX, IZ)"
+    ],
+    [
+      "ON(GN, PE)",
+      "ON(GQ, MI)"
+    ],
+    [
+      "ON(GQ, MI)",
+      "ON(GX, IZ)"
+    ],
+    [
+      "ON(GQ, MI)",
+      "ON(GN, PE)"
+    ],
+    [
+      "ON(HQ, KH)",
+      "ON(MS, IU)"
+    ],
+    [
+      "ON(HQ, KH)",
+      "ON(MC, AR)"
+    ],
+    [
+      "ON(MS, IU)",
+      "ON(HQ, KH)"
+    ],
+    [
+      "ON(MS, IU)",
+      "ON(MC, AR)"
+    ],
+    [
+      "ON(MC, AR)",
+      "ON(HQ, KH)"
+    ],
+    [
+      "ON(MC, AR)",
+      "ON(MS, IU)"
+    ],
+    [
+      "ON(AX, JJ)",
+      "ON(KN, OT)"
+    ],
+    [
+      "ON(KN, OT)",
+      "ON(AX, JJ)"
+    ],
+    [
+      "ON(ND, ME)",
+      "ON(FN, EI)"
+    ],
+    [
+      "ON(FN, EI)",
+      "ON(ND, ME)"
+    ],
+    [
+      "ON(CN, JM)",
+      "ON(EY, CI)"
+    ],
+    [
+      "ON(EY, CI)",
+      "ON(CN, JM)"
+    ],
+    [
+      "ON(HY, KR)",
+      "ON(NZ, BF)"
+    ],
+    [
+      "ON(NZ, BF)",
+      "ON(HY, KR)"
+    ],
+    [
+      "ON(CZ, JW)",
+      "ON(OU, IS)"
+    ],
+    [
+      "ON(CZ, JW)",
+      "ON(DR, AU)"
+    ],
+    [
+      "ON(CZ, JW)",
+      "ON(IQ, BL)"
+    ],
+    [
+      "ON(CZ, JW)",
+      "ON(MZ, NS)"
+    ],
+    [
+      "ON(OU, IS)",
+      "ON(CZ, JW)"
+    ],
+    [
+      "ON(OU, IS)",
+      "ON(DR, AU)"
+    ],
+    [
+      "ON(OU, IS)",
+      "ON(IQ, BL)"
+    ],
+    [
+      "ON(OU, IS)",
+      "ON(MZ, NS)"
+    ],
+    [
+      "ON(DR, AU)",
+      "ON(CZ, JW)"
+    ],
+    [
+      "ON(DR, AU)",
+      "ON(OU, IS)"
+    ],
+    [
+      "ON(DR, AU)",
+      "ON(IQ, BL)"
+    ],
+    [
+      "ON(DR, AU)",
+      "ON(MZ, NS)"
+    ],
+    [
+      "ON(IQ, BL)",
+      "ON(CZ, JW)"
+    ],
+    [
+      "ON(IQ, BL)",
+      "ON(OU, IS)"
+    ],
+    [
+      "ON(IQ, BL)",
+      "ON(DR, AU)"
+    ],
+    [
+      "ON(IQ, BL)",
+      "ON(MZ, NS)"
+    ],
+    [
+      "ON(MZ, NS)",
+      "ON(CZ, JW)"
+    ],
+    [
+      "ON(MZ, NS)",
+      "ON(OU, IS)"
+    ],
+    [
+      "ON(MZ, NS)",
+      "ON(DR, AU)"
+    ],
+    [
+      "ON(MZ, NS)",
+      "ON(IQ, BL)"
+    ],
+    [
+      "ON(ED, IW)",
+      "ON(AW, MS)"
+    ],
+    [
+      "ON(AW, MS)",
+      "ON(ED, IW)"
+    ],
+    [
+      "ONTABLE(IN)",
+      "ON(MG, LX)"
+    ],
+    [
+      "ONTABLE(IN)",
+      "ON(LA, GR)"
+    ],
+    [
+      "ONTABLE(IN)",
+      "ON(EP, DG)"
+    ],
+    [
+      "ON(MG, LX)",
+      "ONTABLE(IN)"
+    ],
+    [
+      "ON(MG, LX)",
+      "ON(LA, GR)"
+    ],
+    [
+      "ON(MG, LX)",
+      "ON(EP, DG)"
+    ],
+    [
+      "ON(LA, GR)",
+      "ONTABLE(IN)"
+    ],
+    [
+      "ON(LA, GR)",
+      "ON(MG, LX)"
+    ],
+    [
+      "ON(LA, GR)",
+      "ON(EP, DG)"
+    ],
+    [
+      "ON(EP, DG)",
+      "ONTABLE(IN)"
+    ],
+    [
+      "ON(EP, DG)",
+      "ON(MG, LX)"
+    ],
+    [
+      "ON(EP, DG)",
+      "ON(LA, GR)"
+    ],
+    [
+      "ON(MD, CW)",
+      "ON(FJ, GT)"
+    ],
+    [
+      "ON(FJ, GT)",
+      "ON(MD, CW)"
+    ],
+    [
+      "ON(AC, NQ)",
+      "ON(NL, LE)"
+    ],
+    [
+      "ON(NL, LE)",
+      "ON(AC, NQ)"
+    ],
+    [
+      "ON(CY, GA)",
+      "ON(PD, HQ)"
+    ],
+    [
+      "ON(CY, GA)",
+      "ON(DM, JS)"
+    ],
+    [
+      "ON(PD, HQ)",
+      "ON(CY, GA)"
+    ],
+    [
+      "ON(PD, HQ)",
+      "ON(DM, JS)"
+    ],
+    [
+      "ON(DM, JS)",
+      "ON(CY, GA)"
+    ],
+    [
+      "ON(DM, JS)",
+      "ON(PD, HQ)"
+    ],
+    [
+      "ON(HL, MY)",
+      "ON(BO, KS)"
+    ],
+    [
+      "ON(BO, KS)",
+      "ON(HL, MY)"
+    ],
+    [
+      "ON(CG, LU)",
+      "ON(NQ, IK)"
+    ],
+    [
+      "ON(CG, LU)",
+      "ON(BQ, NH)"
+    ],
+    [
+      "ON(NQ, IK)",
+      "ON(CG, LU)"
+    ],
+    [
+      "ON(NQ, IK)",
+      "ON(BQ, NH)"
+    ],
+    [
+      "ON(BQ, NH)",
+      "ON(CG, LU)"
+    ],
+    [
+      "ON(BQ, NH)",
+      "ON(NQ, IK)"
+    ],
+    [
+      "ON(PH, HK)",
+      "ON(FI, NW)"
+    ],
+    [
+      "ON(FI, NW)",
+      "ON(PH, HK)"
+    ],
+    [
+      "ON(DD, DY)",
+      "ON(AQ, GE)"
+    ],
+    [
+      "ON(AQ, GE)",
+      "ON(DD, DY)"
+    ],
+    [
+      "ON(EW, HD)",
+      "ON(HB, HA)"
+    ],
+    [
+      "ON(HB, HA)",
+      "ON(EW, HD)"
+    ],
+    [
+      "ON(ML, IE)",
+      "ON(EC, CO)"
+    ],
+    [
+      "ON(EC, CO)",
+      "ON(ML, IE)"
+    ],
+    [
+      "ON(MV, IR)",
+      "ON(FV, OD)"
+    ],
+    [
+      "ON(MV, IR)",
+      "ON(AU, KP)"
+    ],
+    [
+      "ON(FV, OD)",
+      "ON(MV, IR)"
+    ],
+    [
+      "ON(FV, OD)",
+      "ON(AU, KP)"
+    ],
+    [
+      "ON(AU, KP)",
+      "ON(MV, IR)"
+    ],
+    [
+      "ON(AU, KP)",
+      "ON(FV, OD)"
+    ],
+    [
+      "ON(OQ, EN)",
+      "ON(BV, LP)"
+    ],
+    [
+      "ON(BV, LP)",
+      "ON(OQ, EN)"
+    ],
+    [
+      "ON(HJ, DK)",
+      "ON(JN, BN)"
+    ],
+    [
+      "ON(HJ, DK)",
+      "ON(JB, OF)"
+    ],
+    [
+      "ON(JN, BN)",
+      "ON(HJ, DK)"
+    ],
+    [
+      "ON(JN, BN)",
+      "ON(JB, OF)"
+    ],
+    [
+      "ON(JB, OF)",
+      "ON(HJ, DK)"
+    ],
+    [
+      "ON(JB, OF)",
+      "ON(JN, BN)"
+    ],
+    [
+      "ON(GC, ON)",
+      "ON(PF, JU)"
+    ],
+    [
+      "ON(GC, ON)",
+      "ON(JH, AV)"
+    ],
+    [
+      "ON(GC, ON)",
+      "ON(NU, EY)"
+    ],
+    [
+      "ON(PF, JU)",
+      "ON(GC, ON)"
+    ],
+    [
+      "ON(PF, JU)",
+      "ON(JH, AV)"
+    ],
+    [
+      "ON(PF, JU)",
+      "ON(NU, EY)"
+    ],
+    [
+      "ON(JH, AV)",
+      "ON(GC, ON)"
+    ],
+    [
+      "ON(JH, AV)",
+      "ON(PF, JU)"
+    ],
+    [
+      "ON(JH, AV)",
+      "ON(NU, EY)"
+    ],
+    [
+      "ON(NU, EY)",
+      "ON(GC, ON)"
+    ],
+    [
+      "ON(NU, EY)",
+      "ON(PF, JU)"
+    ],
+    [
+      "ON(NU, EY)",
+      "ON(JH, AV)"
+    ],
+    [
+      "ON(FE, AC)",
+      "ON(JS, EF)"
+    ],
+    [
+      "ON(JS, EF)",
+      "ON(FE, AC)"
+    ],
+    [
+      "ON(LJ, DL)",
+      "ON(DK, OK)"
+    ],
+    [
+      "ON(LJ, DL)",
+      "ON(HC, FA)"
+    ],
+    [
+      "ON(DK, OK)",
+      "ON(LJ, DL)"
+    ],
+    [
+      "ON(DK, OK)",
+      "ON(HC, FA)"
+    ],
+    [
+      "ON(HC, FA)",
+      "ON(LJ, DL)"
+    ],
+    [
+      "ON(HC, FA)",
+      "ON(DK, OK)"
+    ],
+    [
+      "ON(KO, LH)",
+      "ON(IP, DC)"
+    ],
+    [
+      "ON(IP, DC)",
+      "ON(KO, LH)"
+    ],
+    [
+      "ON(JU, MV)",
+      "ON(ME, MQ)"
+    ],
+    [
+      "ON(ME, MQ)",
+      "ON(JU, MV)"
+    ],
+    [
+      "ON(LV, EP)",
+      "ON(DG, JG)"
+    ],
+    [
+      "ON(DG, JG)",
+      "ON(LV, EP)"
+    ],
+    [
+      "ON(IZ, AJ)",
+      "ON(JO, LL)"
+    ],
+    [
+      "ON(JO, LL)",
+      "ON(IZ, AJ)"
+    ],
+    [
+      "ON(PA, ET)",
+      "ON(KB, AP)"
+    ],
+    [
+      "ON(KB, AP)",
+      "ON(PA, ET)"
+    ],
+    [
+      "ON(DN, KF)",
+      "ON(EF, CK)"
+    ],
+    [
+      "ON(EF, CK)",
+      "ON(DN, KF)"
+    ],
+    [
+      "ON(HU, BY)",
+      "ON(NA, EG)"
+    ],
+    [
+      "ON(NA, EG)",
+      "ON(HU, BY)"
+    ],
+    [
+      "ON(FW, KU)",
+      "ON(NS, BJ)"
+    ],
+    [
+      "ON(NS, BJ)",
+      "ON(FW, KU)"
+    ],
+    [
+      "ON(JJ, NR)",
+      "ON(BA, EK)"
+    ],
+    [
+      "ON(BA, EK)",
+      "ON(JJ, NR)"
+    ],
+    [
+      "ON(ES, JX)",
+      "ON(EI, BO)"
+    ],
+    [
+      "ON(EI, BO)",
+      "ON(ES, JX)"
+    ],
+    [
+      "ON(DL, KW)",
+      "ON(II, HM)"
+    ],
+    [
+      "ON(DL, KW)",
+      "ON(NG, AW)"
+    ],
+    [
+      "ON(DL, KW)",
+      "ON(FR, GV)"
+    ],
+    [
+      "ON(II, HM)",
+      "ON(DL, KW)"
+    ],
+    [
+      "ON(II, HM)",
+      "ON(NG, AW)"
+    ],
+    [
+      "ON(II, HM)",
+      "ON(FR, GV)"
+    ],
+    [
+      "ON(NG, AW)",
+      "ON(DL, KW)"
+    ],
+    [
+      "ON(NG, AW)",
+      "ON(II, HM)"
+    ],
+    [
+      "ON(NG, AW)",
+      "ON(FR, GV)"
+    ],
+    [
+      "ON(FR, GV)",
+      "ON(DL, KW)"
+    ],
+    [
+      "ON(FR, GV)",
+      "ON(II, HM)"
+    ],
+    [
+      "ON(FR, GV)",
+      "ON(NG, AW)"
+    ],
+    [
+      "ON(GU, ES)",
+      "ON(PI, OX)"
+    ],
+    [
+      "ON(PI, OX)",
+      "ON(GU, ES)"
+    ],
+    [
+      "ON(AT, HO)",
+      "ON(DW, OW)"
+    ],
+    [
+      "ON(AT, HO)",
+      "ON(DJ, GW)"
+    ],
+    [
+      "ON(DW, OW)",
+      "ON(AT, HO)"
+    ],
+    [
+      "ON(DW, OW)",
+      "ON(DJ, GW)"
+    ],
+    [
+      "ON(DJ, GW)",
+      "ON(AT, HO)"
+    ],
+    [
+      "ON(DJ, GW)",
+      "ON(DW, OW)"
+    ],
+    [
+      "ON(JW, LB)",
+      "ON(JR, BX)"
+    ],
+    [
+      "ON(JR, BX)",
+      "ON(JW, LB)"
+    ],
+    [
+      "ON(IA, KK)",
+      "ON(OE, GN)"
+    ],
+    [
+      "ON(OE, GN)",
+      "ON(IA, KK)"
+    ],
+    [
+      "ON(KH, JH)",
+      "ON(OW, MT)"
+    ],
+    [
+      "ON(OW, MT)",
+      "ON(KH, JH)"
+    ],
+    [
+      "ONTABLE(MA)",
+      "ON(LE, AN)"
+    ],
+    [
+      "ON(LE, AN)",
+      "ONTABLE(MA)"
+    ],
+    [
+      "ON(DT, GC)",
+      "ON(OG, HU)"
+    ],
+    [
+      "ON(OG, HU)",
+      "ON(DT, GC)"
+    ],
+    [
+      "ON(FF, HJ)",
+      "ON(AH, OR)"
+    ],
+    [
+      "ON(AH, OR)",
+      "ON(FF, HJ)"
+    ],
+    [
+      "ON(AP, AA)",
+      "ON(BC, DR)"
+    ],
+    [
+      "ON(BC, DR)",
+      "ON(AP, AA)"
+    ],
+    [
+      "ON(MO, IY)",
+      "ON(EQ, MC)"
+    ],
+    [
+      "ON(EQ, MC)",
+      "ON(MO, IY)"
+    ],
+    [
+      "ON(JD, HW)",
+      "ON(KI, CA)"
+    ],
+    [
+      "ON(JD, HW)",
+      "ON(KU, CF)"
+    ],
+    [
+      "ON(KI, CA)",
+      "ON(JD, HW)"
+    ],
+    [
+      "ON(KI, CA)",
+      "ON(KU, CF)"
+    ],
+    [
+      "ON(KU, CF)",
+      "ON(JD, HW)"
+    ],
+    [
+      "ON(KU, CF)",
+      "ON(KI, CA)"
+    ],
+    [
+      "ON(HH, NP)",
+      "ON(KK, IB)"
+    ],
+    [
+      "ON(KK, IB)",
+      "ON(HH, NP)"
+    ],
+    [
+      "ON(IM, EV)",
+      "ON(CI, FK)"
+    ],
+    [
+      "ON(CI, FK)",
+      "ON(IM, EV)"
+    ],
+    [
+      "ON(EL, NJ)",
+      "ON(LY, KA)"
+    ],
+    [
+      "ON(LY, KA)",
+      "ON(EL, NJ)"
+    ],
+    [
+      "ON(KW, CY)",
+      "ON(IH, KG)"
+    ],
+    [
+      "ON(IH, KG)",
+      "ON(KW, CY)"
+    ],
+    [
+      "ON(KY, PD)",
+      "ON(HN, JR)"
+    ],
+    [
+      "ON(HN, JR)",
+      "ON(KY, PD)"
+    ],
+    [
+      "ON(FX, AE)",
+      "ON(NN, GX)"
+    ],
+    [
+      "ON(FX, AE)",
+      "ON(OF, MW)"
+    ],
+    [
+      "ON(FX, AE)",
+      "ON(BK, EZ)"
+    ],
+    [
+      "ON(NN, GX)",
+      "ON(FX, AE)"
+    ],
+    [
+      "ON(NN, GX)",
+      "ON(OF, MW)"
+    ],
+    [
+      "ON(NN, GX)",
+      "ON(BK, EZ)"
+    ],
+    [
+      "ON(OF, MW)",
+      "ON(FX, AE)"
+    ],
+    [
+      "ON(OF, MW)",
+      "ON(NN, GX)"
+    ],
+    [
+      "ON(OF, MW)",
+      "ON(BK, EZ)"
+    ],
+    [
+      "ON(BK, EZ)",
+      "ON(FX, AE)"
+    ],
+    [
+      "ON(BK, EZ)",
+      "ON(NN, GX)"
+    ],
+    [
+      "ON(BK, EZ)",
+      "ON(OF, MW)"
+    ],
+    [
+      "ON(GO, LT)",
+      "ON(OZ, BC)"
+    ],
+    [
+      "ON(OZ, BC)",
+      "ON(GO, LT)"
+    ],
+    [
+      "ON(CM, DN)",
+      "ON(CS, AK)"
+    ],
+    [
+      "ON(CS, AK)",
+      "ON(CM, DN)"
+    ],
+    [
+      "ON(LW, LI)",
+      "ON(MB, KM)"
+    ],
+    [
+      "ON(MB, KM)",
+      "ON(LW, LI)"
+    ],
+    [
+      "ON(OL, DI)",
+      "ON(CT, CS)"
+    ],
+    [
+      "ON(CT, CS)",
+      "ON(OL, DI)"
+    ],
+    [
+      "ON(EA, IH)",
+      "ON(KA, GO)"
+    ],
+    [
+      "ON(EA, IH)",
+      "ON(GJ, MF)"
+    ],
+    [
+      "ON(KA, GO)",
+      "ON(EA, IH)"
+    ],
+    [
+      "ON(KA, GO)",
+      "ON(GJ, MF)"
+    ],
+    [
+      "ON(GJ, MF)",
+      "ON(EA, IH)"
+    ],
+    [
+      "ON(GJ, MF)",
+      "ON(KA, GO)"
+    ],
+    [
+      "ON(CF, GD)",
+      "ON(GD, EQ)"
+    ],
+    [
+      "ON(GD, EQ)",
+      "ON(CF, GD)"
+    ],
+    [
+      "ON(PC, GU)",
+      "ON(NJ, KC)"
+    ],
+    [
+      "ON(PC, GU)",
+      "HANDEMPTY()"
+    ],
+    [
+      "ON(NJ, KC)",
+      "ON(PC, GU)"
+    ],
+    [
+      "ON(NJ, KC)",
+      "HANDEMPTY()"
+    ],
+    [
+      "HANDEMPTY()",
+      "ON(PC, GU)"
+    ],
+    [
+      "HANDEMPTY()",
+      "ON(NJ, KC)"
+    ],
+    [
+      "ON(LR, DT)",
+      "ON(KC, EC)"
+    ],
+    [
+      "ON(LR, DT)",
+      "ON(EZ, GQ)"
+    ],
+    [
+      "ON(KC, EC)",
+      "ON(LR, DT)"
+    ],
+    [
+      "ON(KC, EC)",
+      "ON(EZ, GQ)"
+    ],
+    [
+      "ON(EZ, GQ)",
+      "ON(LR, DT)"
+    ],
+    [
+      "ON(EZ, GQ)",
+      "ON(KC, EC)"
+    ],
+    [
+      "ON(KR, FB)",
+      "ON(HK, JE)"
+    ],
+    [
+      "ON(HK, JE)",
+      "ON(KR, FB)"
+    ],
+    [
+      "ON(JX, GK)",
+      "ON(EN, IG)"
+    ],
+    [
+      "ON(EN, IG)",
+      "ON(JX, GK)"
+    ],
+    [
+      "ON(GM, BE)",
+      "ON(AL, OO)"
+    ],
+    [
+      "ON(GM, BE)",
+      "ON(MY, FN)"
+    ],
+    [
+      "ON(AL, OO)",
+      "ON(GM, BE)"
+    ],
+    [
+      "ON(AL, OO)",
+      "ON(MY, FN)"
+    ],
+    [
+      "ON(MY, FN)",
+      "ON(GM, BE)"
+    ],
+    [
+      "ON(MY, FN)",
+      "ON(AL, OO)"
+    ],
+    [
+      "ON(BF, OS)",
+      "ON(JL, MN)"
+    ],
+    [
+      "ON(BF, OS)",
+      "ON(BL, OJ)"
+    ],
+    [
+      "ON(JL, MN)",
+      "ON(BF, OS)"
+    ],
+    [
+      "ON(JL, MN)",
+      "ON(BL, OJ)"
+    ],
+    [
+      "ON(BL, OJ)",
+      "ON(BF, OS)"
+    ],
+    [
+      "ON(BL, OJ)",
+      "ON(JL, MN)"
+    ],
+    [
+      "ON(HS, MD)",
+      "ON(CO, JC)"
+    ],
+    [
+      "ON(HS, MD)",
+      "ON(HI, KB)"
+    ],
+    [
+      "ON(HS, MD)",
+      "ON(OH, NK)"
+    ],
+    [
+      "ON(CO, JC)",
+      "ON(HS, MD)"
+    ],
+    [
+      "ON(CO, JC)",
+      "ON(HI, KB)"
+    ],
+    [
+      "ON(CO, JC)",
+      "ON(OH, NK)"
+    ],
+    [
+      "ON(HI, KB)",
+      "ON(HS, MD)"
+    ],
+    [
+      "ON(HI, KB)",
+      "ON(CO, JC)"
+    ],
+    [
+      "ON(HI, KB)",
+      "ON(OH, NK)"
+    ],
+    [
+      "ON(OH, NK)",
+      "ON(HS, MD)"
+    ],
+    [
+      "ON(OH, NK)",
+      "ON(CO, JC)"
+    ],
+    [
+      "ON(OH, NK)",
+      "ON(HI, KB)"
+    ],
+    [
+      "ON(HP, PB)",
+      "ON(OM, HZ)"
+    ],
+    [
+      "ON(OM, HZ)",
+      "ON(HP, PB)"
+    ]
+  ]
+}

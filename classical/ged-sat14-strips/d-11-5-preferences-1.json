@@ -1,0 +1,596 @@
+{
+  "partial_order": [
+    [
+      "NORMAL(SUB12)",
+      "NORMAL(SUB12)"
+    ],
+    [
+      "INVERTED(SUB7)",
+      "INVERTED(SUB7)"
+    ],
+    [
+      "INVERTED(SUB1)",
+      "INVERTED(SUB1)"
+    ],
+    [
+      "INVERTED(SUB10)",
+      "INVERTED(SUB10)"
+    ],
+    [
+      "NORMAL(SUB16)",
+      "NORMAL(SUB16)"
+    ],
+    [
+      "NORMAL(SUB4)",
+      "NORMAL(SUB4)"
+    ],
+    [
+      "NORMAL(SUB17)",
+      "NORMAL(SUB17)"
+    ],
+    [
+      "NORMAL(SUB2)",
+      "NORMAL(SUB2)"
+    ],
+    [
+      "INVERTED(SUB6)",
+      "INVERTED(SUB6)"
+    ],
+    [
+      "NORMAL(SUB5)",
+      "NORMAL(SUB5)"
+    ],
+    [
+      "NORMAL(SUB8)",
+      "NORMAL(SUB8)"
+    ],
+    [
+      "NORMAL(SUB11)",
+      "NORMAL(SUB11)"
+    ],
+    [
+      "NORMAL(SUB14)",
+      "NORMAL(SUB14)"
+    ],
+    [
+      "NORMAL(SUB3)",
+      "NORMAL(SUB3)"
+    ],
+    [
+      "NORMAL(G28)",
+      "NORMAL(G28)"
+    ],
+    [
+      "INVERTED(SUB9)",
+      "INVERTED(SUB9)"
+    ],
+    [
+      "INVERTED(G40)",
+      "INVERTED(G40)"
+    ],
+    [
+      "INVERTED(SUB15)",
+      "INVERTED(SUB15)"
+    ],
+    [
+      "INVERTED(SUB13)",
+      "INVERTED(SUB13)"
+    ],
+    [
+      "INVERTED(G97)",
+      "INVERTED(G97)"
+    ],
+    [
+      "CW(G97, SUB12)",
+      "CW(G97, SUB12)"
+    ],
+    [
+      "CW(SUB13, G97)",
+      "CW(SUB13, G97)"
+    ],
+    [
+      "CW(SUB15, SUB13)",
+      "CW(SUB15, SUB13)"
+    ],
+    [
+      "CW(G40, SUB15)",
+      "CW(G40, SUB15)"
+    ],
+    [
+      "CW(SUB9, G40)",
+      "CW(SUB9, G40)"
+    ],
+    [
+      "CW(G28, SUB9)",
+      "CW(G28, SUB9)"
+    ],
+    [
+      "CW(SUB3, G28)",
+      "CW(SUB3, G28)"
+    ],
+    [
+      "CW(SUB14, SUB3)",
+      "CW(SUB14, SUB3)"
+    ],
+    [
+      "CW(SUB11, SUB14)",
+      "CW(SUB11, SUB14)"
+    ],
+    [
+      "CW(SUB8, SUB11)",
+      "CW(SUB8, SUB11)"
+    ],
+    [
+      "CW(SUB5, SUB8)",
+      "CW(SUB5, SUB8)"
+    ],
+    [
+      "CW(SUB6, SUB5)",
+      "CW(SUB6, SUB5)"
+    ],
+    [
+      "CW(SUB2, SUB6)",
+      "CW(SUB2, SUB6)"
+    ],
+    [
+      "CW(SUB17, SUB2)",
+      "CW(SUB17, SUB2)"
+    ],
+    [
+      "CW(SUB4, SUB17)",
+      "CW(SUB4, SUB17)"
+    ],
+    [
+      "CW(SUB16, SUB4)",
+      "CW(SUB16, SUB4)"
+    ],
+    [
+      "CW(SUB10, SUB16)",
+      "CW(SUB10, SUB16)"
+    ],
+    [
+      "CW(SUB1, SUB10)",
+      "CW(SUB1, SUB10)"
+    ],
+    [
+      "CW(SUB7, SUB1)",
+      "CW(SUB7, SUB1)"
+    ],
+    [
+      "CW(SUB12, SUB7)",
+      "CW(SUB12, SUB7)"
+    ],
+    [
+      "NORMAL(SUB4)",
+      "CW(SUB14, SUB3)"
+    ],
+    [
+      "CW(SUB14, SUB3)",
+      "CW(SUB4, SUB17)"
+    ],
+    [
+      "CW(SUB4, SUB17)",
+      "INVERTED(SUB7)"
+    ],
+    [
+      "INVERTED(SUB7)",
+      "NORMAL(SUB8)"
+    ],
+    [
+      "NORMAL(SUB8)",
+      "CW(SUB13, G97)"
+    ],
+    [
+      "CW(SUB13, G97)",
+      "NORMAL(SUB3)"
+    ],
+    [
+      "NORMAL(SUB3)",
+      "NORMAL(SUB12)"
+    ],
+    [
+      "NORMAL(SUB12)",
+      "CW(SUB3, G28)"
+    ],
+    [
+      "CW(SUB3, G28)",
+      "NORMAL(SUB16)"
+    ],
+    [
+      "NORMAL(SUB16)",
+      "NORMAL(G28)"
+    ],
+    [
+      "NORMAL(G28)",
+      "INVERTED(SUB10)"
+    ],
+    [
+      "INVERTED(SUB10)",
+      "CW(SUB9, G40)"
+    ],
+    [
+      "CW(SUB9, G40)",
+      "CW(SUB16, SUB4)"
+    ],
+    [
+      "CW(SUB16, SUB4)",
+      "INVERTED(SUB1)"
+    ],
+    [
+      "INVERTED(SUB1)",
+      "NORMAL(SUB17)"
+    ],
+    [
+      "NORMAL(SUB17)",
+      "CW(G28, SUB9)"
+    ],
+    [
+      "NORMAL(SUB4)",
+      "NORMAL(SUB14)"
+    ],
+    [
+      "NORMAL(SUB4)",
+      "CW(SUB17, SUB2)"
+    ],
+    [
+      "NORMAL(SUB14)",
+      "NORMAL(SUB4)"
+    ],
+    [
+      "NORMAL(SUB14)",
+      "CW(SUB17, SUB2)"
+    ],
+    [
+      "CW(SUB17, SUB2)",
+      "NORMAL(SUB4)"
+    ],
+    [
+      "CW(SUB17, SUB2)",
+      "NORMAL(SUB14)"
+    ],
+    [
+      "CW(SUB14, SUB3)",
+      "CW(SUB12, SUB7)"
+    ],
+    [
+      "CW(SUB12, SUB7)",
+      "CW(SUB14, SUB3)"
+    ],
+    [
+      "INVERTED(SUB7)",
+      "CW(SUB2, SUB6)"
+    ],
+    [
+      "CW(SUB2, SUB6)",
+      "INVERTED(SUB7)"
+    ],
+    [
+      "NORMAL(SUB8)",
+      "CW(SUB6, SUB5)"
+    ],
+    [
+      "NORMAL(SUB8)",
+      "CW(SUB7, SUB1)"
+    ],
+    [
+      "CW(SUB6, SUB5)",
+      "NORMAL(SUB8)"
+    ],
+    [
+      "CW(SUB6, SUB5)",
+      "CW(SUB7, SUB1)"
+    ],
+    [
+      "CW(SUB7, SUB1)",
+      "NORMAL(SUB8)"
+    ],
+    [
+      "CW(SUB7, SUB1)",
+      "CW(SUB6, SUB5)"
+    ],
+    [
+      "NORMAL(SUB3)",
+      "CW(G40, SUB15)"
+    ],
+    [
+      "NORMAL(SUB3)",
+      "CW(SUB11, SUB14)"
+    ],
+    [
+      "CW(G40, SUB15)",
+      "NORMAL(SUB3)"
+    ],
+    [
+      "CW(G40, SUB15)",
+      "CW(SUB11, SUB14)"
+    ],
+    [
+      "CW(SUB11, SUB14)",
+      "NORMAL(SUB3)"
+    ],
+    [
+      "CW(SUB11, SUB14)",
+      "CW(G40, SUB15)"
+    ],
+    [
+      "NORMAL(SUB12)",
+      "INVERTED(SUB6)"
+    ],
+    [
+      "NORMAL(SUB12)",
+      "CW(SUB8, SUB11)"
+    ],
+    [
+      "INVERTED(SUB6)",
+      "NORMAL(SUB12)"
+    ],
+    [
+      "INVERTED(SUB6)",
+      "CW(SUB8, SUB11)"
+    ],
+    [
+      "CW(SUB8, SUB11)",
+      "NORMAL(SUB12)"
+    ],
+    [
+      "CW(SUB8, SUB11)",
+      "INVERTED(SUB6)"
+    ],
+    [
+      "NORMAL(SUB16)",
+      "NORMAL(SUB2)"
+    ],
+    [
+      "NORMAL(SUB16)",
+      "NORMAL(SUB5)"
+    ],
+    [
+      "NORMAL(SUB16)",
+      "INVERTED(G40)"
+    ],
+    [
+      "NORMAL(SUB2)",
+      "NORMAL(SUB16)"
+    ],
+    [
+      "NORMAL(SUB2)",
+      "NORMAL(SUB5)"
+    ],
+    [
+      "NORMAL(SUB2)",
+      "INVERTED(G40)"
+    ],
+    [
+      "NORMAL(SUB5)",
+      "NORMAL(SUB16)"
+    ],
+    [
+      "NORMAL(SUB5)",
+      "NORMAL(SUB2)"
+    ],
+    [
+      "NORMAL(SUB5)",
+      "INVERTED(G40)"
+    ],
+    [
+      "INVERTED(G40)",
+      "NORMAL(SUB16)"
+    ],
+    [
+      "INVERTED(G40)",
+      "NORMAL(SUB2)"
+    ],
+    [
+      "INVERTED(G40)",
+      "NORMAL(SUB5)"
+    ],
+    [
+      "NORMAL(G28)",
+      "INVERTED(SUB9)"
+    ],
+    [
+      "NORMAL(G28)",
+      "INVERTED(SUB13)"
+    ],
+    [
+      "NORMAL(G28)",
+      "INVERTED(G97)"
+    ],
+    [
+      "NORMAL(G28)",
+      "CW(G97, SUB12)"
+    ],
+    [
+      "NORMAL(G28)",
+      "CW(SUB5, SUB8)"
+    ],
+    [
+      "NORMAL(G28)",
+      "CW(SUB1, SUB10)"
+    ],
+    [
+      "INVERTED(SUB9)",
+      "NORMAL(G28)"
+    ],
+    [
+      "INVERTED(SUB9)",
+      "INVERTED(SUB13)"
+    ],
+    [
+      "INVERTED(SUB9)",
+      "INVERTED(G97)"
+    ],
+    [
+      "INVERTED(SUB9)",
+      "CW(G97, SUB12)"
+    ],
+    [
+      "INVERTED(SUB9)",
+      "CW(SUB5, SUB8)"
+    ],
+    [
+      "INVERTED(SUB9)",
+      "CW(SUB1, SUB10)"
+    ],
+    [
+      "INVERTED(SUB13)",
+      "NORMAL(G28)"
+    ],
+    [
+      "INVERTED(SUB13)",
+      "INVERTED(SUB9)"
+    ],
+    [
+      "INVERTED(SUB13)",
+      "INVERTED(G97)"
+    ],
+    [
+      "INVERTED(SUB13)",
+      "CW(G97, SUB12)"
+    ],
+    [
+      "INVERTED(SUB13)",
+      "CW(SUB5, SUB8)"
+    ],
+    [
+      "INVERTED(SUB13)",
+      "CW(SUB1, SUB10)"
+    ],
+    [
+      "INVERTED(G97)",
+      "NORMAL(G28)"
+    ],
+    [
+      "INVERTED(G97)",
+      "INVERTED(SUB9)"
+    ],
+    [
+      "INVERTED(G97)",
+      "INVERTED(SUB13)"
+    ],
+    [
+      "INVERTED(G97)",
+      "CW(G97, SUB12)"
+    ],
+    [
+      "INVERTED(G97)",
+      "CW(SUB5, SUB8)"
+    ],
+    [
+      "INVERTED(G97)",
+      "CW(SUB1, SUB10)"
+    ],
+    [
+      "CW(G97, SUB12)",
+      "NORMAL(G28)"
+    ],
+    [
+      "CW(G97, SUB12)",
+      "INVERTED(SUB9)"
+    ],
+    [
+      "CW(G97, SUB12)",
+      "INVERTED(SUB13)"
+    ],
+    [
+      "CW(G97, SUB12)",
+      "INVERTED(G97)"
+    ],
+    [
+      "CW(G97, SUB12)",
+      "CW(SUB5, SUB8)"
+    ],
+    [
+      "CW(G97, SUB12)",
+      "CW(SUB1, SUB10)"
+    ],
+    [
+      "CW(SUB5, SUB8)",
+      "NORMAL(G28)"
+    ],
+    [
+      "CW(SUB5, SUB8)",
+      "INVERTED(SUB9)"
+    ],
+    [
+      "CW(SUB5, SUB8)",
+      "INVERTED(SUB13)"
+    ],
+    [
+      "CW(SUB5, SUB8)",
+      "INVERTED(G97)"
+    ],
+    [
+      "CW(SUB5, SUB8)",
+      "CW(G97, SUB12)"
+    ],
+    [
+      "CW(SUB5, SUB8)",
+      "CW(SUB1, SUB10)"
+    ],
+    [
+      "CW(SUB1, SUB10)",
+      "NORMAL(G28)"
+    ],
+    [
+      "CW(SUB1, SUB10)",
+      "INVERTED(SUB9)"
+    ],
+    [
+      "CW(SUB1, SUB10)",
+      "INVERTED(SUB13)"
+    ],
+    [
+      "CW(SUB1, SUB10)",
+      "INVERTED(G97)"
+    ],
+    [
+      "CW(SUB1, SUB10)",
+      "CW(G97, SUB12)"
+    ],
+    [
+      "CW(SUB1, SUB10)",
+      "CW(SUB5, SUB8)"
+    ],
+    [
+      "CW(SUB9, G40)",
+      "CW(SUB10, SUB16)"
+    ],
+    [
+      "CW(SUB10, SUB16)",
+      "CW(SUB9, G40)"
+    ],
+    [
+      "INVERTED(SUB1)",
+      "NORMAL(SUB11)"
+    ],
+    [
+      "INVERTED(SUB1)",
+      "CW(SUB15, SUB13)"
+    ],
+    [
+      "NORMAL(SUB11)",
+      "INVERTED(SUB1)"
+    ],
+    [
+      "NORMAL(SUB11)",
+      "CW(SUB15, SUB13)"
+    ],
+    [
+      "CW(SUB15, SUB13)",
+      "INVERTED(SUB1)"
+    ],
+    [
+      "CW(SUB15, SUB13)",
+      "NORMAL(SUB11)"
+    ],
+    [
+      "NORMAL(SUB17)",
+      "INVERTED(SUB15)"
+    ],
+    [
+      "INVERTED(SUB15)",
+      "NORMAL(SUB17)"
+    ]
+  ]
+}

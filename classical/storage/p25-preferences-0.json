@@ -1,0 +1,236 @@
+{
+  "partial_order": [
+    [
+      "in(crate0, depot0)",
+      "in(crate0, depot0)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate2, depot0)",
+      "in(crate2, depot0)"
+    ],
+    [
+      "in(crate3, depot0)",
+      "in(crate3, depot0)"
+    ],
+    [
+      "in(crate4, depot1)",
+      "in(crate4, depot1)"
+    ],
+    [
+      "in(crate5, depot1)",
+      "in(crate5, depot1)"
+    ],
+    [
+      "in(crate6, depot1)",
+      "in(crate6, depot1)"
+    ],
+    [
+      "in(crate7, depot1)",
+      "in(crate7, depot1)"
+    ],
+    [
+      "in(crate8, depot2)",
+      "in(crate8, depot2)"
+    ],
+    [
+      "in(crate9, depot2)",
+      "in(crate9, depot2)"
+    ],
+    [
+      "in(crate10, depot2)",
+      "in(crate10, depot2)"
+    ],
+    [
+      "in(crate11, depot3)",
+      "in(crate11, depot3)"
+    ],
+    [
+      "in(crate12, depot3)",
+      "in(crate12, depot3)"
+    ],
+    [
+      "in(crate13, depot3)",
+      "in(crate13, depot3)"
+    ],
+    [
+      "in(crate14, depot3)",
+      "in(crate14, depot3)"
+    ],
+    [
+      "in(crate14, depot3)",
+      "in(crate0, depot0)"
+    ],
+    [
+      "in(crate0, depot0)",
+      "in(crate2, depot0)"
+    ],
+    [
+      "in(crate2, depot0)",
+      "in(crate12, depot3)"
+    ],
+    [
+      "in(crate12, depot3)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate8, depot2)"
+    ],
+    [
+      "in(crate0, depot0)",
+      "in(crate7, depot1)"
+    ],
+    [
+      "in(crate0, depot0)",
+      "in(crate11, depot3)"
+    ],
+    [
+      "in(crate0, depot0)",
+      "in(crate13, depot3)"
+    ],
+    [
+      "in(crate7, depot1)",
+      "in(crate0, depot0)"
+    ],
+    [
+      "in(crate7, depot1)",
+      "in(crate11, depot3)"
+    ],
+    [
+      "in(crate7, depot1)",
+      "in(crate13, depot3)"
+    ],
+    [
+      "in(crate11, depot3)",
+      "in(crate0, depot0)"
+    ],
+    [
+      "in(crate11, depot3)",
+      "in(crate7, depot1)"
+    ],
+    [
+      "in(crate11, depot3)",
+      "in(crate13, depot3)"
+    ],
+    [
+      "in(crate13, depot3)",
+      "in(crate0, depot0)"
+    ],
+    [
+      "in(crate13, depot3)",
+      "in(crate7, depot1)"
+    ],
+    [
+      "in(crate13, depot3)",
+      "in(crate11, depot3)"
+    ],
+    [
+      "in(crate2, depot0)",
+      "in(crate5, depot1)"
+    ],
+    [
+      "in(crate2, depot0)",
+      "in(crate10, depot2)"
+    ],
+    [
+      "in(crate5, depot1)",
+      "in(crate2, depot0)"
+    ],
+    [
+      "in(crate5, depot1)",
+      "in(crate10, depot2)"
+    ],
+    [
+      "in(crate10, depot2)",
+      "in(crate2, depot0)"
+    ],
+    [
+      "in(crate10, depot2)",
+      "in(crate5, depot1)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate3, depot0)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate4, depot1)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate6, depot1)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate9, depot2)"
+    ],
+    [
+      "in(crate3, depot0)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate3, depot0)",
+      "in(crate4, depot1)"
+    ],
+    [
+      "in(crate3, depot0)",
+      "in(crate6, depot1)"
+    ],
+    [
+      "in(crate3, depot0)",
+      "in(crate9, depot2)"
+    ],
+    [
+      "in(crate4, depot1)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate4, depot1)",
+      "in(crate3, depot0)"
+    ],
+    [
+      "in(crate4, depot1)",
+      "in(crate6, depot1)"
+    ],
+    [
+      "in(crate4, depot1)",
+      "in(crate9, depot2)"
+    ],
+    [
+      "in(crate6, depot1)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate6, depot1)",
+      "in(crate3, depot0)"
+    ],
+    [
+      "in(crate6, depot1)",
+      "in(crate4, depot1)"
+    ],
+    [
+      "in(crate6, depot1)",
+      "in(crate9, depot2)"
+    ],
+    [
+      "in(crate9, depot2)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate9, depot2)",
+      "in(crate3, depot0)"
+    ],
+    [
+      "in(crate9, depot2)",
+      "in(crate4, depot1)"
+    ],
+    [
+      "in(crate9, depot2)",
+      "in(crate6, depot1)"
+    ]
+  ]
+}

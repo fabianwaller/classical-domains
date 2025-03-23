@@ -1,0 +1,6904 @@
+{
+  "partial_order": [
+    [
+      "pointing(satellite1, Star0)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "have_image(Phenomenon94, infrared3)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "pointing(satellite9, Phenomenon14)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Star37, image2)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon39, spectrograph1)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon47, infrared3)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Planet49, infrared0)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon56, infrared3)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon62, infrared3)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Planet68, image4)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Planet87, image4)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Star92, infrared0)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Planet93, infrared0)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Star107, infrared3)",
+      "have_image(Phenomenon110, image2)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "pointing(satellite9, Phenomenon14)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Star37, image2)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Phenomenon39, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Phenomenon47, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Planet49, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Phenomenon56, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Phenomenon62, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Planet68, image4)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Planet87, image4)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Star92, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Planet93, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon110, image2)",
+      "have_image(Star107, infrared3)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Planet29, image4)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Planet32, spectrograph1)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Star54, spectrograph1)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Planet55, spectrograph1)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Planet76, image2)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Planet78, spectrograph1)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon85, spectrograph1)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon100, infrared3)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon101, spectrograph1)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Star111, image4)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon113, spectrograph1)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon117, infrared3)",
+      "have_image(Star122, image2)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Planet29, image4)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Planet32, spectrograph1)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Star54, spectrograph1)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Planet55, spectrograph1)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Planet76, image2)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Planet78, spectrograph1)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Phenomenon85, spectrograph1)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Phenomenon100, infrared3)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Phenomenon101, spectrograph1)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Star111, image4)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Phenomenon113, spectrograph1)"
+    ],
+    [
+      "have_image(Star122, image2)",
+      "have_image(Phenomenon117, infrared3)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "pointing(satellite5, Phenomenon80)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Star6, infrared3)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon8, image4)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon14, spectrograph1)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon18, image4)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Star33, infrared3)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Planet51, infrared0)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Planet60, infrared3)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Planet74, image4)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Star86, image2)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon98, image4)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Planet104, spectrograph1)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Star105, image2)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "have_image(Star106, infrared0)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Planet112, infrared0)",
+      "have_image(Star115, image2)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "pointing(satellite5, Phenomenon80)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Star6, infrared3)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Phenomenon8, image4)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Phenomenon14, spectrograph1)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Phenomenon18, image4)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Star33, infrared3)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Planet51, infrared0)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Planet60, infrared3)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Planet74, image4)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Star86, image2)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Phenomenon98, image4)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Planet104, spectrograph1)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Star105, image2)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Star106, infrared0)"
+    ],
+    [
+      "have_image(Star115, image2)",
+      "have_image(Planet112, infrared0)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "pointing(satellite1, Star0)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Planet5, image4)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Planet10, infrared3)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Star12, image4)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon13, image4)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Planet17, infrared3)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Planet88, infrared0)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Planet89, infrared0)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon91, infrared3)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Planet102, infrared0)",
+      "have_image(Planet121, infrared3)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "pointing(satellite1, Star0)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Planet5, image4)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Planet10, infrared3)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Star12, image4)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Phenomenon13, image4)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Planet17, infrared3)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Planet88, infrared0)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Planet89, infrared0)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Phenomenon91, infrared3)"
+    ],
+    [
+      "have_image(Planet121, infrared3)",
+      "have_image(Planet102, infrared0)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Star19, infrared3)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Planet28, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Phenomenon38, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Phenomenon41, spectrograph1)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Star52, infrared3)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Planet57, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Star63, infrared3)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Star64, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Star65, image2)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Phenomenon71, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Star72, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Planet73, spectrograph1)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Star75, infrared3)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Phenomenon80, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Planet84, infrared0)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Planet103, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "have_image(Phenomenon109, image2)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Phenomenon119, image4)",
+      "have_image(Phenomenon120, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Star19, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Planet28, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Phenomenon38, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Phenomenon41, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Star52, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Planet57, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Star63, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Star64, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Star65, image2)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Phenomenon71, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Star72, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Planet73, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Star75, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Phenomenon80, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Planet84, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Planet103, image4)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Phenomenon109, image2)"
+    ],
+    [
+      "have_image(Phenomenon120, infrared0)",
+      "have_image(Phenomenon119, image4)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "pointing(satellite2, Star61)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "pointing(satellite14, Planet124)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Star21, image4)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Star23, image2)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Star24, image2)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon25, image4)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Planet31, infrared3)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon42, spectrograph1)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Planet45, infrared0)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon48, image4)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Star50, infrared3)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Star83, image4)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon90, infrared0)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Planet95, infrared3)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon97, infrared3)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon108, infrared3)",
+      "have_image(Phenomenon116, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "pointing(satellite2, Star61)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "pointing(satellite14, Planet124)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Star21, image4)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Star23, image2)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Star24, image2)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Phenomenon25, image4)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Planet31, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Phenomenon42, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Planet45, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Phenomenon48, image4)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Star50, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Star83, image4)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Phenomenon90, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Planet95, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Phenomenon97, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon116, spectrograph1)",
+      "have_image(Phenomenon108, infrared3)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Star15, spectrograph1)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Star16, image2)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Phenomenon20, image4)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Star22, image4)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Planet30, infrared3)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Planet34, image4)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Star35, image2)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Star40, infrared3)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Planet44, infrared3)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Star61, image2)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Planet67, infrared3)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Planet69, spectrograph1)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Phenomenon70, infrared0)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Star77, infrared0)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "have_image(Planet81, image4)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Planet99, image4)",
+      "have_image(Planet114, infrared3)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Star15, spectrograph1)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Star16, image2)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Phenomenon20, image4)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Star22, image4)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet30, infrared3)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet34, image4)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Star35, image2)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Star40, infrared3)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet44, infrared3)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Star61, image2)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet67, infrared3)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet69, spectrograph1)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Phenomenon70, infrared0)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Star77, infrared0)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet81, image4)"
+    ],
+    [
+      "have_image(Planet114, infrared3)",
+      "have_image(Planet99, image4)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "have_image(Phenomenon94, infrared3)"
+    ],
+    [
+      "pointing(satellite4, Phenomenon123)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "have_image(Phenomenon94, infrared3)"
+    ],
+    [
+      "have_image(Star7, image4)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "have_image(Phenomenon94, infrared3)"
+    ],
+    [
+      "have_image(Planet9, infrared0)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "have_image(Phenomenon94, infrared3)"
+    ],
+    [
+      "have_image(Star46, image4)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "have_image(Phenomenon94, infrared3)"
+    ],
+    [
+      "have_image(Planet59, image4)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "have_image(Phenomenon94, infrared3)"
+    ],
+    [
+      "have_image(Star79, image4)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "have_image(Phenomenon94, infrared3)",
+      "have_image(Planet96, spectrograph1)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "pointing(satellite4, Phenomenon123)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "have_image(Star7, image4)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "have_image(Planet9, infrared0)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "have_image(Star46, image4)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "have_image(Planet59, image4)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "have_image(Star79, image4)"
+    ],
+    [
+      "have_image(Planet96, spectrograph1)",
+      "have_image(Phenomenon94, infrared3)"
+    ]
+  ]
+}

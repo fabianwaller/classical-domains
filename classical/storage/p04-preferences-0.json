@@ -1,0 +1,20 @@
+{
+  "partial_order": [
+    [
+      "in(crate0, depot0)",
+      "in(crate0, depot0)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate0, depot0)",
+      "in(crate1, depot0)"
+    ],
+    [
+      "in(crate1, depot0)",
+      "in(crate0, depot0)"
+    ]
+  ]
+}

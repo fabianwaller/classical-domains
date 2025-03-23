@@ -1,0 +1,36 @@
+{
+  "partial_order": [
+    [
+      "at(obj12, apt2)",
+      "at(obj12, apt2)"
+    ],
+    [
+      "at(obj13, apt1)",
+      "at(obj13, apt1)"
+    ],
+    [
+      "at(obj21, apt2)",
+      "at(obj21, apt2)"
+    ],
+    [
+      "at(obj11, pos2)",
+      "at(obj11, pos2)"
+    ],
+    [
+      "at(obj12, apt2)",
+      "at(obj13, apt1)"
+    ],
+    [
+      "at(obj13, apt1)",
+      "at(obj21, apt2)"
+    ],
+    [
+      "at(obj12, apt2)",
+      "at(obj11, pos2)"
+    ],
+    [
+      "at(obj11, pos2)",
+      "at(obj12, apt2)"
+    ]
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "partial_order": [
+    [
+      "is-parked(airplane_CFBEG, seg_A02_0_100)",
+      "is-parked(airplane_CFBEG, seg_A02_0_100)"
+    ],
+    [
+      "airborne(airplane_DAEWH, seg_09_0_150)",
+      "airborne(airplane_DAEWH, seg_09_0_150)"
+    ],
+    [
+      "airborne(airplane_DFBOY, seg_09_0_150)",
+      "airborne(airplane_DFBOY, seg_09_0_150)"
+    ],
+    [
+      "airborne(airplane_DAEWH, seg_09_0_150)",
+      "is-parked(airplane_CFBEG, seg_A02_0_100)"
+    ],
+    [
+      "airborne(airplane_DAEWH, seg_09_0_150)",
+      "airborne(airplane_DFBOY, seg_09_0_150)"
+    ],
+    [
+      "airborne(airplane_DFBOY, seg_09_0_150)",
+      "airborne(airplane_DAEWH, seg_09_0_150)"
+    ]
+  ]
+}

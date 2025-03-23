@@ -1,0 +1,76 @@
+{
+  "partial_order": [
+    [
+      "pointing(satellite0, Phenomenon5)",
+      "pointing(satellite0, Phenomenon5)"
+    ],
+    [
+      "pointing(satellite1, GroundStation2)",
+      "pointing(satellite1, GroundStation2)"
+    ],
+    [
+      "have_image(Star3, thermograph0)",
+      "have_image(Star3, thermograph0)"
+    ],
+    [
+      "have_image(Phenomenon5, image2)",
+      "have_image(Phenomenon5, image2)"
+    ],
+    [
+      "have_image(Phenomenon6, image2)",
+      "have_image(Phenomenon6, image2)"
+    ],
+    [
+      "have_image(Star7, thermograph0)",
+      "have_image(Star7, thermograph0)"
+    ],
+    [
+      "have_image(Phenomenon8, image2)",
+      "have_image(Phenomenon8, image2)"
+    ],
+    [
+      "have_image(Planet9, spectrograph1)",
+      "have_image(Planet9, spectrograph1)"
+    ],
+    [
+      "pointing(satellite1, GroundStation2)",
+      "have_image(Star7, thermograph0)"
+    ],
+    [
+      "have_image(Star7, thermograph0)",
+      "have_image(Star3, thermograph0)"
+    ],
+    [
+      "have_image(Star3, thermograph0)",
+      "have_image(Phenomenon5, image2)"
+    ],
+    [
+      "have_image(Phenomenon5, image2)",
+      "pointing(satellite0, Phenomenon5)"
+    ],
+    [
+      "pointing(satellite1, GroundStation2)",
+      "have_image(Planet9, spectrograph1)"
+    ],
+    [
+      "have_image(Planet9, spectrograph1)",
+      "pointing(satellite1, GroundStation2)"
+    ],
+    [
+      "have_image(Star3, thermograph0)",
+      "have_image(Phenomenon6, image2)"
+    ],
+    [
+      "have_image(Phenomenon6, image2)",
+      "have_image(Star3, thermograph0)"
+    ],
+    [
+      "pointing(satellite0, Phenomenon5)",
+      "have_image(Phenomenon8, image2)"
+    ],
+    [
+      "have_image(Phenomenon8, image2)",
+      "pointing(satellite0, Phenomenon5)"
+    ]
+  ]
+}

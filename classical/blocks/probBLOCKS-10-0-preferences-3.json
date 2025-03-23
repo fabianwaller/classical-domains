@@ -1,0 +1,328 @@
+{
+  "partial_order": [
+    [
+      "ON(D, C)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(D, C)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(C, F)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(F, J)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(J, E)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(E, H)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(H, B)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(A, G)"
+    ],
+    [
+      "ON(B, A)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(A, G)",
+      "ON(G, I)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(D, C)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(C, F)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(F, J)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(J, E)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(E, H)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(H, B)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(B, A)"
+    ],
+    [
+      "ON(G, I)",
+      "ON(A, G)"
+    ]
+  ]
+}
