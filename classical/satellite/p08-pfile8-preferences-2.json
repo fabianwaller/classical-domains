@@ -1,152 +1,56 @@
 {
   "partial_order": [
     [
-      "have_image(Phenomenon5, thermograph1)",
+      "have_image(Phenomenon13, thermograph1)",
       "have_image(Phenomenon5, thermograph1)"
     ],
     [
-      "have_image(Star6, thermograph1)",
-      "have_image(Star6, thermograph1)"
-    ],
-    [
-      "have_image(Star7, spectrograph3)",
-      "have_image(Star7, spectrograph3)"
-    ],
-    [
-      "have_image(Phenomenon8, image0)",
+      "have_image(Phenomenon5, thermograph1)",
       "have_image(Phenomenon8, image0)"
     ],
     [
-      "have_image(Phenomenon9, image0)",
+      "have_image(Phenomenon8, image0)",
+      "have_image(Star7, spectrograph3)"
+    ],
+    [
+      "have_image(Star7, spectrograph3)",
       "have_image(Phenomenon9, image0)"
     ],
     [
-      "have_image(Star10, spectrograph3)",
-      "have_image(Star10, spectrograph3)"
-    ],
-    [
-      "have_image(Planet11, thermograph2)",
+      "have_image(Phenomenon9, image0)",
       "have_image(Planet11, thermograph2)"
-    ],
-    [
-      "have_image(Phenomenon12, image0)",
-      "have_image(Phenomenon12, image0)"
     ],
     [
       "have_image(Phenomenon13, thermograph1)",
-      "have_image(Phenomenon13, thermograph1)"
-    ],
-    [
-      "have_image(Phenomenon14, thermograph2)",
       "have_image(Phenomenon14, thermograph2)"
     ],
     [
+      "have_image(Phenomenon14, thermograph2)",
+      "have_image(Phenomenon13, thermograph1)"
+    ],
+    [
+      "have_image(Phenomenon5, thermograph1)",
+      "have_image(Star6, thermograph1)"
+    ],
+    [
       "have_image(Star6, thermograph1)",
+      "have_image(Phenomenon5, thermograph1)"
+    ],
+    [
+      "have_image(Star7, spectrograph3)",
       "have_image(Star10, spectrograph3)"
     ],
     [
       "have_image(Star10, spectrograph3)",
-      "have_image(Phenomenon5, thermograph1)"
-    ],
-    [
-      "have_image(Phenomenon5, thermograph1)",
-      "have_image(Phenomenon13, thermograph1)"
-    ],
-    [
-      "have_image(Star6, thermograph1)",
-      "have_image(Phenomenon9, image0)"
-    ],
-    [
-      "have_image(Star6, thermograph1)",
-      "have_image(Phenomenon12, image0)"
-    ],
-    [
-      "have_image(Star6, thermograph1)",
-      "have_image(Phenomenon14, thermograph2)"
-    ],
-    [
-      "have_image(Phenomenon9, image0)",
-      "have_image(Star6, thermograph1)"
-    ],
-    [
-      "have_image(Phenomenon9, image0)",
-      "have_image(Phenomenon12, image0)"
-    ],
-    [
-      "have_image(Phenomenon9, image0)",
-      "have_image(Phenomenon14, thermograph2)"
-    ],
-    [
-      "have_image(Phenomenon12, image0)",
-      "have_image(Star6, thermograph1)"
-    ],
-    [
-      "have_image(Phenomenon12, image0)",
-      "have_image(Phenomenon9, image0)"
-    ],
-    [
-      "have_image(Phenomenon12, image0)",
-      "have_image(Phenomenon14, thermograph2)"
-    ],
-    [
-      "have_image(Phenomenon14, thermograph2)",
-      "have_image(Star6, thermograph1)"
-    ],
-    [
-      "have_image(Phenomenon14, thermograph2)",
-      "have_image(Phenomenon9, image0)"
-    ],
-    [
-      "have_image(Phenomenon14, thermograph2)",
-      "have_image(Phenomenon12, image0)"
-    ],
-    [
-      "have_image(Phenomenon5, thermograph1)",
-      "have_image(Star7, spectrograph3)"
-    ],
-    [
-      "have_image(Phenomenon5, thermograph1)",
-      "have_image(Phenomenon8, image0)"
-    ],
-    [
-      "have_image(Phenomenon5, thermograph1)",
-      "have_image(Planet11, thermograph2)"
-    ],
-    [
-      "have_image(Star7, spectrograph3)",
-      "have_image(Phenomenon5, thermograph1)"
-    ],
-    [
-      "have_image(Star7, spectrograph3)",
-      "have_image(Phenomenon8, image0)"
-    ],
-    [
-      "have_image(Star7, spectrograph3)",
-      "have_image(Planet11, thermograph2)"
-    ],
-    [
-      "have_image(Phenomenon8, image0)",
-      "have_image(Phenomenon5, thermograph1)"
-    ],
-    [
-      "have_image(Phenomenon8, image0)",
-      "have_image(Star7, spectrograph3)"
-    ],
-    [
-      "have_image(Phenomenon8, image0)",
-      "have_image(Planet11, thermograph2)"
-    ],
-    [
-      "have_image(Planet11, thermograph2)",
-      "have_image(Phenomenon5, thermograph1)"
-    ],
-    [
-      "have_image(Planet11, thermograph2)",
       "have_image(Star7, spectrograph3)"
     ],
     [
       "have_image(Planet11, thermograph2)",
-      "have_image(Phenomenon8, image0)"
+      "have_image(Phenomenon12, image0)"
+    ],
+    [
+      "have_image(Phenomenon12, image0)",
+      "have_image(Planet11, thermograph2)"
     ]
   ]
 }

@@ -1,676 +1,12 @@
 {
   "partial_order": [
     [
-      "analyzed(car-in-1)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "analyzed(car-out-1)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-in-1)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-in-2)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-in-3)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-in-4)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-in-5)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-in-6)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
       "analyzed(car-out-1)",
       "analyzed(car-in-1)"
     ],
     [
-      "analyzed(car-out-1)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-out-1)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-out-1)",
+      "analyzed(car-in-1)",
       "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-out-1)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-out-1)",
-      "analyzed(car-in-6)"
     ],
     [
       "analyzed(car-out-1)",
@@ -694,14 +30,6 @@
     ],
     [
       "analyzed(car-out-1)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-out-1)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-out-1)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -714,15 +42,7 @@
     ],
     [
       "analyzed(car-out-1)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-out-1)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-out-1)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "analyzed(car-out-1)",
@@ -730,39 +50,7 @@
     ],
     [
       "analyzed(car-out-1)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-out-1)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-out-1)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "analyzed(car-in-6)"
     ],
     [
       "analyzed(car-out-2)",
@@ -786,14 +74,6 @@
     ],
     [
       "analyzed(car-out-2)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-out-2)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -806,15 +86,7 @@
     ],
     [
       "analyzed(car-out-2)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-out-2)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "analyzed(car-out-2)",
@@ -822,39 +94,7 @@
     ],
     [
       "analyzed(car-out-2)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-out-2)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-out-2)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "analyzed(car-in-6)"
     ],
     [
       "analyzed(car-out-3)",
@@ -878,14 +118,6 @@
     ],
     [
       "analyzed(car-out-3)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-out-3)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -898,15 +130,7 @@
     ],
     [
       "analyzed(car-out-3)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-out-3)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "analyzed(car-out-3)",
@@ -914,39 +138,7 @@
     ],
     [
       "analyzed(car-out-3)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-out-3)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-out-3)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "analyzed(car-in-6)"
     ],
     [
       "analyzed(car-out-4)",
@@ -970,14 +162,6 @@
     ],
     [
       "analyzed(car-out-4)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-out-4)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -990,15 +174,7 @@
     ],
     [
       "analyzed(car-out-4)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-out-4)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "analyzed(car-out-4)",
@@ -1006,39 +182,7 @@
     ],
     [
       "analyzed(car-out-4)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-out-4)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-out-4)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "analyzed(car-in-6)"
     ],
     [
       "analyzed(car-out-5)",
@@ -1062,14 +206,6 @@
     ],
     [
       "analyzed(car-out-5)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-out-5)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -1082,15 +218,7 @@
     ],
     [
       "analyzed(car-out-5)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-out-5)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "analyzed(car-out-5)",
@@ -1098,39 +226,7 @@
     ],
     [
       "analyzed(car-out-5)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-out-5)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-out-5)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "analyzed(car-in-6)"
     ],
     [
       "analyzed(car-out-6)",
@@ -1154,14 +250,6 @@
     ],
     [
       "analyzed(car-out-6)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "analyzed(car-out-6)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -1174,15 +262,7 @@
     ],
     [
       "analyzed(car-out-6)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "analyzed(car-out-6)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "analyzed(car-out-6)",
@@ -1190,223 +270,7 @@
     ],
     [
       "analyzed(car-out-6)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "analyzed(car-out-6)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "analyzed(car-out-6)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-in-1, seg-in-1)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-in-2, seg-in-2)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "analyzed(car-in-6)"
     ],
     [
       "on(car-in-3, seg-in-3)",
@@ -1434,14 +298,6 @@
     ],
     [
       "on(car-in-3, seg-in-3)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
       "on(car-in-4, seg-in-4)"
     ],
     [
@@ -1450,15 +306,7 @@
     ],
     [
       "on(car-in-3, seg-in-3)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "on(car-in-3, seg-in-3)",
@@ -1466,39 +314,7 @@
     ],
     [
       "on(car-in-3, seg-in-3)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-in-3, seg-in-3)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "analyzed(car-in-6)"
     ],
     [
       "on(car-in-4, seg-in-4)",
@@ -1526,14 +342,6 @@
     ],
     [
       "on(car-in-4, seg-in-4)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -1542,15 +350,7 @@
     ],
     [
       "on(car-in-4, seg-in-4)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "on(car-in-4, seg-in-4)",
@@ -1558,39 +358,7 @@
     ],
     [
       "on(car-in-4, seg-in-4)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-in-4, seg-in-4)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "analyzed(car-in-6)"
     ],
     [
       "on(car-in-5, seg-in-5)",
@@ -1618,14 +386,6 @@
     ],
     [
       "on(car-in-5, seg-in-5)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -1634,15 +394,7 @@
     ],
     [
       "on(car-in-5, seg-in-5)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "on(car-in-5, seg-in-5)",
@@ -1650,131 +402,7 @@
     ],
     [
       "on(car-in-5, seg-in-5)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-in-5, seg-in-5)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-in-6, seg-in-6)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "analyzed(car-in-6)"
     ],
     [
       "on(car-out-1, seg-out-1)",
@@ -1802,14 +430,6 @@
     ],
     [
       "on(car-out-1, seg-out-1)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -1822,143 +442,11 @@
     ],
     [
       "on(car-out-1, seg-out-1)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
       "on(car-out-3, seg-out-3)"
     ],
     [
       "on(car-out-1, seg-out-1)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-out-1, seg-out-1)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-out-2, seg-out-2)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "analyzed(car-in-6)"
     ],
     [
       "on(car-out-3, seg-out-3)",
@@ -1986,14 +474,6 @@
     ],
     [
       "on(car-out-3, seg-out-3)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -2006,143 +486,11 @@
     ],
     [
       "on(car-out-3, seg-out-3)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
       "on(car-out-1, seg-out-1)"
     ],
     [
       "on(car-out-3, seg-out-3)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "on(car-out-4, seg-out-4)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
       "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-out-3, seg-out-3)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-in-6)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-out-2, seg-out-2)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-out-3, seg-out-3)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-out-5, seg-out-5)"
-    ],
-    [
-      "on(car-out-4, seg-out-4)",
-      "on(car-out-6, seg-out-6)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "analyzed(car-in-1)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "analyzed(car-in-2)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "analyzed(car-in-3)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "analyzed(car-in-6)"
     ],
     [
       "on(car-out-5, seg-out-5)",
@@ -2170,14 +518,6 @@
     ],
     [
       "on(car-out-5, seg-out-5)",
-      "on(car-in-1, seg-in-1)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "on(car-in-2, seg-in-2)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
       "on(car-in-3, seg-in-3)"
     ],
     [
@@ -2190,26 +530,154 @@
     ],
     [
       "on(car-out-5, seg-out-5)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
       "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-out-5, seg-out-5)",
-      "on(car-out-2, seg-out-2)"
     ],
     [
       "on(car-out-5, seg-out-5)",
       "on(car-out-3, seg-out-3)"
     ],
     [
-      "on(car-out-5, seg-out-5)",
-      "on(car-out-4, seg-out-4)"
+      "analyzed(car-in-1)",
+      "analyzed(car-in-2)"
     ],
     [
-      "on(car-out-5, seg-out-5)",
+      "analyzed(car-in-1)",
+      "analyzed(car-in-3)"
+    ],
+    [
+      "analyzed(car-in-1)",
+      "analyzed(car-in-6)"
+    ],
+    [
+      "analyzed(car-in-1)",
+      "on(car-in-2, seg-in-2)"
+    ],
+    [
+      "analyzed(car-in-1)",
+      "on(car-out-2, seg-out-2)"
+    ],
+    [
+      "analyzed(car-in-1)",
+      "on(car-out-6, seg-out-6)"
+    ],
+    [
+      "analyzed(car-in-2)",
+      "analyzed(car-in-1)"
+    ],
+    [
+      "analyzed(car-in-2)",
+      "analyzed(car-in-3)"
+    ],
+    [
+      "analyzed(car-in-2)",
+      "analyzed(car-in-6)"
+    ],
+    [
+      "analyzed(car-in-2)",
+      "on(car-in-2, seg-in-2)"
+    ],
+    [
+      "analyzed(car-in-2)",
+      "on(car-out-2, seg-out-2)"
+    ],
+    [
+      "analyzed(car-in-2)",
+      "on(car-out-6, seg-out-6)"
+    ],
+    [
+      "analyzed(car-in-3)",
+      "analyzed(car-in-1)"
+    ],
+    [
+      "analyzed(car-in-3)",
+      "analyzed(car-in-2)"
+    ],
+    [
+      "analyzed(car-in-3)",
+      "analyzed(car-in-6)"
+    ],
+    [
+      "analyzed(car-in-3)",
+      "on(car-in-2, seg-in-2)"
+    ],
+    [
+      "analyzed(car-in-3)",
+      "on(car-out-2, seg-out-2)"
+    ],
+    [
+      "analyzed(car-in-3)",
+      "on(car-out-6, seg-out-6)"
+    ],
+    [
+      "analyzed(car-in-6)",
+      "analyzed(car-in-1)"
+    ],
+    [
+      "analyzed(car-in-6)",
+      "analyzed(car-in-2)"
+    ],
+    [
+      "analyzed(car-in-6)",
+      "analyzed(car-in-3)"
+    ],
+    [
+      "analyzed(car-in-6)",
+      "on(car-in-2, seg-in-2)"
+    ],
+    [
+      "analyzed(car-in-6)",
+      "on(car-out-2, seg-out-2)"
+    ],
+    [
+      "analyzed(car-in-6)",
+      "on(car-out-6, seg-out-6)"
+    ],
+    [
+      "on(car-in-2, seg-in-2)",
+      "analyzed(car-in-1)"
+    ],
+    [
+      "on(car-in-2, seg-in-2)",
+      "analyzed(car-in-2)"
+    ],
+    [
+      "on(car-in-2, seg-in-2)",
+      "analyzed(car-in-3)"
+    ],
+    [
+      "on(car-in-2, seg-in-2)",
+      "analyzed(car-in-6)"
+    ],
+    [
+      "on(car-in-2, seg-in-2)",
+      "on(car-out-2, seg-out-2)"
+    ],
+    [
+      "on(car-in-2, seg-in-2)",
+      "on(car-out-6, seg-out-6)"
+    ],
+    [
+      "on(car-out-2, seg-out-2)",
+      "analyzed(car-in-1)"
+    ],
+    [
+      "on(car-out-2, seg-out-2)",
+      "analyzed(car-in-2)"
+    ],
+    [
+      "on(car-out-2, seg-out-2)",
+      "analyzed(car-in-3)"
+    ],
+    [
+      "on(car-out-2, seg-out-2)",
+      "analyzed(car-in-6)"
+    ],
+    [
+      "on(car-out-2, seg-out-2)",
+      "on(car-in-2, seg-in-2)"
+    ],
+    [
+      "on(car-out-2, seg-out-2)",
       "on(car-out-6, seg-out-6)"
     ],
     [
@@ -2226,43 +694,7 @@
     ],
     [
       "on(car-out-6, seg-out-6)",
-      "analyzed(car-in-4)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "analyzed(car-in-5)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
       "analyzed(car-in-6)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "analyzed(car-out-1)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "analyzed(car-out-2)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "analyzed(car-out-3)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "analyzed(car-out-4)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "analyzed(car-out-5)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "analyzed(car-out-6)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "on(car-in-1, seg-in-1)"
     ],
     [
       "on(car-out-6, seg-out-6)",
@@ -2270,39 +702,87 @@
     ],
     [
       "on(car-out-6, seg-out-6)",
-      "on(car-in-3, seg-in-3)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "on(car-in-4, seg-in-4)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "on(car-in-5, seg-in-5)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "on(car-in-6, seg-in-6)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
-      "on(car-out-1, seg-out-1)"
-    ],
-    [
-      "on(car-out-6, seg-out-6)",
       "on(car-out-2, seg-out-2)"
     ],
     [
-      "on(car-out-6, seg-out-6)",
-      "on(car-out-3, seg-out-3)"
+      "analyzed(car-in-4)",
+      "analyzed(car-in-5)"
     ],
     [
-      "on(car-out-6, seg-out-6)",
+      "analyzed(car-in-4)",
+      "on(car-in-1, seg-in-1)"
+    ],
+    [
+      "analyzed(car-in-4)",
+      "on(car-in-6, seg-in-6)"
+    ],
+    [
+      "analyzed(car-in-4)",
       "on(car-out-4, seg-out-4)"
     ],
     [
-      "on(car-out-6, seg-out-6)",
-      "on(car-out-5, seg-out-5)"
+      "analyzed(car-in-5)",
+      "analyzed(car-in-4)"
+    ],
+    [
+      "analyzed(car-in-5)",
+      "on(car-in-1, seg-in-1)"
+    ],
+    [
+      "analyzed(car-in-5)",
+      "on(car-in-6, seg-in-6)"
+    ],
+    [
+      "analyzed(car-in-5)",
+      "on(car-out-4, seg-out-4)"
+    ],
+    [
+      "on(car-in-1, seg-in-1)",
+      "analyzed(car-in-4)"
+    ],
+    [
+      "on(car-in-1, seg-in-1)",
+      "analyzed(car-in-5)"
+    ],
+    [
+      "on(car-in-1, seg-in-1)",
+      "on(car-in-6, seg-in-6)"
+    ],
+    [
+      "on(car-in-1, seg-in-1)",
+      "on(car-out-4, seg-out-4)"
+    ],
+    [
+      "on(car-in-6, seg-in-6)",
+      "analyzed(car-in-4)"
+    ],
+    [
+      "on(car-in-6, seg-in-6)",
+      "analyzed(car-in-5)"
+    ],
+    [
+      "on(car-in-6, seg-in-6)",
+      "on(car-in-1, seg-in-1)"
+    ],
+    [
+      "on(car-in-6, seg-in-6)",
+      "on(car-out-4, seg-out-4)"
+    ],
+    [
+      "on(car-out-4, seg-out-4)",
+      "analyzed(car-in-4)"
+    ],
+    [
+      "on(car-out-4, seg-out-4)",
+      "analyzed(car-in-5)"
+    ],
+    [
+      "on(car-out-4, seg-out-4)",
+      "on(car-in-1, seg-in-1)"
+    ],
+    [
+      "on(car-out-4, seg-out-4)",
+      "on(car-in-6, seg-in-6)"
     ]
   ]
 }

@@ -1,35 +1,11 @@
 {
   "partial_order": [
     [
+      "CLOSED-SD1()",
+      "do-normal()"
+    ],
+    [
       "do-normal()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-SD2()",
-      "CLOSED-SD2()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "CLOSED-SD1()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-SD2()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-SD2()",
-      "CLOSED-SD1()"
-    ],
-    [
-      "CLOSED-SD1()",
       "CLOSED-SD2()"
     ],
     [
@@ -41,8 +17,24 @@
       "UPDATED-CB1()"
     ],
     [
+      "CLOSED-SD2()",
+      "do-normal()"
+    ],
+    [
+      "CLOSED-SD2()",
+      "CLOSED-CB1()"
+    ],
+    [
+      "CLOSED-SD2()",
+      "UPDATED-CB1()"
+    ],
+    [
       "CLOSED-CB1()",
       "do-normal()"
+    ],
+    [
+      "CLOSED-CB1()",
+      "CLOSED-SD2()"
     ],
     [
       "CLOSED-CB1()",
@@ -51,6 +43,10 @@
     [
       "UPDATED-CB1()",
       "do-normal()"
+    ],
+    [
+      "UPDATED-CB1()",
+      "CLOSED-SD2()"
     ],
     [
       "UPDATED-CB1()",

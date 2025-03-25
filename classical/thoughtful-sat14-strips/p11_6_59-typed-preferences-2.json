@@ -2,35 +2,31 @@
   "partial_order": [
     [
       "HOME(CJ)",
-      "HOME(CJ)"
-    ],
-    [
-      "HOME(DJ)",
-      "HOME(DJ)"
-    ],
-    [
-      "HOME(HJ)",
-      "HOME(HJ)"
-    ],
-    [
-      "HOME(SJ)",
       "HOME(SJ)"
     ],
     [
-      "HOME(DJ)",
-      "HOME(CJ)"
+      "HOME(CJ)",
+      "HOME(DJ)"
     ],
     [
       "HOME(CJ)",
       "HOME(HJ)"
     ],
     [
-      "HOME(HJ)",
-      "HOME(SJ)"
+      "HOME(DJ)",
+      "HOME(CJ)"
     ],
     [
-      "HOME(SJ)",
+      "HOME(DJ)",
       "HOME(HJ)"
+    ],
+    [
+      "HOME(HJ)",
+      "HOME(CJ)"
+    ],
+    [
+      "HOME(HJ)",
+      "HOME(DJ)"
     ]
   ]
 }

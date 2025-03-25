@@ -1,119 +1,27 @@
 {
   "partial_order": [
     [
-      "on(B10, A3)",
-      "on(B10, A3)"
-    ],
-    [
       "on(B14, A1)",
-      "on(B14, A1)"
-    ],
-    [
-      "on(B15, A1)",
       "on(B15, A1)"
     ],
     [
-      "on(B0, A2)",
+      "on(B15, A1)",
+      "on(B1, A1)"
+    ],
+    [
+      "on(B1, A1)",
+      "on(B10, A3)"
+    ],
+    [
+      "on(B10, A3)",
       "on(B0, A2)"
     ],
     [
       "on(B1, A1)",
-      "on(B1, A1)"
-    ],
-    [
-      "normal(S12)",
-      "normal(S12)"
+      "normal(S13)"
     ],
     [
       "normal(S13)",
-      "normal(S13)"
-    ],
-    [
-      "on(B10, A3)",
-      "on(B14, A1)"
-    ],
-    [
-      "on(B10, A3)",
-      "on(B15, A1)"
-    ],
-    [
-      "on(B10, A3)",
-      "on(B0, A2)"
-    ],
-    [
-      "on(B10, A3)",
-      "on(B1, A1)"
-    ],
-    [
-      "on(B10, A3)",
-      "normal(S12)"
-    ],
-    [
-      "on(B10, A3)",
-      "normal(S13)"
-    ],
-    [
-      "on(B14, A1)",
-      "on(B10, A3)"
-    ],
-    [
-      "on(B14, A1)",
-      "on(B15, A1)"
-    ],
-    [
-      "on(B14, A1)",
-      "on(B0, A2)"
-    ],
-    [
-      "on(B14, A1)",
-      "on(B1, A1)"
-    ],
-    [
-      "on(B14, A1)",
-      "normal(S12)"
-    ],
-    [
-      "on(B14, A1)",
-      "normal(S13)"
-    ],
-    [
-      "on(B15, A1)",
-      "on(B10, A3)"
-    ],
-    [
-      "on(B15, A1)",
-      "on(B14, A1)"
-    ],
-    [
-      "on(B15, A1)",
-      "on(B0, A2)"
-    ],
-    [
-      "on(B15, A1)",
-      "on(B1, A1)"
-    ],
-    [
-      "on(B15, A1)",
-      "normal(S12)"
-    ],
-    [
-      "on(B15, A1)",
-      "normal(S13)"
-    ],
-    [
-      "on(B0, A2)",
-      "on(B10, A3)"
-    ],
-    [
-      "on(B0, A2)",
-      "on(B14, A1)"
-    ],
-    [
-      "on(B0, A2)",
-      "on(B15, A1)"
-    ],
-    [
-      "on(B0, A2)",
       "on(B1, A1)"
     ],
     [
@@ -121,80 +29,8 @@
       "normal(S12)"
     ],
     [
-      "on(B0, A2)",
-      "normal(S13)"
-    ],
-    [
-      "on(B1, A1)",
-      "on(B10, A3)"
-    ],
-    [
-      "on(B1, A1)",
-      "on(B14, A1)"
-    ],
-    [
-      "on(B1, A1)",
-      "on(B15, A1)"
-    ],
-    [
-      "on(B1, A1)",
-      "on(B0, A2)"
-    ],
-    [
-      "on(B1, A1)",
-      "normal(S12)"
-    ],
-    [
-      "on(B1, A1)",
-      "normal(S13)"
-    ],
-    [
-      "normal(S12)",
-      "on(B10, A3)"
-    ],
-    [
-      "normal(S12)",
-      "on(B14, A1)"
-    ],
-    [
-      "normal(S12)",
-      "on(B15, A1)"
-    ],
-    [
       "normal(S12)",
       "on(B0, A2)"
-    ],
-    [
-      "normal(S12)",
-      "on(B1, A1)"
-    ],
-    [
-      "normal(S12)",
-      "normal(S13)"
-    ],
-    [
-      "normal(S13)",
-      "on(B10, A3)"
-    ],
-    [
-      "normal(S13)",
-      "on(B14, A1)"
-    ],
-    [
-      "normal(S13)",
-      "on(B15, A1)"
-    ],
-    [
-      "normal(S13)",
-      "on(B0, A2)"
-    ],
-    [
-      "normal(S13)",
-      "on(B1, A1)"
-    ],
-    [
-      "normal(S13)",
-      "normal(S12)"
     ]
   ]
 }

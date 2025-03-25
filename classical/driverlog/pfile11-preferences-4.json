@@ -2,55 +2,23 @@
   "partial_order": [
     [
       "at(driver2, s4)",
-      "at(driver2, s4)"
-    ],
-    [
-      "at(truck2, s4)",
       "at(truck2, s4)"
     ],
     [
-      "at(package1, s6)",
+      "at(driver2, s4)",
       "at(package1, s6)"
     ],
     [
-      "at(package2, s3)",
-      "at(package2, s3)"
-    ],
-    [
-      "at(package3, s4)",
-      "at(package3, s4)"
-    ],
-    [
-      "at(package4, s6)",
-      "at(package4, s6)"
-    ],
-    [
-      "at(package5, s1)",
-      "at(package5, s1)"
-    ],
-    [
-      "at(package2, s3)",
-      "at(driver2, s4)"
-    ],
-    [
-      "at(package2, s3)",
-      "at(package4, s6)"
-    ],
-    [
-      "at(package4, s6)",
+      "at(driver2, s4)",
       "at(package2, s3)"
     ],
     [
       "at(driver2, s4)",
-      "at(truck2, s4)"
-    ],
-    [
-      "at(driver2, s4)",
-      "at(package1, s6)"
-    ],
-    [
-      "at(driver2, s4)",
       "at(package3, s4)"
+    ],
+    [
+      "at(driver2, s4)",
+      "at(package4, s6)"
     ],
     [
       "at(driver2, s4)",
@@ -66,7 +34,15 @@
     ],
     [
       "at(truck2, s4)",
+      "at(package2, s3)"
+    ],
+    [
+      "at(truck2, s4)",
       "at(package3, s4)"
+    ],
+    [
+      "at(truck2, s4)",
+      "at(package4, s6)"
     ],
     [
       "at(truck2, s4)",
@@ -82,13 +58,45 @@
     ],
     [
       "at(package1, s6)",
+      "at(package2, s3)"
+    ],
+    [
+      "at(package1, s6)",
       "at(package3, s4)"
+    ],
+    [
+      "at(package1, s6)",
+      "at(package4, s6)"
     ],
     [
       "at(package1, s6)",
       "at(package5, s1)"
     ],
     [
+      "at(package2, s3)",
+      "at(driver2, s4)"
+    ],
+    [
+      "at(package2, s3)",
+      "at(truck2, s4)"
+    ],
+    [
+      "at(package2, s3)",
+      "at(package1, s6)"
+    ],
+    [
+      "at(package2, s3)",
+      "at(package3, s4)"
+    ],
+    [
+      "at(package2, s3)",
+      "at(package4, s6)"
+    ],
+    [
+      "at(package2, s3)",
+      "at(package5, s1)"
+    ],
+    [
       "at(package3, s4)",
       "at(driver2, s4)"
     ],
@@ -102,6 +110,38 @@
     ],
     [
       "at(package3, s4)",
+      "at(package2, s3)"
+    ],
+    [
+      "at(package3, s4)",
+      "at(package4, s6)"
+    ],
+    [
+      "at(package3, s4)",
+      "at(package5, s1)"
+    ],
+    [
+      "at(package4, s6)",
+      "at(driver2, s4)"
+    ],
+    [
+      "at(package4, s6)",
+      "at(truck2, s4)"
+    ],
+    [
+      "at(package4, s6)",
+      "at(package1, s6)"
+    ],
+    [
+      "at(package4, s6)",
+      "at(package2, s3)"
+    ],
+    [
+      "at(package4, s6)",
+      "at(package3, s4)"
+    ],
+    [
+      "at(package4, s6)",
       "at(package5, s1)"
     ],
     [
@@ -118,7 +158,15 @@
     ],
     [
       "at(package5, s1)",
+      "at(package2, s3)"
+    ],
+    [
+      "at(package5, s1)",
       "at(package3, s4)"
+    ],
+    [
+      "at(package5, s1)",
+      "at(package4, s6)"
     ]
   ]
 }

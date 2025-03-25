@@ -1,31 +1,11 @@
 {
   "partial_order": [
     [
-      "have_image(Planet3, infrared0)",
-      "have_image(Planet3, infrared0)"
-    ],
-    [
       "have_image(Planet4, infrared0)",
-      "have_image(Planet4, infrared0)"
-    ],
-    [
-      "have_image(Phenomenon5, image2)",
       "have_image(Phenomenon5, image2)"
     ],
     [
-      "have_image(Phenomenon6, infrared0)",
-      "have_image(Phenomenon6, infrared0)"
-    ],
-    [
-      "have_image(Star7, infrared0)",
-      "have_image(Star7, infrared0)"
-    ],
-    [
-      "have_image(Planet4, infrared0)",
-      "have_image(Star7, infrared0)"
-    ],
-    [
-      "have_image(Star7, infrared0)",
+      "have_image(Phenomenon5, image2)",
       "have_image(Planet3, infrared0)"
     ],
     [
@@ -34,10 +14,10 @@
     ],
     [
       "have_image(Planet3, infrared0)",
-      "have_image(Phenomenon5, image2)"
+      "have_image(Star7, infrared0)"
     ],
     [
-      "have_image(Phenomenon5, image2)",
+      "have_image(Star7, infrared0)",
       "have_image(Planet3, infrared0)"
     ]
   ]

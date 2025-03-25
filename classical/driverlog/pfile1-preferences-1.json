@@ -1,20 +1,12 @@
 {
   "partial_order": [
     [
-      "at(driver1, s1)",
+      "at(package2, s0)",
       "at(driver1, s1)"
     ],
     [
-      "at(truck1, s1)",
+      "at(driver1, s1)",
       "at(truck1, s1)"
-    ],
-    [
-      "at(package1, s0)",
-      "at(package1, s0)"
-    ],
-    [
-      "at(package2, s0)",
-      "at(package2, s0)"
     ],
     [
       "at(driver1, s1)",
@@ -22,15 +14,7 @@
     ],
     [
       "at(package1, s0)",
-      "at(truck1, s1)"
-    ],
-    [
-      "at(truck1, s1)",
-      "at(package2, s0)"
-    ],
-    [
-      "at(package2, s0)",
-      "at(truck1, s1)"
+      "at(driver1, s1)"
     ]
   ]
 }

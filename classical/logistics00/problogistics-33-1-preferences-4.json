@@ -1,480 +1,240 @@
 {
   "partial_order": [
     [
-      "AT(OBJ33, APT1)",
-      "AT(OBJ33, APT1)"
-    ],
-    [
-      "AT(OBJ71, APT10)",
-      "AT(OBJ71, APT10)"
-    ],
-    [
-      "AT(OBJ83, POS3)",
-      "AT(OBJ83, POS3)"
-    ],
-    [
       "AT(OBJ23, APT3)",
-      "AT(OBJ23, APT3)"
-    ],
-    [
-      "AT(OBJ32, APT4)",
-      "AT(OBJ32, APT4)"
-    ],
-    [
-      "AT(OBJ41, APT6)",
-      "AT(OBJ41, APT6)"
-    ],
-    [
-      "AT(OBJ21, APT5)",
-      "AT(OBJ21, APT5)"
-    ],
-    [
-      "AT(OBJ82, APT11)",
-      "AT(OBJ82, APT11)"
-    ],
-    [
-      "AT(OBJ112, APT7)",
-      "AT(OBJ112, APT7)"
-    ],
-    [
-      "AT(OBJ62, POS1)",
-      "AT(OBJ62, POS1)"
-    ],
-    [
-      "AT(OBJ72, POS10)",
       "AT(OBJ72, POS10)"
     ],
     [
-      "AT(OBJ113, POS9)",
-      "AT(OBJ113, POS9)"
+      "AT(OBJ72, POS10)",
+      "AT(OBJ32, APT4)"
     ],
     [
-      "AT(OBJ73, POS5)",
-      "AT(OBJ73, POS5)"
+      "AT(OBJ32, APT4)",
+      "AT(OBJ53, POS10)"
     ],
     [
-      "AT(OBJ102, APT9)",
-      "AT(OBJ102, APT9)"
+      "AT(OBJ53, POS10)",
+      "AT(OBJ111, POS5)"
     ],
     [
-      "AT(OBJ92, APT9)",
-      "AT(OBJ92, APT9)"
+      "AT(OBJ111, POS5)",
+      "AT(OBJ11, POS9)"
     ],
     [
-      "AT(OBJ91, POS8)",
+      "AT(OBJ11, POS9)",
+      "AT(OBJ21, APT5)"
+    ],
+    [
+      "AT(OBJ21, APT5)",
+      "AT(OBJ71, APT10)"
+    ],
+    [
+      "AT(OBJ71, APT10)",
+      "AT(OBJ12, POS9)"
+    ],
+    [
+      "AT(OBJ12, POS9)",
+      "AT(OBJ33, APT1)"
+    ],
+    [
+      "AT(OBJ33, APT1)",
+      "AT(OBJ52, APT8)"
+    ],
+    [
+      "AT(OBJ52, APT8)",
+      "AT(OBJ101, POS4)"
+    ],
+    [
+      "AT(OBJ101, POS4)",
       "AT(OBJ91, POS8)"
     ],
     [
-      "AT(OBJ61, POS7)",
-      "AT(OBJ61, POS7)"
-    ],
-    [
-      "AT(OBJ42, APT6)",
+      "AT(OBJ91, POS8)",
       "AT(OBJ42, APT6)"
     ],
     [
-      "AT(OBJ22, POS6)",
+      "AT(OBJ42, APT6)",
+      "AT(OBJ41, APT6)"
+    ],
+    [
+      "AT(OBJ41, APT6)",
+      "AT(OBJ112, APT7)"
+    ],
+    [
+      "AT(OBJ112, APT7)",
+      "AT(OBJ83, POS3)"
+    ],
+    [
+      "AT(OBJ83, POS3)",
+      "AT(OBJ82, APT11)"
+    ],
+    [
+      "AT(OBJ23, APT3)",
+      "AT(OBJ113, POS9)"
+    ],
+    [
+      "AT(OBJ23, APT3)",
+      "AT(OBJ43, POS11)"
+    ],
+    [
+      "AT(OBJ23, APT3)",
+      "AT(OBJ103, APT3)"
+    ],
+    [
+      "AT(OBJ113, POS9)",
+      "AT(OBJ23, APT3)"
+    ],
+    [
+      "AT(OBJ113, POS9)",
+      "AT(OBJ43, POS11)"
+    ],
+    [
+      "AT(OBJ113, POS9)",
+      "AT(OBJ103, APT3)"
+    ],
+    [
+      "AT(OBJ43, POS11)",
+      "AT(OBJ23, APT3)"
+    ],
+    [
+      "AT(OBJ43, POS11)",
+      "AT(OBJ113, POS9)"
+    ],
+    [
+      "AT(OBJ43, POS11)",
+      "AT(OBJ103, APT3)"
+    ],
+    [
+      "AT(OBJ103, APT3)",
+      "AT(OBJ23, APT3)"
+    ],
+    [
+      "AT(OBJ103, APT3)",
+      "AT(OBJ113, POS9)"
+    ],
+    [
+      "AT(OBJ103, APT3)",
+      "AT(OBJ43, POS11)"
+    ],
+    [
+      "AT(OBJ72, POS10)",
       "AT(OBJ22, POS6)"
     ],
     [
-      "AT(OBJ12, POS9)",
-      "AT(OBJ12, POS9)"
-    ],
-    [
-      "AT(OBJ11, POS9)",
-      "AT(OBJ11, POS9)"
-    ],
-    [
-      "AT(OBJ53, POS10)",
-      "AT(OBJ53, POS10)"
-    ],
-    [
-      "AT(OBJ51, APT9)",
-      "AT(OBJ51, APT9)"
-    ],
-    [
-      "AT(OBJ13, APT2)",
-      "AT(OBJ13, APT2)"
-    ],
-    [
-      "AT(OBJ93, APT11)",
-      "AT(OBJ93, APT11)"
-    ],
-    [
-      "AT(OBJ111, POS5)",
-      "AT(OBJ111, POS5)"
-    ],
-    [
-      "AT(OBJ63, POS10)",
-      "AT(OBJ63, POS10)"
-    ],
-    [
-      "AT(OBJ43, POS11)",
-      "AT(OBJ43, POS11)"
-    ],
-    [
-      "AT(OBJ101, POS4)",
-      "AT(OBJ101, POS4)"
-    ],
-    [
-      "AT(OBJ103, APT3)",
-      "AT(OBJ103, APT3)"
-    ],
-    [
-      "AT(OBJ52, APT8)",
-      "AT(OBJ52, APT8)"
-    ],
-    [
-      "AT(OBJ31, POS10)",
-      "AT(OBJ31, POS10)"
-    ],
-    [
-      "AT(OBJ81, APT10)",
-      "AT(OBJ81, APT10)"
-    ],
-    [
       "AT(OBJ22, POS6)",
-      "AT(OBJ112, APT7)"
+      "AT(OBJ72, POS10)"
     ],
     [
-      "AT(OBJ112, APT7)",
-      "AT(OBJ82, APT11)"
+      "AT(OBJ32, APT4)",
+      "AT(OBJ62, POS1)"
     ],
     [
-      "AT(OBJ82, APT11)",
-      "AT(OBJ71, APT10)"
+      "AT(OBJ32, APT4)",
+      "AT(OBJ92, APT9)"
     ],
     [
-      "AT(OBJ71, APT10)",
-      "AT(OBJ21, APT5)"
+      "AT(OBJ62, POS1)",
+      "AT(OBJ32, APT4)"
+    ],
+    [
+      "AT(OBJ62, POS1)",
+      "AT(OBJ92, APT9)"
+    ],
+    [
+      "AT(OBJ92, APT9)",
+      "AT(OBJ32, APT4)"
+    ],
+    [
+      "AT(OBJ92, APT9)",
+      "AT(OBJ62, POS1)"
     ],
     [
       "AT(OBJ21, APT5)",
-      "AT(OBJ113, POS9)"
+      "AT(OBJ51, APT9)"
     ],
     [
-      "AT(OBJ113, POS9)",
-      "AT(OBJ32, APT4)"
+      "AT(OBJ51, APT9)",
+      "AT(OBJ21, APT5)"
     ],
     [
-      "AT(OBJ32, APT4)",
-      "AT(OBJ41, APT6)"
-    ],
-    [
-      "AT(OBJ41, APT6)",
-      "AT(OBJ53, POS10)"
-    ],
-    [
-      "AT(OBJ53, POS10)",
-      "AT(OBJ33, APT1)"
-    ],
-    [
-      "AT(OBJ33, APT1)",
-      "AT(OBJ23, APT3)"
-    ],
-    [
-      "AT(OBJ23, APT3)",
-      "AT(OBJ73, POS5)"
-    ],
-    [
-      "AT(OBJ73, POS5)",
-      "AT(OBJ102, APT9)"
-    ],
-    [
-      "AT(OBJ112, APT7)",
-      "AT(OBJ61, POS7)"
-    ],
-    [
-      "AT(OBJ112, APT7)",
-      "AT(OBJ42, APT6)"
-    ],
-    [
-      "AT(OBJ112, APT7)",
-      "AT(OBJ11, POS9)"
-    ],
-    [
-      "AT(OBJ112, APT7)",
-      "AT(OBJ43, POS11)"
-    ],
-    [
-      "AT(OBJ61, POS7)",
-      "AT(OBJ112, APT7)"
-    ],
-    [
-      "AT(OBJ61, POS7)",
-      "AT(OBJ42, APT6)"
-    ],
-    [
-      "AT(OBJ61, POS7)",
-      "AT(OBJ11, POS9)"
-    ],
-    [
-      "AT(OBJ61, POS7)",
-      "AT(OBJ43, POS11)"
-    ],
-    [
-      "AT(OBJ42, APT6)",
-      "AT(OBJ112, APT7)"
-    ],
-    [
-      "AT(OBJ42, APT6)",
-      "AT(OBJ61, POS7)"
-    ],
-    [
-      "AT(OBJ42, APT6)",
-      "AT(OBJ11, POS9)"
-    ],
-    [
-      "AT(OBJ42, APT6)",
-      "AT(OBJ43, POS11)"
-    ],
-    [
-      "AT(OBJ11, POS9)",
-      "AT(OBJ112, APT7)"
-    ],
-    [
-      "AT(OBJ11, POS9)",
-      "AT(OBJ61, POS7)"
-    ],
-    [
-      "AT(OBJ11, POS9)",
-      "AT(OBJ42, APT6)"
-    ],
-    [
-      "AT(OBJ11, POS9)",
-      "AT(OBJ43, POS11)"
-    ],
-    [
-      "AT(OBJ43, POS11)",
-      "AT(OBJ112, APT7)"
-    ],
-    [
-      "AT(OBJ43, POS11)",
-      "AT(OBJ61, POS7)"
-    ],
-    [
-      "AT(OBJ43, POS11)",
-      "AT(OBJ42, APT6)"
-    ],
-    [
-      "AT(OBJ43, POS11)",
-      "AT(OBJ11, POS9)"
-    ],
-    [
-      "AT(OBJ82, APT11)",
+      "AT(OBJ12, POS9)",
       "AT(OBJ13, APT2)"
     ],
     [
       "AT(OBJ13, APT2)",
-      "AT(OBJ82, APT11)"
+      "AT(OBJ12, POS9)"
     ],
     [
-      "AT(OBJ71, APT10)",
-      "AT(OBJ83, POS3)"
-    ],
-    [
-      "AT(OBJ71, APT10)",
-      "AT(OBJ72, POS10)"
-    ],
-    [
-      "AT(OBJ83, POS3)",
-      "AT(OBJ71, APT10)"
-    ],
-    [
-      "AT(OBJ83, POS3)",
-      "AT(OBJ72, POS10)"
-    ],
-    [
-      "AT(OBJ72, POS10)",
-      "AT(OBJ71, APT10)"
-    ],
-    [
-      "AT(OBJ72, POS10)",
-      "AT(OBJ83, POS3)"
-    ],
-    [
-      "AT(OBJ32, APT4)",
+      "AT(OBJ33, APT1)",
       "AT(OBJ93, APT11)"
     ],
     [
+      "AT(OBJ33, APT1)",
+      "AT(OBJ63, POS10)"
+    ],
+    [
       "AT(OBJ93, APT11)",
-      "AT(OBJ32, APT4)"
-    ],
-    [
-      "AT(OBJ53, POS10)",
-      "AT(OBJ101, POS4)"
-    ],
-    [
-      "AT(OBJ53, POS10)",
-      "AT(OBJ52, APT8)"
-    ],
-    [
-      "AT(OBJ53, POS10)",
-      "AT(OBJ31, POS10)"
-    ],
-    [
-      "AT(OBJ53, POS10)",
-      "AT(OBJ81, APT10)"
-    ],
-    [
-      "AT(OBJ101, POS4)",
-      "AT(OBJ53, POS10)"
-    ],
-    [
-      "AT(OBJ101, POS4)",
-      "AT(OBJ52, APT8)"
-    ],
-    [
-      "AT(OBJ101, POS4)",
-      "AT(OBJ31, POS10)"
-    ],
-    [
-      "AT(OBJ101, POS4)",
-      "AT(OBJ81, APT10)"
-    ],
-    [
-      "AT(OBJ52, APT8)",
-      "AT(OBJ53, POS10)"
-    ],
-    [
-      "AT(OBJ52, APT8)",
-      "AT(OBJ101, POS4)"
-    ],
-    [
-      "AT(OBJ52, APT8)",
-      "AT(OBJ31, POS10)"
-    ],
-    [
-      "AT(OBJ52, APT8)",
-      "AT(OBJ81, APT10)"
-    ],
-    [
-      "AT(OBJ31, POS10)",
-      "AT(OBJ53, POS10)"
-    ],
-    [
-      "AT(OBJ31, POS10)",
-      "AT(OBJ101, POS4)"
-    ],
-    [
-      "AT(OBJ31, POS10)",
-      "AT(OBJ52, APT8)"
-    ],
-    [
-      "AT(OBJ31, POS10)",
-      "AT(OBJ81, APT10)"
-    ],
-    [
-      "AT(OBJ81, APT10)",
-      "AT(OBJ53, POS10)"
-    ],
-    [
-      "AT(OBJ81, APT10)",
-      "AT(OBJ101, POS4)"
-    ],
-    [
-      "AT(OBJ81, APT10)",
-      "AT(OBJ52, APT8)"
-    ],
-    [
-      "AT(OBJ81, APT10)",
-      "AT(OBJ31, POS10)"
-    ],
-    [
-      "AT(OBJ33, APT1)",
-      "AT(OBJ62, POS1)"
-    ],
-    [
-      "AT(OBJ33, APT1)",
-      "AT(OBJ91, POS8)"
-    ],
-    [
-      "AT(OBJ62, POS1)",
       "AT(OBJ33, APT1)"
     ],
     [
-      "AT(OBJ62, POS1)",
-      "AT(OBJ91, POS8)"
-    ],
-    [
-      "AT(OBJ91, POS8)",
-      "AT(OBJ33, APT1)"
-    ],
-    [
-      "AT(OBJ91, POS8)",
-      "AT(OBJ62, POS1)"
-    ],
-    [
-      "AT(OBJ23, APT3)",
-      "AT(OBJ92, APT9)"
-    ],
-    [
-      "AT(OBJ23, APT3)",
-      "AT(OBJ63, POS10)"
-    ],
-    [
-      "AT(OBJ92, APT9)",
-      "AT(OBJ23, APT3)"
-    ],
-    [
-      "AT(OBJ92, APT9)",
+      "AT(OBJ93, APT11)",
       "AT(OBJ63, POS10)"
     ],
     [
       "AT(OBJ63, POS10)",
-      "AT(OBJ23, APT3)"
+      "AT(OBJ33, APT1)"
     ],
     [
       "AT(OBJ63, POS10)",
-      "AT(OBJ92, APT9)"
+      "AT(OBJ93, APT11)"
     ],
     [
-      "AT(OBJ73, POS5)",
-      "AT(OBJ12, POS9)"
+      "AT(OBJ91, POS8)",
+      "AT(OBJ81, APT10)"
     ],
     [
-      "AT(OBJ73, POS5)",
-      "AT(OBJ111, POS5)"
+      "AT(OBJ81, APT10)",
+      "AT(OBJ91, POS8)"
     ],
     [
-      "AT(OBJ12, POS9)",
+      "AT(OBJ41, APT6)",
+      "AT(OBJ31, POS10)"
+    ],
+    [
+      "AT(OBJ31, POS10)",
+      "AT(OBJ41, APT6)"
+    ],
+    [
+      "AT(OBJ112, APT7)",
       "AT(OBJ73, POS5)"
     ],
     [
-      "AT(OBJ12, POS9)",
-      "AT(OBJ111, POS5)"
+      "AT(OBJ112, APT7)",
+      "AT(OBJ61, POS7)"
     ],
     [
-      "AT(OBJ111, POS5)",
+      "AT(OBJ73, POS5)",
+      "AT(OBJ112, APT7)"
+    ],
+    [
+      "AT(OBJ73, POS5)",
+      "AT(OBJ61, POS7)"
+    ],
+    [
+      "AT(OBJ61, POS7)",
+      "AT(OBJ112, APT7)"
+    ],
+    [
+      "AT(OBJ61, POS7)",
       "AT(OBJ73, POS5)"
     ],
     [
-      "AT(OBJ111, POS5)",
-      "AT(OBJ12, POS9)"
-    ],
-    [
-      "AT(OBJ102, APT9)",
-      "AT(OBJ51, APT9)"
-    ],
-    [
-      "AT(OBJ102, APT9)",
-      "AT(OBJ103, APT3)"
-    ],
-    [
-      "AT(OBJ51, APT9)",
+      "AT(OBJ83, POS3)",
       "AT(OBJ102, APT9)"
     ],
     [
-      "AT(OBJ51, APT9)",
-      "AT(OBJ103, APT3)"
-    ],
-    [
-      "AT(OBJ103, APT3)",
-      "AT(OBJ102, APT9)"
-    ],
-    [
-      "AT(OBJ103, APT3)",
-      "AT(OBJ51, APT9)"
+      "AT(OBJ102, APT9)",
+      "AT(OBJ83, POS3)"
     ]
   ]
 }

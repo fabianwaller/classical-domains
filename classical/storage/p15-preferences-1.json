@@ -1,32 +1,12 @@
 {
   "partial_order": [
     [
-      "in(crate0, depot0)",
+      "in(crate2, depot1)",
       "in(crate0, depot0)"
     ],
     [
-      "in(crate1, depot0)",
-      "in(crate1, depot0)"
-    ],
-    [
-      "in(crate2, depot1)",
-      "in(crate2, depot1)"
-    ],
-    [
-      "in(crate3, depot1)",
-      "in(crate3, depot1)"
-    ],
-    [
-      "in(crate4, depot1)",
-      "in(crate4, depot1)"
-    ],
-    [
       "in(crate0, depot0)",
       "in(crate1, depot0)"
-    ],
-    [
-      "in(crate0, depot0)",
-      "in(crate2, depot1)"
     ],
     [
       "in(crate0, depot0)",
@@ -42,10 +22,6 @@
     ],
     [
       "in(crate1, depot0)",
-      "in(crate2, depot1)"
-    ],
-    [
-      "in(crate1, depot0)",
       "in(crate3, depot1)"
     ],
     [
@@ -53,32 +29,12 @@
       "in(crate4, depot1)"
     ],
     [
-      "in(crate2, depot1)",
-      "in(crate0, depot0)"
-    ],
-    [
-      "in(crate2, depot1)",
-      "in(crate1, depot0)"
-    ],
-    [
-      "in(crate2, depot1)",
-      "in(crate3, depot1)"
-    ],
-    [
-      "in(crate2, depot1)",
-      "in(crate4, depot1)"
-    ],
-    [
       "in(crate3, depot1)",
       "in(crate0, depot0)"
     ],
     [
       "in(crate3, depot1)",
       "in(crate1, depot0)"
-    ],
-    [
-      "in(crate3, depot1)",
-      "in(crate2, depot1)"
     ],
     [
       "in(crate3, depot1)",
@@ -91,10 +47,6 @@
     [
       "in(crate4, depot1)",
       "in(crate1, depot0)"
-    ],
-    [
-      "in(crate4, depot1)",
-      "in(crate2, depot1)"
     ],
     [
       "in(crate4, depot1)",

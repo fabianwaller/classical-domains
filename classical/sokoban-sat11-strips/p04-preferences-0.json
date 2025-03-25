@@ -2,22 +2,6 @@
   "partial_order": [
     [
       "at-goal(stone-01)",
-      "at-goal(stone-01)"
-    ],
-    [
-      "at-goal(stone-02)",
-      "at-goal(stone-02)"
-    ],
-    [
-      "at-goal(stone-03)",
-      "at-goal(stone-03)"
-    ],
-    [
-      "at-goal(stone-04)",
-      "at-goal(stone-04)"
-    ],
-    [
-      "at-goal(stone-05)",
       "at-goal(stone-05)"
     ],
     [
@@ -25,6 +9,18 @@
       "at-goal(stone-02)"
     ],
     [
+      "at-goal(stone-01)",
+      "at-goal(stone-03)"
+    ],
+    [
+      "at-goal(stone-01)",
+      "at-goal(stone-04)"
+    ],
+    [
+      "at-goal(stone-02)",
+      "at-goal(stone-01)"
+    ],
+    [
       "at-goal(stone-02)",
       "at-goal(stone-03)"
     ],
@@ -33,8 +29,8 @@
       "at-goal(stone-04)"
     ],
     [
-      "at-goal(stone-02)",
-      "at-goal(stone-05)"
+      "at-goal(stone-03)",
+      "at-goal(stone-01)"
     ],
     [
       "at-goal(stone-03)",
@@ -45,8 +41,8 @@
       "at-goal(stone-04)"
     ],
     [
-      "at-goal(stone-03)",
-      "at-goal(stone-05)"
+      "at-goal(stone-04)",
+      "at-goal(stone-01)"
     ],
     [
       "at-goal(stone-04)",
@@ -55,22 +51,6 @@
     [
       "at-goal(stone-04)",
       "at-goal(stone-03)"
-    ],
-    [
-      "at-goal(stone-04)",
-      "at-goal(stone-05)"
-    ],
-    [
-      "at-goal(stone-05)",
-      "at-goal(stone-02)"
-    ],
-    [
-      "at-goal(stone-05)",
-      "at-goal(stone-03)"
-    ],
-    [
-      "at-goal(stone-05)",
-      "at-goal(stone-04)"
     ]
   ]
 }

@@ -1,28 +1,16 @@
 {
   "partial_order": [
     [
+      "KNOWS-BOB-SECRET_INFO()",
+      "do-normal()"
+    ],
+    [
       "do-normal()",
-      "do-normal()"
-    ],
-    [
-      "KNOWS-BOB-SECRET_INFO()",
-      "KNOWS-BOB-SECRET_INFO()"
-    ],
-    [
-      "MANDATORY_STEP-BOB()",
-      "MANDATORY_STEP-BOB()"
-    ],
-    [
-      "KNOWS-BOB-SECRET_INFO()",
-      "do-normal()"
-    ],
-    [
-      "KNOWS-BOB-SECRET_INFO()",
       "MANDATORY_STEP-BOB()"
     ],
     [
       "MANDATORY_STEP-BOB()",
-      "KNOWS-BOB-SECRET_INFO()"
+      "do-normal()"
     ]
   ]
 }

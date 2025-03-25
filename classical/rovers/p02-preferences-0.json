@@ -2,14 +2,10 @@
   "partial_order": [
     [
       "communicated_soil_data(waypoint0)",
-      "communicated_soil_data(waypoint0)"
-    ],
-    [
-      "communicated_rock_data(waypoint0)",
       "communicated_rock_data(waypoint0)"
     ],
     [
-      "communicated_image_data(objective1, low_res)",
+      "communicated_soil_data(waypoint0)",
       "communicated_image_data(objective1, low_res)"
     ],
     [
@@ -19,6 +15,10 @@
     [
       "communicated_rock_data(waypoint0)",
       "communicated_image_data(objective1, low_res)"
+    ],
+    [
+      "communicated_image_data(objective1, low_res)",
+      "communicated_soil_data(waypoint0)"
     ],
     [
       "communicated_image_data(objective1, low_res)",

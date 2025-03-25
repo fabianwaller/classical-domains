@@ -2,14 +2,10 @@
   "partial_order": [
     [
       "walked(couple0, place5)",
-      "walked(couple0, place5)"
-    ],
-    [
-      "walked(couple1, place5)",
       "walked(couple1, place5)"
     ],
     [
-      "walked(couple2, place5)",
+      "walked(couple0, place5)",
       "walked(couple2, place5)"
     ],
     [
@@ -19,6 +15,10 @@
     [
       "walked(couple1, place5)",
       "walked(couple2, place5)"
+    ],
+    [
+      "walked(couple2, place5)",
+      "walked(couple0, place5)"
     ],
     [
       "walked(couple2, place5)",

@@ -1,48 +1,36 @@
 {
   "partial_order": [
     [
-      "available(p0)",
+      "surface-condition(p0, smooth)",
       "available(p0)"
     ],
     [
-      "wood(p0, mahogany)",
-      "wood(p0, mahogany)"
+      "surface-condition(p0, smooth)",
+      "treatment(p1, glazed)"
     ],
     [
       "surface-condition(p0, smooth)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "available(p1)",
-      "available(p1)"
-    ],
-    [
-      "surface-condition(p1, smooth)",
-      "surface-condition(p1, smooth)"
+      "colour(p2, natural)"
     ],
     [
       "treatment(p1, glazed)",
-      "treatment(p1, glazed)"
+      "surface-condition(p0, smooth)"
     ],
     [
-      "available(p2)",
-      "available(p2)"
+      "treatment(p1, glazed)",
+      "colour(p2, natural)"
     ],
     [
       "colour(p2, natural)",
-      "colour(p2, natural)"
+      "surface-condition(p0, smooth)"
     ],
     [
-      "treatment(p2, glazed)",
-      "treatment(p2, glazed)"
+      "colour(p2, natural)",
+      "treatment(p1, glazed)"
     ],
     [
       "available(p0)",
       "wood(p0, mahogany)"
-    ],
-    [
-      "available(p0)",
-      "surface-condition(p0, smooth)"
     ],
     [
       "available(p0)",
@@ -54,15 +42,7 @@
     ],
     [
       "available(p0)",
-      "treatment(p1, glazed)"
-    ],
-    [
-      "available(p0)",
       "available(p2)"
-    ],
-    [
-      "available(p0)",
-      "colour(p2, natural)"
     ],
     [
       "available(p0)",
@@ -74,10 +54,6 @@
     ],
     [
       "wood(p0, mahogany)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "wood(p0, mahogany)",
       "available(p1)"
     ],
     [
@@ -86,50 +62,10 @@
     ],
     [
       "wood(p0, mahogany)",
-      "treatment(p1, glazed)"
-    ],
-    [
-      "wood(p0, mahogany)",
       "available(p2)"
     ],
     [
       "wood(p0, mahogany)",
-      "colour(p2, natural)"
-    ],
-    [
-      "wood(p0, mahogany)",
-      "treatment(p2, glazed)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
-      "available(p0)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
-      "wood(p0, mahogany)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
-      "available(p1)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
-      "surface-condition(p1, smooth)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
-      "treatment(p1, glazed)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
-      "available(p2)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
-      "colour(p2, natural)"
-    ],
-    [
-      "surface-condition(p0, smooth)",
       "treatment(p2, glazed)"
     ],
     [
@@ -142,23 +78,11 @@
     ],
     [
       "available(p1)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "available(p1)",
       "surface-condition(p1, smooth)"
     ],
     [
       "available(p1)",
-      "treatment(p1, glazed)"
-    ],
-    [
-      "available(p1)",
       "available(p2)"
-    ],
-    [
-      "available(p1)",
-      "colour(p2, natural)"
     ],
     [
       "available(p1)",
@@ -174,15 +98,7 @@
     ],
     [
       "surface-condition(p1, smooth)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "surface-condition(p1, smooth)",
       "available(p1)"
-    ],
-    [
-      "surface-condition(p1, smooth)",
-      "treatment(p1, glazed)"
     ],
     [
       "surface-condition(p1, smooth)",
@@ -190,42 +106,6 @@
     ],
     [
       "surface-condition(p1, smooth)",
-      "colour(p2, natural)"
-    ],
-    [
-      "surface-condition(p1, smooth)",
-      "treatment(p2, glazed)"
-    ],
-    [
-      "treatment(p1, glazed)",
-      "available(p0)"
-    ],
-    [
-      "treatment(p1, glazed)",
-      "wood(p0, mahogany)"
-    ],
-    [
-      "treatment(p1, glazed)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "treatment(p1, glazed)",
-      "available(p1)"
-    ],
-    [
-      "treatment(p1, glazed)",
-      "surface-condition(p1, smooth)"
-    ],
-    [
-      "treatment(p1, glazed)",
-      "available(p2)"
-    ],
-    [
-      "treatment(p1, glazed)",
-      "colour(p2, natural)"
-    ],
-    [
-      "treatment(p1, glazed)",
       "treatment(p2, glazed)"
     ],
     [
@@ -238,10 +118,6 @@
     ],
     [
       "available(p2)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "available(p2)",
       "available(p1)"
     ],
     [
@@ -250,46 +126,6 @@
     ],
     [
       "available(p2)",
-      "treatment(p1, glazed)"
-    ],
-    [
-      "available(p2)",
-      "colour(p2, natural)"
-    ],
-    [
-      "available(p2)",
-      "treatment(p2, glazed)"
-    ],
-    [
-      "colour(p2, natural)",
-      "available(p0)"
-    ],
-    [
-      "colour(p2, natural)",
-      "wood(p0, mahogany)"
-    ],
-    [
-      "colour(p2, natural)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "colour(p2, natural)",
-      "available(p1)"
-    ],
-    [
-      "colour(p2, natural)",
-      "surface-condition(p1, smooth)"
-    ],
-    [
-      "colour(p2, natural)",
-      "treatment(p1, glazed)"
-    ],
-    [
-      "colour(p2, natural)",
-      "available(p2)"
-    ],
-    [
-      "colour(p2, natural)",
       "treatment(p2, glazed)"
     ],
     [
@@ -302,10 +138,6 @@
     ],
     [
       "treatment(p2, glazed)",
-      "surface-condition(p0, smooth)"
-    ],
-    [
-      "treatment(p2, glazed)",
       "available(p1)"
     ],
     [
@@ -314,15 +146,7 @@
     ],
     [
       "treatment(p2, glazed)",
-      "treatment(p1, glazed)"
-    ],
-    [
-      "treatment(p2, glazed)",
       "available(p2)"
-    ],
-    [
-      "treatment(p2, glazed)",
-      "colour(p2, natural)"
     ]
   ]
 }

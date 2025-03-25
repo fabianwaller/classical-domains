@@ -1,364 +1,180 @@
 {
   "partial_order": [
     [
-      "ON(B1, N)",
-      "ON(B1, N)"
+      "ON(Y, D)",
+      "ON(B, F)"
     ],
     [
-      "ON(N, A)",
-      "ON(N, A)"
+      "ON(B, F)",
+      "ON(I, V)"
     ],
     [
-      "ON(A, Y)",
+      "ON(I, V)",
       "ON(A, Y)"
     ],
     [
-      "ON(Y, D)",
-      "ON(Y, D)"
+      "ON(A, Y)",
+      "ON(P, O)"
     ],
     [
-      "ON(D, A1)",
+      "ON(P, O)",
       "ON(D, A1)"
     ],
     [
-      "ON(A1, T)",
-      "ON(A1, T)"
+      "ON(D, A1)",
+      "ON(O, L)"
+    ],
+    [
+      "ON(O, L)",
+      "ON(B1, N)"
+    ],
+    [
+      "ON(B1, N)",
+      "ON(W, Z)"
+    ],
+    [
+      "ON(W, Z)",
+      "ON(T, R)"
     ],
     [
       "ON(T, R)",
+      "ON(C, U)"
+    ],
+    [
+      "ON(C, U)",
+      "ON(Q, H)"
+    ],
+    [
+      "ON(Q, H)",
+      "ON(X, G)"
+    ],
+    [
+      "ON(X, G)",
+      "ON(R, X)"
+    ],
+    [
+      "ON(R, X)",
+      "ON(N, A)"
+    ],
+    [
+      "ON(N, A)",
+      "ON(M, W)"
+    ],
+    [
+      "ON(M, W)",
+      "ON(L, S)"
+    ],
+    [
+      "ON(Y, D)",
+      "ON(A1, T)"
+    ],
+    [
+      "ON(Y, D)",
+      "ON(K, M)"
+    ],
+    [
+      "ON(A1, T)",
+      "ON(Y, D)"
+    ],
+    [
+      "ON(A1, T)",
+      "ON(K, M)"
+    ],
+    [
+      "ON(K, M)",
+      "ON(Y, D)"
+    ],
+    [
+      "ON(K, M)",
+      "ON(A1, T)"
+    ],
+    [
+      "ON(B, F)",
+      "ON(F, C)"
+    ],
+    [
+      "ON(B, F)",
+      "ON(E, I)"
+    ],
+    [
+      "ON(F, C)",
+      "ON(B, F)"
+    ],
+    [
+      "ON(F, C)",
+      "ON(E, I)"
+    ],
+    [
+      "ON(E, I)",
+      "ON(B, F)"
+    ],
+    [
+      "ON(E, I)",
+      "ON(F, C)"
+    ],
+    [
+      "ON(P, O)",
+      "ON(S, E)"
+    ],
+    [
+      "ON(P, O)",
+      "ON(V, Q)"
+    ],
+    [
+      "ON(S, E)",
+      "ON(P, O)"
+    ],
+    [
+      "ON(S, E)",
+      "ON(V, Q)"
+    ],
+    [
+      "ON(V, Q)",
+      "ON(P, O)"
+    ],
+    [
+      "ON(V, Q)",
+      "ON(S, E)"
+    ],
+    [
+      "ON(T, R)",
+      "ON(Z, J)"
+    ],
+    [
+      "ON(Z, J)",
       "ON(T, R)"
     ],
     [
       "ON(R, X)",
-      "ON(R, X)"
-    ],
-    [
-      "ON(X, G)",
-      "ON(X, G)"
-    ],
-    [
-      "ON(G, B)",
       "ON(G, B)"
     ],
     [
-      "ON(B, F)",
-      "ON(B, F)"
-    ],
-    [
-      "ON(F, C)",
-      "ON(F, C)"
-    ],
-    [
-      "ON(C, U)",
-      "ON(C, U)"
-    ],
-    [
-      "ON(U, K)",
+      "ON(R, X)",
       "ON(U, K)"
     ],
     [
-      "ON(K, M)",
-      "ON(K, M)"
+      "ON(G, B)",
+      "ON(R, X)"
     ],
     [
-      "ON(M, W)",
-      "ON(M, W)"
-    ],
-    [
-      "ON(W, Z)",
-      "ON(W, Z)"
-    ],
-    [
-      "ON(Z, J)",
-      "ON(Z, J)"
-    ],
-    [
-      "ON(J, P)",
-      "ON(J, P)"
-    ],
-    [
-      "ON(P, O)",
-      "ON(P, O)"
-    ],
-    [
-      "ON(O, L)",
-      "ON(O, L)"
-    ],
-    [
-      "ON(L, S)",
-      "ON(L, S)"
-    ],
-    [
-      "ON(S, E)",
-      "ON(S, E)"
-    ],
-    [
-      "ON(E, I)",
-      "ON(E, I)"
-    ],
-    [
-      "ON(I, V)",
-      "ON(I, V)"
-    ],
-    [
-      "ON(V, Q)",
-      "ON(V, Q)"
-    ],
-    [
-      "ON(Q, H)",
-      "ON(Q, H)"
-    ],
-    [
-      "ON(E, I)",
-      "ON(B1, N)"
-    ],
-    [
-      "ON(B1, N)",
-      "ON(A, Y)"
-    ],
-    [
-      "ON(A, Y)",
+      "ON(G, B)",
       "ON(U, K)"
     ],
     [
       "ON(U, K)",
-      "ON(T, R)"
+      "ON(R, X)"
     ],
     [
-      "ON(T, R)",
-      "ON(X, G)"
+      "ON(U, K)",
+      "ON(G, B)"
     ],
     [
-      "ON(X, G)",
-      "ON(D, A1)"
-    ],
-    [
-      "ON(D, A1)",
+      "ON(N, A)",
       "ON(J, P)"
     ],
     [
       "ON(J, P)",
-      "ON(Y, D)"
-    ],
-    [
-      "ON(Y, D)",
-      "ON(A1, T)"
-    ],
-    [
-      "ON(A1, T)",
-      "ON(K, M)"
-    ],
-    [
-      "ON(K, M)",
-      "ON(R, X)"
-    ],
-    [
-      "ON(B1, N)",
       "ON(N, A)"
-    ],
-    [
-      "ON(B1, N)",
-      "ON(F, C)"
-    ],
-    [
-      "ON(B1, N)",
-      "ON(L, S)"
-    ],
-    [
-      "ON(N, A)",
-      "ON(B1, N)"
-    ],
-    [
-      "ON(N, A)",
-      "ON(F, C)"
-    ],
-    [
-      "ON(N, A)",
-      "ON(L, S)"
-    ],
-    [
-      "ON(F, C)",
-      "ON(B1, N)"
-    ],
-    [
-      "ON(F, C)",
-      "ON(N, A)"
-    ],
-    [
-      "ON(F, C)",
-      "ON(L, S)"
-    ],
-    [
-      "ON(L, S)",
-      "ON(B1, N)"
-    ],
-    [
-      "ON(L, S)",
-      "ON(N, A)"
-    ],
-    [
-      "ON(L, S)",
-      "ON(F, C)"
-    ],
-    [
-      "ON(A, Y)",
-      "ON(B, F)"
-    ],
-    [
-      "ON(A, Y)",
-      "ON(W, Z)"
-    ],
-    [
-      "ON(A, Y)",
-      "ON(V, Q)"
-    ],
-    [
-      "ON(B, F)",
-      "ON(A, Y)"
-    ],
-    [
-      "ON(B, F)",
-      "ON(W, Z)"
-    ],
-    [
-      "ON(B, F)",
-      "ON(V, Q)"
-    ],
-    [
-      "ON(W, Z)",
-      "ON(A, Y)"
-    ],
-    [
-      "ON(W, Z)",
-      "ON(B, F)"
-    ],
-    [
-      "ON(W, Z)",
-      "ON(V, Q)"
-    ],
-    [
-      "ON(V, Q)",
-      "ON(A, Y)"
-    ],
-    [
-      "ON(V, Q)",
-      "ON(B, F)"
-    ],
-    [
-      "ON(V, Q)",
-      "ON(W, Z)"
-    ],
-    [
-      "ON(U, K)",
-      "ON(Z, J)"
-    ],
-    [
-      "ON(U, K)",
-      "ON(O, L)"
-    ],
-    [
-      "ON(U, K)",
-      "ON(S, E)"
-    ],
-    [
-      "ON(Z, J)",
-      "ON(U, K)"
-    ],
-    [
-      "ON(Z, J)",
-      "ON(O, L)"
-    ],
-    [
-      "ON(Z, J)",
-      "ON(S, E)"
-    ],
-    [
-      "ON(O, L)",
-      "ON(U, K)"
-    ],
-    [
-      "ON(O, L)",
-      "ON(Z, J)"
-    ],
-    [
-      "ON(O, L)",
-      "ON(S, E)"
-    ],
-    [
-      "ON(S, E)",
-      "ON(U, K)"
-    ],
-    [
-      "ON(S, E)",
-      "ON(Z, J)"
-    ],
-    [
-      "ON(S, E)",
-      "ON(O, L)"
-    ],
-    [
-      "ON(T, R)",
-      "ON(M, W)"
-    ],
-    [
-      "ON(M, W)",
-      "ON(T, R)"
-    ],
-    [
-      "ON(D, A1)",
-      "ON(P, O)"
-    ],
-    [
-      "ON(P, O)",
-      "ON(D, A1)"
-    ],
-    [
-      "ON(Y, D)",
-      "ON(G, B)"
-    ],
-    [
-      "ON(Y, D)",
-      "ON(C, U)"
-    ],
-    [
-      "ON(G, B)",
-      "ON(Y, D)"
-    ],
-    [
-      "ON(G, B)",
-      "ON(C, U)"
-    ],
-    [
-      "ON(C, U)",
-      "ON(Y, D)"
-    ],
-    [
-      "ON(C, U)",
-      "ON(G, B)"
-    ],
-    [
-      "ON(K, M)",
-      "ON(I, V)"
-    ],
-    [
-      "ON(K, M)",
-      "ON(Q, H)"
-    ],
-    [
-      "ON(I, V)",
-      "ON(K, M)"
-    ],
-    [
-      "ON(I, V)",
-      "ON(Q, H)"
-    ],
-    [
-      "ON(Q, H)",
-      "ON(K, M)"
-    ],
-    [
-      "ON(Q, H)",
-      "ON(I, V)"
     ]
   ]
 }

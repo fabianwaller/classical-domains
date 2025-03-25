@@ -2,18 +2,6 @@
   "partial_order": [
     [
       "ON(A, B)",
-      "ON(A, B)"
-    ],
-    [
-      "ON(B, C)",
-      "ON(B, C)"
-    ],
-    [
-      "ON(C, D)",
-      "ON(C, D)"
-    ],
-    [
-      "ON(A, B)",
       "ON(B, C)"
     ],
     [
@@ -21,20 +9,8 @@
       "ON(C, D)"
     ],
     [
-      "ON(B, C)",
-      "ON(A, B)"
-    ],
-    [
-      "ON(B, C)",
-      "ON(C, D)"
-    ],
-    [
       "ON(C, D)",
       "ON(A, B)"
-    ],
-    [
-      "ON(C, D)",
-      "ON(B, C)"
     ]
   ]
 }

@@ -2,147 +2,95 @@
   "partial_order": [
     [
       "do-normal()",
-      "do-normal()"
+      "CLOSED-CB1()"
     ],
     [
-      "CLOSED-SD10()",
+      "CLOSED-CB1()",
       "CLOSED-SD10()"
     ],
     [
-      "CLOSED-CB3()",
-      "CLOSED-CB3()"
-    ],
-    [
-      "CLOSED-SD9()",
-      "CLOSED-SD9()"
-    ],
-    [
-      "CLOSED-SD8()",
-      "CLOSED-SD8()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "CLOSED-SD4()",
+      "CLOSED-SD10()",
       "CLOSED-SD4()"
     ],
     [
-      "CLOSED-CB2()",
+      "CLOSED-SD4()",
       "CLOSED-CB2()"
     ],
     [
-      "CLOSED-SD3()",
-      "CLOSED-SD3()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "UPDATED-CB2()",
-      "UPDATED-CB2()"
-    ],
-    [
-      "UPDATED-CB3()",
-      "UPDATED-CB3()"
-    ],
-    [
-      "UPDATED-CB2()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "CLOSED-SD5()",
+      "CLOSED-CB2()",
       "CLOSED-CB3()"
-    ],
-    [
-      "CLOSED-CB3()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "do-normal()"
     ],
     [
       "do-normal()",
-      "CLOSED-SD10()"
-    ],
-    [
-      "CLOSED-SD10()",
-      "CLOSED-CB2()"
-    ],
-    [
-      "CLOSED-CB2()",
-      "CLOSED-SD9()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "CLOSED-SD3()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "CLOSED-SD3()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-SD3()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "CLOSED-SD3()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "CLOSED-SD3()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD3()"
-    ],
-    [
-      "CLOSED-CB3()",
-      "UPDATED-CB3()"
-    ],
-    [
-      "UPDATED-CB3()",
-      "CLOSED-CB3()"
-    ],
-    [
-      "CLOSED-SD10()",
       "CLOSED-SD8()"
     ],
     [
       "CLOSED-SD8()",
+      "do-normal()"
+    ],
+    [
+      "CLOSED-SD10()",
+      "CLOSED-SD9()"
+    ],
+    [
+      "CLOSED-SD10()",
+      "CLOSED-SD5()"
+    ],
+    [
+      "CLOSED-SD9()",
       "CLOSED-SD10()"
+    ],
+    [
+      "CLOSED-SD9()",
+      "CLOSED-SD5()"
+    ],
+    [
+      "CLOSED-SD5()",
+      "CLOSED-SD10()"
+    ],
+    [
+      "CLOSED-SD5()",
+      "CLOSED-SD9()"
+    ],
+    [
+      "CLOSED-SD4()",
+      "UPDATED-CB2()"
+    ],
+    [
+      "CLOSED-SD4()",
+      "UPDATED-CB3()"
+    ],
+    [
+      "UPDATED-CB2()",
+      "CLOSED-SD4()"
+    ],
+    [
+      "UPDATED-CB2()",
+      "UPDATED-CB3()"
+    ],
+    [
+      "UPDATED-CB3()",
+      "CLOSED-SD4()"
+    ],
+    [
+      "UPDATED-CB3()",
+      "UPDATED-CB2()"
+    ],
+    [
+      "CLOSED-CB2()",
+      "UPDATED-CB1()"
+    ],
+    [
+      "UPDATED-CB1()",
+      "CLOSED-CB2()"
+    ],
+    [
+      "CLOSED-CB3()",
+      "CLOSED-SD3()"
+    ],
+    [
+      "CLOSED-SD3()",
+      "CLOSED-CB3()"
     ]
   ]
 }

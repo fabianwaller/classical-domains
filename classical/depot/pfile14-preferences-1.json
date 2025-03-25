@@ -2,87 +2,47 @@
   "partial_order": [
     [
       "on(crate1, pallet8)",
-      "on(crate1, pallet8)"
-    ],
-    [
-      "on(crate2, pallet3)",
-      "on(crate2, pallet3)"
+      "on(crate4, pallet0)"
     ],
     [
       "on(crate4, pallet0)",
+      "on(crate2, pallet3)"
+    ],
+    [
+      "on(crate2, pallet3)",
+      "on(crate6, pallet1)"
+    ],
+    [
+      "on(crate4, pallet0)",
+      "on(crate5, pallet5)"
+    ],
+    [
+      "on(crate4, pallet0)",
+      "on(crate7, crate6)"
+    ],
+    [
+      "on(crate5, pallet5)",
       "on(crate4, pallet0)"
     ],
     [
       "on(crate5, pallet5)",
-      "on(crate5, pallet5)"
-    ],
-    [
-      "on(crate6, pallet1)",
-      "on(crate6, pallet1)"
-    ],
-    [
-      "on(crate7, crate6)",
-      "on(crate7, crate6)"
-    ],
-    [
-      "on(crate9, crate7)",
-      "on(crate9, crate7)"
-    ],
-    [
-      "on(crate1, pallet8)",
       "on(crate7, crate6)"
     ],
     [
       "on(crate7, crate6)",
-      "on(crate2, pallet3)"
+      "on(crate4, pallet0)"
     ],
     [
-      "on(crate1, pallet8)",
-      "on(crate6, pallet1)"
+      "on(crate7, crate6)",
+      "on(crate5, pallet5)"
     ],
     [
-      "on(crate1, pallet8)",
-      "on(crate9, crate7)"
-    ],
-    [
-      "on(crate6, pallet1)",
-      "on(crate1, pallet8)"
-    ],
-    [
-      "on(crate6, pallet1)",
+      "on(crate2, pallet3)",
       "on(crate9, crate7)"
     ],
     [
       "on(crate9, crate7)",
-      "on(crate1, pallet8)"
-    ],
-    [
-      "on(crate9, crate7)",
-      "on(crate6, pallet1)"
-    ],
-    [
-      "on(crate2, pallet3)",
-      "on(crate4, pallet0)"
-    ],
-    [
-      "on(crate2, pallet3)",
-      "on(crate5, pallet5)"
-    ],
-    [
-      "on(crate4, pallet0)",
       "on(crate2, pallet3)"
-    ],
-    [
-      "on(crate4, pallet0)",
-      "on(crate5, pallet5)"
-    ],
-    [
-      "on(crate5, pallet5)",
-      "on(crate2, pallet3)"
-    ],
-    [
-      "on(crate5, pallet5)",
-      "on(crate4, pallet0)"
     ]
   ]
 }

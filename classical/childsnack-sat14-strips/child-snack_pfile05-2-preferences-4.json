@@ -2,119 +2,199 @@
   "partial_order": [
     [
       "served(child1)",
-      "served(child1)"
-    ],
-    [
-      "served(child2)",
       "served(child2)"
     ],
     [
-      "served(child3)",
+      "served(child1)",
+      "served(child6)"
+    ],
+    [
+      "served(child1)",
+      "served(child7)"
+    ],
+    [
+      "served(child6)",
+      "served(child1)"
+    ],
+    [
+      "served(child6)",
+      "served(child7)"
+    ],
+    [
+      "served(child7)",
+      "served(child1)"
+    ],
+    [
+      "served(child7)",
+      "served(child6)"
+    ],
+    [
+      "served(child2)",
       "served(child3)"
     ],
     [
-      "served(child4)",
+      "served(child2)",
       "served(child4)"
     ],
     [
-      "served(child5)",
+      "served(child2)",
       "served(child5)"
     ],
     [
-      "served(child6)",
-      "served(child6)"
-    ],
-    [
-      "served(child7)",
-      "served(child7)"
-    ],
-    [
-      "served(child8)",
+      "served(child2)",
       "served(child8)"
     ],
     [
-      "served(child9)",
+      "served(child2)",
       "served(child9)"
     ],
     [
-      "served(child10)",
+      "served(child2)",
       "served(child10)"
     ],
     [
-      "served(child2)",
-      "served(child1)"
-    ],
-    [
-      "served(child1)",
-      "served(child3)"
-    ],
-    [
       "served(child3)",
-      "served(child8)"
-    ],
-    [
-      "served(child2)",
-      "served(child5)"
-    ],
-    [
-      "served(child2)",
-      "served(child6)"
-    ],
-    [
-      "served(child5)",
       "served(child2)"
-    ],
-    [
-      "served(child5)",
-      "served(child6)"
-    ],
-    [
-      "served(child6)",
-      "served(child2)"
-    ],
-    [
-      "served(child6)",
-      "served(child5)"
-    ],
-    [
-      "served(child1)",
-      "served(child7)"
-    ],
-    [
-      "served(child1)",
-      "served(child9)"
-    ],
-    [
-      "served(child7)",
-      "served(child1)"
-    ],
-    [
-      "served(child7)",
-      "served(child9)"
-    ],
-    [
-      "served(child9)",
-      "served(child1)"
-    ],
-    [
-      "served(child9)",
-      "served(child7)"
     ],
     [
       "served(child3)",
       "served(child4)"
     ],
     [
+      "served(child3)",
+      "served(child5)"
+    ],
+    [
+      "served(child3)",
+      "served(child8)"
+    ],
+    [
+      "served(child3)",
+      "served(child9)"
+    ],
+    [
+      "served(child3)",
+      "served(child10)"
+    ],
+    [
+      "served(child4)",
+      "served(child2)"
+    ],
+    [
       "served(child4)",
       "served(child3)"
+    ],
+    [
+      "served(child4)",
+      "served(child5)"
+    ],
+    [
+      "served(child4)",
+      "served(child8)"
+    ],
+    [
+      "served(child4)",
+      "served(child9)"
+    ],
+    [
+      "served(child4)",
+      "served(child10)"
+    ],
+    [
+      "served(child5)",
+      "served(child2)"
+    ],
+    [
+      "served(child5)",
+      "served(child3)"
+    ],
+    [
+      "served(child5)",
+      "served(child4)"
+    ],
+    [
+      "served(child5)",
+      "served(child8)"
+    ],
+    [
+      "served(child5)",
+      "served(child9)"
+    ],
+    [
+      "served(child5)",
+      "served(child10)"
+    ],
+    [
+      "served(child8)",
+      "served(child2)"
+    ],
+    [
+      "served(child8)",
+      "served(child3)"
+    ],
+    [
+      "served(child8)",
+      "served(child4)"
+    ],
+    [
+      "served(child8)",
+      "served(child5)"
+    ],
+    [
+      "served(child8)",
+      "served(child9)"
     ],
     [
       "served(child8)",
       "served(child10)"
     ],
     [
+      "served(child9)",
+      "served(child2)"
+    ],
+    [
+      "served(child9)",
+      "served(child3)"
+    ],
+    [
+      "served(child9)",
+      "served(child4)"
+    ],
+    [
+      "served(child9)",
+      "served(child5)"
+    ],
+    [
+      "served(child9)",
+      "served(child8)"
+    ],
+    [
+      "served(child9)",
+      "served(child10)"
+    ],
+    [
+      "served(child10)",
+      "served(child2)"
+    ],
+    [
+      "served(child10)",
+      "served(child3)"
+    ],
+    [
+      "served(child10)",
+      "served(child4)"
+    ],
+    [
+      "served(child10)",
+      "served(child5)"
+    ],
+    [
       "served(child10)",
       "served(child8)"
+    ],
+    [
+      "served(child10)",
+      "served(child9)"
     ]
   ]
 }

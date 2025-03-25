@@ -1,28 +1,8 @@
 {
   "partial_order": [
     [
-      "at(person1, city3)",
-      "at(person1, city3)"
-    ],
-    [
       "at(person2, city1)",
-      "at(person2, city1)"
-    ],
-    [
-      "at(person3, city3)",
-      "at(person3, city3)"
-    ],
-    [
-      "at(person4, city3)",
-      "at(person4, city3)"
-    ],
-    [
-      "at(person5, city1)",
-      "at(person5, city1)"
-    ],
-    [
-      "at(person1, city3)",
-      "at(person2, city1)"
+      "at(person1, city3)"
     ],
     [
       "at(person1, city3)",
@@ -37,48 +17,8 @@
       "at(person5, city1)"
     ],
     [
-      "at(person2, city1)",
-      "at(person1, city3)"
-    ],
-    [
-      "at(person2, city1)",
-      "at(person3, city3)"
-    ],
-    [
-      "at(person2, city1)",
-      "at(person4, city3)"
-    ],
-    [
-      "at(person2, city1)",
-      "at(person5, city1)"
-    ],
-    [
-      "at(person3, city3)",
-      "at(person1, city3)"
-    ],
-    [
-      "at(person3, city3)",
-      "at(person2, city1)"
-    ],
-    [
-      "at(person3, city3)",
-      "at(person4, city3)"
-    ],
-    [
-      "at(person3, city3)",
-      "at(person5, city1)"
-    ],
-    [
       "at(person4, city3)",
       "at(person1, city3)"
-    ],
-    [
-      "at(person4, city3)",
-      "at(person2, city1)"
-    ],
-    [
-      "at(person4, city3)",
-      "at(person3, city3)"
     ],
     [
       "at(person4, city3)",
@@ -87,14 +27,6 @@
     [
       "at(person5, city1)",
       "at(person1, city3)"
-    ],
-    [
-      "at(person5, city1)",
-      "at(person2, city1)"
-    ],
-    [
-      "at(person5, city1)",
-      "at(person3, city3)"
     ],
     [
       "at(person5, city1)",

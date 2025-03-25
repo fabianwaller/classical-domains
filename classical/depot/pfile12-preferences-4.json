@@ -2,47 +2,7 @@
   "partial_order": [
     [
       "on(crate0, pallet4)",
-      "on(crate0, pallet4)"
-    ],
-    [
-      "on(crate1, crate12)",
-      "on(crate1, crate12)"
-    ],
-    [
-      "on(crate2, crate0)",
-      "on(crate2, crate0)"
-    ],
-    [
-      "on(crate3, crate9)",
       "on(crate3, crate9)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate9, pallet2)",
-      "on(crate9, pallet2)"
-    ],
-    [
-      "on(crate10, crate13)",
-      "on(crate10, crate13)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate12, pallet5)"
-    ],
-    [
-      "on(crate13, pallet1)",
-      "on(crate13, pallet1)"
-    ],
-    [
-      "on(crate14, crate10)",
-      "on(crate14, crate10)"
     ],
     [
       "on(crate0, pallet4)",
@@ -54,27 +14,11 @@
     ],
     [
       "on(crate0, pallet4)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate0, pallet4)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate0, pallet4)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate0, pallet4)",
       "on(crate9, pallet2)"
     ],
     [
       "on(crate0, pallet4)",
       "on(crate10, crate13)"
-    ],
-    [
-      "on(crate0, pallet4)",
-      "on(crate12, pallet5)"
     ],
     [
       "on(crate0, pallet4)",
@@ -94,27 +38,11 @@
     ],
     [
       "on(crate1, crate12)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate1, crate12)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate1, crate12)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate1, crate12)",
       "on(crate9, pallet2)"
     ],
     [
       "on(crate1, crate12)",
       "on(crate10, crate13)"
-    ],
-    [
-      "on(crate1, crate12)",
-      "on(crate12, pallet5)"
     ],
     [
       "on(crate1, crate12)",
@@ -134,27 +62,11 @@
     ],
     [
       "on(crate2, crate0)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate2, crate0)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate2, crate0)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate2, crate0)",
       "on(crate9, pallet2)"
     ],
     [
       "on(crate2, crate0)",
       "on(crate10, crate13)"
-    ],
-    [
-      "on(crate2, crate0)",
-      "on(crate12, pallet5)"
     ],
     [
       "on(crate2, crate0)",
@@ -165,126 +77,6 @@
       "on(crate14, crate10)"
     ],
     [
-      "on(crate3, crate9)",
-      "on(crate0, pallet4)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate1, crate12)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate2, crate0)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate9, pallet2)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate10, crate13)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate12, pallet5)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate13, pallet1)"
-    ],
-    [
-      "on(crate3, crate9)",
-      "on(crate14, crate10)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate0, pallet4)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate1, crate12)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate2, crate0)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate9, pallet2)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate10, crate13)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate12, pallet5)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate13, pallet1)"
-    ],
-    [
-      "on(crate5, pallet0)",
-      "on(crate14, crate10)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate0, pallet4)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate1, crate12)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate2, crate0)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate9, pallet2)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate10, crate13)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate12, pallet5)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate13, pallet1)"
-    ],
-    [
-      "on(crate6, crate2)",
-      "on(crate14, crate10)"
-    ],
-    [
       "on(crate9, pallet2)",
       "on(crate0, pallet4)"
     ],
@@ -298,23 +90,7 @@
     ],
     [
       "on(crate9, pallet2)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate9, pallet2)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate9, pallet2)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate9, pallet2)",
       "on(crate10, crate13)"
-    ],
-    [
-      "on(crate9, pallet2)",
-      "on(crate12, pallet5)"
     ],
     [
       "on(crate9, pallet2)",
@@ -338,23 +114,7 @@
     ],
     [
       "on(crate10, crate13)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate10, crate13)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate10, crate13)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate10, crate13)",
       "on(crate9, pallet2)"
-    ],
-    [
-      "on(crate10, crate13)",
-      "on(crate12, pallet5)"
     ],
     [
       "on(crate10, crate13)",
@@ -362,46 +122,6 @@
     ],
     [
       "on(crate10, crate13)",
-      "on(crate14, crate10)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate0, pallet4)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate1, crate12)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate2, crate0)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate9, pallet2)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate10, crate13)"
-    ],
-    [
-      "on(crate12, pallet5)",
-      "on(crate13, pallet1)"
-    ],
-    [
-      "on(crate12, pallet5)",
       "on(crate14, crate10)"
     ],
     [
@@ -418,27 +138,11 @@
     ],
     [
       "on(crate13, pallet1)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate13, pallet1)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate13, pallet1)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate13, pallet1)",
       "on(crate9, pallet2)"
     ],
     [
       "on(crate13, pallet1)",
       "on(crate10, crate13)"
-    ],
-    [
-      "on(crate13, pallet1)",
-      "on(crate12, pallet5)"
     ],
     [
       "on(crate13, pallet1)",
@@ -458,18 +162,6 @@
     ],
     [
       "on(crate14, crate10)",
-      "on(crate3, crate9)"
-    ],
-    [
-      "on(crate14, crate10)",
-      "on(crate5, pallet0)"
-    ],
-    [
-      "on(crate14, crate10)",
-      "on(crate6, crate2)"
-    ],
-    [
-      "on(crate14, crate10)",
       "on(crate9, pallet2)"
     ],
     [
@@ -478,11 +170,55 @@
     ],
     [
       "on(crate14, crate10)",
+      "on(crate13, pallet1)"
+    ],
+    [
+      "on(crate3, crate9)",
+      "on(crate5, pallet0)"
+    ],
+    [
+      "on(crate3, crate9)",
+      "on(crate6, crate2)"
+    ],
+    [
+      "on(crate3, crate9)",
       "on(crate12, pallet5)"
     ],
     [
-      "on(crate14, crate10)",
-      "on(crate13, pallet1)"
+      "on(crate5, pallet0)",
+      "on(crate3, crate9)"
+    ],
+    [
+      "on(crate5, pallet0)",
+      "on(crate6, crate2)"
+    ],
+    [
+      "on(crate5, pallet0)",
+      "on(crate12, pallet5)"
+    ],
+    [
+      "on(crate6, crate2)",
+      "on(crate3, crate9)"
+    ],
+    [
+      "on(crate6, crate2)",
+      "on(crate5, pallet0)"
+    ],
+    [
+      "on(crate6, crate2)",
+      "on(crate12, pallet5)"
+    ],
+    [
+      "on(crate12, pallet5)",
+      "on(crate3, crate9)"
+    ],
+    [
+      "on(crate12, pallet5)",
+      "on(crate5, pallet0)"
+    ],
+    [
+      "on(crate12, pallet5)",
+      "on(crate6, crate2)"
     ]
   ]
 }

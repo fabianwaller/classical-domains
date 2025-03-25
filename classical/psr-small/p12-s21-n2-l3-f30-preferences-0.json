@@ -2,27 +2,11 @@
   "partial_order": [
     [
       "do-normal()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "CLOSED-CB2()",
-      "CLOSED-CB2()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
       "UPDATED-CB1()"
     ],
     [
-      "UPDATED-CB2()",
-      "UPDATED-CB2()"
+      "UPDATED-CB1()",
+      "CLOSED-CB1()"
     ],
     [
       "do-normal()",
@@ -33,36 +17,12 @@
       "CLOSED-CB2()"
     ],
     [
-      "do-normal()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "do-normal()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "do-normal()",
-      "UPDATED-CB2()"
-    ],
-    [
       "CLOSED-SD5()",
       "do-normal()"
     ],
     [
       "CLOSED-SD5()",
       "CLOSED-CB2()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-SD5()",
-      "UPDATED-CB2()"
     ],
     [
       "CLOSED-CB2()",
@@ -73,76 +33,12 @@
       "CLOSED-SD5()"
     ],
     [
-      "CLOSED-CB2()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-CB2()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-CB2()",
-      "UPDATED-CB2()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-CB2()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "UPDATED-CB1()"
-    ],
-    [
       "CLOSED-CB1()",
       "UPDATED-CB2()"
     ],
     [
-      "UPDATED-CB1()",
-      "do-normal()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-CB2()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "UPDATED-CB2()"
-    ],
-    [
-      "UPDATED-CB2()",
-      "do-normal()"
-    ],
-    [
-      "UPDATED-CB2()",
-      "CLOSED-SD5()"
-    ],
-    [
-      "UPDATED-CB2()",
-      "CLOSED-CB2()"
-    ],
-    [
       "UPDATED-CB2()",
       "CLOSED-CB1()"
-    ],
-    [
-      "UPDATED-CB2()",
-      "UPDATED-CB1()"
     ]
   ]
 }

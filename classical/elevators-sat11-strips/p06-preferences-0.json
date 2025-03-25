@@ -1,132 +1,124 @@
 {
   "partial_order": [
     [
-      "passenger-at(p0, n7)",
-      "passenger-at(p0, n7)"
-    ],
-    [
-      "passenger-at(p1, n11)",
-      "passenger-at(p1, n11)"
-    ],
-    [
-      "passenger-at(p2, n14)",
-      "passenger-at(p2, n14)"
-    ],
-    [
       "passenger-at(p3, n8)",
-      "passenger-at(p3, n8)"
-    ],
-    [
-      "passenger-at(p4, n18)",
-      "passenger-at(p4, n18)"
-    ],
-    [
-      "passenger-at(p5, n17)",
-      "passenger-at(p5, n17)"
-    ],
-    [
-      "passenger-at(p6, n3)",
-      "passenger-at(p6, n3)"
-    ],
-    [
-      "passenger-at(p7, n14)",
-      "passenger-at(p7, n14)"
-    ],
-    [
-      "passenger-at(p8, n8)",
-      "passenger-at(p8, n8)"
-    ],
-    [
-      "passenger-at(p9, n18)",
       "passenger-at(p9, n18)"
     ],
     [
-      "passenger-at(p10, n5)",
-      "passenger-at(p10, n5)"
-    ],
-    [
-      "passenger-at(p11, n0)",
-      "passenger-at(p11, n0)"
-    ],
-    [
-      "passenger-at(p12, n21)",
-      "passenger-at(p12, n21)"
-    ],
-    [
-      "passenger-at(p13, n24)",
-      "passenger-at(p13, n24)"
-    ],
-    [
-      "passenger-at(p14, n20)",
-      "passenger-at(p14, n20)"
-    ],
-    [
-      "passenger-at(p15, n7)",
-      "passenger-at(p15, n7)"
-    ],
-    [
-      "passenger-at(p16, n0)",
-      "passenger-at(p16, n0)"
-    ],
-    [
-      "passenger-at(p17, n11)",
-      "passenger-at(p17, n11)"
-    ],
-    [
-      "passenger-at(p18, n14)",
-      "passenger-at(p18, n14)"
-    ],
-    [
-      "passenger-at(p19, n16)",
-      "passenger-at(p19, n16)"
-    ],
-    [
-      "passenger-at(p20, n7)",
+      "passenger-at(p9, n18)",
       "passenger-at(p20, n7)"
     ],
     [
-      "passenger-at(p21, n11)",
+      "passenger-at(p20, n7)",
+      "passenger-at(p6, n3)"
+    ],
+    [
+      "passenger-at(p6, n3)",
+      "passenger-at(p8, n8)"
+    ],
+    [
+      "passenger-at(p8, n8)",
+      "passenger-at(p11, n0)"
+    ],
+    [
+      "passenger-at(p11, n0)",
+      "passenger-at(p7, n14)"
+    ],
+    [
+      "passenger-at(p7, n14)",
+      "passenger-at(p17, n11)"
+    ],
+    [
+      "passenger-at(p17, n11)",
+      "passenger-at(p5, n17)"
+    ],
+    [
+      "passenger-at(p5, n17)",
+      "passenger-at(p10, n5)"
+    ],
+    [
+      "passenger-at(p10, n5)",
+      "passenger-at(p1, n11)"
+    ],
+    [
+      "passenger-at(p1, n11)",
       "passenger-at(p21, n11)"
     ],
     [
-      "passenger-at(p22, n21)",
-      "passenger-at(p22, n21)"
+      "passenger-at(p21, n11)",
+      "passenger-at(p2, n14)"
     ],
     [
-      "passenger-at(p23, n19)",
+      "passenger-at(p2, n14)",
+      "passenger-at(p24, n12)"
+    ],
+    [
+      "passenger-at(p24, n12)",
+      "passenger-at(p4, n18)"
+    ],
+    [
+      "passenger-at(p4, n18)",
+      "passenger-at(p0, n7)"
+    ],
+    [
+      "passenger-at(p9, n18)",
+      "passenger-at(p27, n4)"
+    ],
+    [
+      "passenger-at(p27, n4)",
+      "passenger-at(p9, n18)"
+    ],
+    [
+      "passenger-at(p8, n8)",
+      "passenger-at(p12, n21)"
+    ],
+    [
+      "passenger-at(p8, n8)",
+      "passenger-at(p29, n5)"
+    ],
+    [
+      "passenger-at(p12, n21)",
+      "passenger-at(p8, n8)"
+    ],
+    [
+      "passenger-at(p12, n21)",
+      "passenger-at(p29, n5)"
+    ],
+    [
+      "passenger-at(p29, n5)",
+      "passenger-at(p8, n8)"
+    ],
+    [
+      "passenger-at(p29, n5)",
+      "passenger-at(p12, n21)"
+    ],
+    [
+      "passenger-at(p7, n14)",
       "passenger-at(p23, n19)"
     ],
     [
-      "passenger-at(p24, n12)",
-      "passenger-at(p24, n12)"
-    ],
-    [
-      "passenger-at(p25, n17)",
-      "passenger-at(p25, n17)"
-    ],
-    [
-      "passenger-at(p26, n11)",
-      "passenger-at(p26, n11)"
-    ],
-    [
-      "passenger-at(p27, n4)",
-      "passenger-at(p27, n4)"
-    ],
-    [
-      "passenger-at(p28, n7)",
-      "passenger-at(p28, n7)"
-    ],
-    [
-      "passenger-at(p29, n5)",
-      "passenger-at(p29, n5)"
-    ],
-    [
       "passenger-at(p23, n19)",
-      "passenger-at(p17, n11)"
+      "passenger-at(p7, n14)"
     ],
     [
       "passenger-at(p17, n11)",
+      "passenger-at(p22, n21)"
+    ],
+    [
+      "passenger-at(p22, n21)",
+      "passenger-at(p17, n11)"
+    ],
+    [
+      "passenger-at(p5, n17)",
       "passenger-at(p15, n7)"
+    ],
+    [
+      "passenger-at(p5, n17)",
+      "passenger-at(p19, n16)"
+    ],
+    [
+      "passenger-at(p15, n7)",
+      "passenger-at(p5, n17)"
     ],
     [
       "passenger-at(p15, n7)",
@@ -134,199 +126,91 @@
     ],
     [
       "passenger-at(p19, n16)",
-      "passenger-at(p2, n14)"
+      "passenger-at(p5, n17)"
     ],
     [
-      "passenger-at(p2, n14)",
+      "passenger-at(p19, n16)",
+      "passenger-at(p15, n7)"
+    ],
+    [
+      "passenger-at(p10, n5)",
       "passenger-at(p26, n11)"
     ],
     [
       "passenger-at(p26, n11)",
-      "passenger-at(p5, n17)"
-    ],
-    [
-      "passenger-at(p5, n17)",
-      "passenger-at(p1, n11)"
-    ],
-    [
-      "passenger-at(p1, n11)",
-      "passenger-at(p11, n0)"
-    ],
-    [
-      "passenger-at(p11, n0)",
-      "passenger-at(p3, n8)"
-    ],
-    [
-      "passenger-at(p3, n8)",
-      "passenger-at(p4, n18)"
-    ],
-    [
-      "passenger-at(p4, n18)",
-      "passenger-at(p6, n3)"
-    ],
-    [
-      "passenger-at(p6, n3)",
-      "passenger-at(p13, n24)"
-    ],
-    [
-      "passenger-at(p13, n24)",
-      "passenger-at(p0, n7)"
-    ],
-    [
-      "passenger-at(p0, n7)",
-      "passenger-at(p8, n8)"
-    ],
-    [
-      "passenger-at(p8, n8)",
       "passenger-at(p10, n5)"
     ],
     [
-      "passenger-at(p10, n5)",
-      "passenger-at(p18, n14)"
-    ],
-    [
-      "passenger-at(p17, n11)",
-      "passenger-at(p21, n11)"
-    ],
-    [
-      "passenger-at(p21, n11)",
-      "passenger-at(p17, n11)"
-    ],
-    [
-      "passenger-at(p19, n16)",
-      "passenger-at(p25, n17)"
-    ],
-    [
-      "passenger-at(p25, n17)",
-      "passenger-at(p19, n16)"
-    ],
-    [
-      "passenger-at(p2, n14)",
-      "passenger-at(p7, n14)"
-    ],
-    [
-      "passenger-at(p2, n14)",
-      "passenger-at(p14, n20)"
-    ],
-    [
-      "passenger-at(p2, n14)",
-      "passenger-at(p22, n21)"
-    ],
-    [
-      "passenger-at(p7, n14)",
-      "passenger-at(p2, n14)"
-    ],
-    [
-      "passenger-at(p7, n14)",
-      "passenger-at(p14, n20)"
-    ],
-    [
-      "passenger-at(p7, n14)",
-      "passenger-at(p22, n21)"
-    ],
-    [
-      "passenger-at(p14, n20)",
-      "passenger-at(p2, n14)"
-    ],
-    [
-      "passenger-at(p14, n20)",
-      "passenger-at(p7, n14)"
-    ],
-    [
-      "passenger-at(p14, n20)",
-      "passenger-at(p22, n21)"
-    ],
-    [
-      "passenger-at(p22, n21)",
-      "passenger-at(p2, n14)"
-    ],
-    [
-      "passenger-at(p22, n21)",
-      "passenger-at(p7, n14)"
-    ],
-    [
-      "passenger-at(p22, n21)",
-      "passenger-at(p14, n20)"
-    ],
-    [
       "passenger-at(p1, n11)",
-      "passenger-at(p27, n4)"
-    ],
-    [
-      "passenger-at(p27, n4)",
-      "passenger-at(p1, n11)"
-    ],
-    [
-      "passenger-at(p11, n0)",
-      "passenger-at(p29, n5)"
-    ],
-    [
-      "passenger-at(p29, n5)",
-      "passenger-at(p11, n0)"
-    ],
-    [
-      "passenger-at(p4, n18)",
-      "passenger-at(p9, n18)"
-    ],
-    [
-      "passenger-at(p9, n18)",
-      "passenger-at(p4, n18)"
-    ],
-    [
-      "passenger-at(p13, n24)",
       "passenger-at(p16, n0)"
     ],
     [
       "passenger-at(p16, n0)",
+      "passenger-at(p1, n11)"
+    ],
+    [
+      "passenger-at(p2, n14)",
+      "passenger-at(p14, n20)"
+    ],
+    [
+      "passenger-at(p14, n20)",
+      "passenger-at(p2, n14)"
+    ],
+    [
+      "passenger-at(p4, n18)",
+      "passenger-at(p28, n7)"
+    ],
+    [
+      "passenger-at(p28, n7)",
+      "passenger-at(p4, n18)"
+    ],
+    [
+      "passenger-at(p0, n7)",
       "passenger-at(p13, n24)"
     ],
     [
       "passenger-at(p0, n7)",
-      "passenger-at(p24, n12)"
+      "passenger-at(p18, n14)"
     ],
     [
       "passenger-at(p0, n7)",
-      "passenger-at(p28, n7)"
+      "passenger-at(p25, n17)"
     ],
     [
-      "passenger-at(p24, n12)",
+      "passenger-at(p13, n24)",
       "passenger-at(p0, n7)"
     ],
     [
-      "passenger-at(p24, n12)",
-      "passenger-at(p28, n7)"
+      "passenger-at(p13, n24)",
+      "passenger-at(p18, n14)"
     ],
     [
-      "passenger-at(p28, n7)",
+      "passenger-at(p13, n24)",
+      "passenger-at(p25, n17)"
+    ],
+    [
+      "passenger-at(p18, n14)",
       "passenger-at(p0, n7)"
     ],
     [
-      "passenger-at(p28, n7)",
-      "passenger-at(p24, n12)"
+      "passenger-at(p18, n14)",
+      "passenger-at(p13, n24)"
     ],
     [
-      "passenger-at(p10, n5)",
-      "passenger-at(p12, n21)"
+      "passenger-at(p18, n14)",
+      "passenger-at(p25, n17)"
     ],
     [
-      "passenger-at(p10, n5)",
-      "passenger-at(p20, n7)"
+      "passenger-at(p25, n17)",
+      "passenger-at(p0, n7)"
     ],
     [
-      "passenger-at(p12, n21)",
-      "passenger-at(p10, n5)"
+      "passenger-at(p25, n17)",
+      "passenger-at(p13, n24)"
     ],
     [
-      "passenger-at(p12, n21)",
-      "passenger-at(p20, n7)"
-    ],
-    [
-      "passenger-at(p20, n7)",
-      "passenger-at(p10, n5)"
-    ],
-    [
-      "passenger-at(p20, n7)",
-      "passenger-at(p12, n21)"
+      "passenger-at(p25, n17)",
+      "passenger-at(p18, n14)"
     ]
   ]
 }

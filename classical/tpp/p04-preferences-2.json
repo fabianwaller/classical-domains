@@ -2,39 +2,43 @@
   "partial_order": [
     [
       "stored(goods1, level1)",
+      "stored(goods2, level1)"
+    ],
+    [
+      "stored(goods1, level1)",
+      "stored(goods3, level1)"
+    ],
+    [
+      "stored(goods1, level1)",
+      "stored(goods4, level1)"
+    ],
+    [
+      "stored(goods2, level1)",
       "stored(goods1, level1)"
     ],
     [
       "stored(goods2, level1)",
+      "stored(goods3, level1)"
+    ],
+    [
+      "stored(goods2, level1)",
+      "stored(goods4, level1)"
+    ],
+    [
+      "stored(goods3, level1)",
+      "stored(goods1, level1)"
+    ],
+    [
+      "stored(goods3, level1)",
       "stored(goods2, level1)"
     ],
     [
       "stored(goods3, level1)",
-      "stored(goods3, level1)"
+      "stored(goods4, level1)"
     ],
     [
       "stored(goods4, level1)",
-      "stored(goods4, level1)"
-    ],
-    [
-      "stored(goods1, level1)",
-      "stored(goods2, level1)"
-    ],
-    [
-      "stored(goods2, level1)",
-      "stored(goods3, level1)"
-    ],
-    [
-      "stored(goods2, level1)",
-      "stored(goods4, level1)"
-    ],
-    [
-      "stored(goods3, level1)",
-      "stored(goods2, level1)"
-    ],
-    [
-      "stored(goods3, level1)",
-      "stored(goods4, level1)"
+      "stored(goods1, level1)"
     ],
     [
       "stored(goods4, level1)",

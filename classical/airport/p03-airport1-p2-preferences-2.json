@@ -2,15 +2,11 @@
   "partial_order": [
     [
       "is-parked(airplane_CFBEG, seg_pp_0_60)",
-      "is-parked(airplane_CFBEG, seg_pp_0_60)"
+      "airborne(airplane_DAEWH, seg_rwe_0_50)"
     ],
     [
       "airborne(airplane_DAEWH, seg_rwe_0_50)",
-      "airborne(airplane_DAEWH, seg_rwe_0_50)"
-    ],
-    [
-      "is-parked(airplane_CFBEG, seg_pp_0_60)",
-      "airborne(airplane_DAEWH, seg_rwe_0_50)"
+      "is-parked(airplane_CFBEG, seg_pp_0_60)"
     ]
   ]
 }

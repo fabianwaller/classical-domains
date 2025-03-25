@@ -1,96 +1,116 @@
 {
   "partial_order": [
     [
-      "served(child1)",
+      "served(child6)",
+      "served(child2)"
+    ],
+    [
+      "served(child2)",
+      "served(child4)"
+    ],
+    [
+      "served(child4)",
+      "served(child3)"
+    ],
+    [
+      "served(child3)",
+      "served(child10)"
+    ],
+    [
+      "served(child10)",
       "served(child1)"
     ],
     [
       "served(child2)",
-      "served(child2)"
-    ],
-    [
-      "served(child3)",
-      "served(child3)"
-    ],
-    [
-      "served(child4)",
-      "served(child4)"
-    ],
-    [
-      "served(child5)",
-      "served(child5)"
-    ],
-    [
-      "served(child6)",
-      "served(child6)"
-    ],
-    [
-      "served(child7)",
       "served(child7)"
     ],
     [
-      "served(child8)",
-      "served(child8)"
+      "served(child7)",
+      "served(child2)"
     ],
     [
-      "served(child9)",
+      "served(child4)",
       "served(child9)"
     ],
     [
-      "served(child10)",
-      "served(child10)"
-    ],
-    [
-      "served(child11)",
-      "served(child11)"
-    ],
-    [
-      "served(child12)",
+      "served(child4)",
       "served(child12)"
     ],
     [
-      "served(child13)",
+      "served(child4)",
       "served(child13)"
     ],
     [
-      "served(child14)",
-      "served(child14)"
+      "served(child9)",
+      "served(child4)"
     ],
     [
-      "served(child7)",
+      "served(child9)",
+      "served(child12)"
+    ],
+    [
+      "served(child9)",
+      "served(child13)"
+    ],
+    [
+      "served(child12)",
+      "served(child4)"
+    ],
+    [
+      "served(child12)",
+      "served(child9)"
+    ],
+    [
+      "served(child12)",
+      "served(child13)"
+    ],
+    [
+      "served(child13)",
+      "served(child4)"
+    ],
+    [
+      "served(child13)",
+      "served(child9)"
+    ],
+    [
+      "served(child13)",
+      "served(child12)"
+    ],
+    [
+      "served(child3)",
+      "served(child5)"
+    ],
+    [
+      "served(child3)",
+      "served(child8)"
+    ],
+    [
+      "served(child5)",
+      "served(child3)"
+    ],
+    [
+      "served(child5)",
       "served(child8)"
     ],
     [
       "served(child8)",
-      "served(child1)"
+      "served(child3)"
+    ],
+    [
+      "served(child8)",
+      "served(child5)"
     ],
     [
       "served(child1)",
-      "served(child3)"
-    ],
-    [
-      "served(child3)",
-      "served(child9)"
-    ],
-    [
-      "served(child9)",
-      "served(child5)"
-    ],
-    [
-      "served(child5)",
-      "served(child2)"
-    ],
-    [
-      "served(child8)",
       "served(child11)"
     ],
     [
-      "served(child8)",
+      "served(child1)",
       "served(child14)"
     ],
     [
       "served(child11)",
-      "served(child8)"
+      "served(child1)"
     ],
     [
       "served(child11)",
@@ -98,75 +118,11 @@
     ],
     [
       "served(child14)",
-      "served(child8)"
+      "served(child1)"
     ],
     [
       "served(child14)",
       "served(child11)"
-    ],
-    [
-      "served(child3)",
-      "served(child4)"
-    ],
-    [
-      "served(child3)",
-      "served(child6)"
-    ],
-    [
-      "served(child3)",
-      "served(child13)"
-    ],
-    [
-      "served(child4)",
-      "served(child3)"
-    ],
-    [
-      "served(child4)",
-      "served(child6)"
-    ],
-    [
-      "served(child4)",
-      "served(child13)"
-    ],
-    [
-      "served(child6)",
-      "served(child3)"
-    ],
-    [
-      "served(child6)",
-      "served(child4)"
-    ],
-    [
-      "served(child6)",
-      "served(child13)"
-    ],
-    [
-      "served(child13)",
-      "served(child3)"
-    ],
-    [
-      "served(child13)",
-      "served(child4)"
-    ],
-    [
-      "served(child13)",
-      "served(child6)"
-    ],
-    [
-      "served(child5)",
-      "served(child10)"
-    ],
-    [
-      "served(child10)",
-      "served(child5)"
-    ],
-    [
-      "served(child2)",
-      "served(child12)"
-    ],
-    [
-      "served(child12)",
-      "served(child2)"
     ]
   ]
 }

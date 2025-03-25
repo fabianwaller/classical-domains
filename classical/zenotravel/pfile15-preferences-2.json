@@ -1,59 +1,135 @@
 {
   "partial_order": [
     [
-      "at(person1, city1)",
+      "at(person4, city6)",
+      "at(person3, city7)"
+    ],
+    [
+      "at(person3, city7)",
       "at(person1, city1)"
     ],
     [
-      "at(person2, city4)",
+      "at(person4, city6)",
+      "at(person12, city4)"
+    ],
+    [
+      "at(person4, city6)",
+      "at(person13, city11)"
+    ],
+    [
+      "at(person12, city4)",
+      "at(person4, city6)"
+    ],
+    [
+      "at(person12, city4)",
+      "at(person13, city11)"
+    ],
+    [
+      "at(person13, city11)",
+      "at(person4, city6)"
+    ],
+    [
+      "at(person13, city11)",
+      "at(person12, city4)"
+    ],
+    [
+      "at(person3, city7)",
+      "at(person5, city8)"
+    ],
+    [
+      "at(person3, city7)",
+      "at(person6, city11)"
+    ],
+    [
+      "at(person3, city7)",
+      "at(person7, city2)"
+    ],
+    [
+      "at(person3, city7)",
+      "at(person11, city6)"
+    ],
+    [
+      "at(person5, city8)",
+      "at(person3, city7)"
+    ],
+    [
+      "at(person5, city8)",
+      "at(person6, city11)"
+    ],
+    [
+      "at(person5, city8)",
+      "at(person7, city2)"
+    ],
+    [
+      "at(person5, city8)",
+      "at(person11, city6)"
+    ],
+    [
+      "at(person6, city11)",
+      "at(person3, city7)"
+    ],
+    [
+      "at(person6, city11)",
+      "at(person5, city8)"
+    ],
+    [
+      "at(person6, city11)",
+      "at(person7, city2)"
+    ],
+    [
+      "at(person6, city11)",
+      "at(person11, city6)"
+    ],
+    [
+      "at(person7, city2)",
+      "at(person3, city7)"
+    ],
+    [
+      "at(person7, city2)",
+      "at(person5, city8)"
+    ],
+    [
+      "at(person7, city2)",
+      "at(person6, city11)"
+    ],
+    [
+      "at(person7, city2)",
+      "at(person11, city6)"
+    ],
+    [
+      "at(person11, city6)",
+      "at(person3, city7)"
+    ],
+    [
+      "at(person11, city6)",
+      "at(person5, city8)"
+    ],
+    [
+      "at(person11, city6)",
+      "at(person6, city11)"
+    ],
+    [
+      "at(person11, city6)",
+      "at(person7, city2)"
+    ],
+    [
+      "at(person1, city1)",
       "at(person2, city4)"
     ],
     [
-      "at(person3, city7)",
-      "at(person3, city7)"
-    ],
-    [
-      "at(person4, city6)",
-      "at(person4, city6)"
-    ],
-    [
-      "at(person5, city8)",
-      "at(person5, city8)"
-    ],
-    [
-      "at(person6, city11)",
-      "at(person6, city11)"
-    ],
-    [
-      "at(person7, city2)",
-      "at(person7, city2)"
-    ],
-    [
-      "at(person8, city11)",
+      "at(person1, city1)",
       "at(person8, city11)"
     ],
     [
-      "at(person10, city9)",
+      "at(person1, city1)",
       "at(person10, city9)"
     ],
     [
-      "at(person11, city6)",
-      "at(person11, city6)"
-    ],
-    [
-      "at(person12, city4)",
-      "at(person12, city4)"
-    ],
-    [
-      "at(person13, city11)",
-      "at(person13, city11)"
-    ],
-    [
-      "at(person14, city4)",
+      "at(person1, city1)",
       "at(person14, city4)"
     ],
     [
-      "at(person15, city6)",
+      "at(person1, city1)",
       "at(person15, city6)"
     ],
     [
@@ -61,79 +137,51 @@
       "at(person1, city1)"
     ],
     [
-      "at(person1, city1)",
-      "at(person11, city6)"
-    ],
-    [
-      "at(person11, city6)",
-      "at(person4, city6)"
-    ],
-    [
-      "at(person4, city6)",
-      "at(person13, city11)"
-    ],
-    [
-      "at(person13, city11)",
-      "at(person6, city11)"
-    ],
-    [
-      "at(person6, city11)",
-      "at(person12, city4)"
-    ],
-    [
-      "at(person12, city4)",
-      "at(person5, city8)"
-    ],
-    [
-      "at(person5, city8)",
-      "at(person10, city9)"
-    ],
-    [
-      "at(person1, city1)",
-      "at(person3, city7)"
-    ],
-    [
-      "at(person1, city1)",
-      "at(person7, city2)"
-    ],
-    [
-      "at(person3, city7)",
-      "at(person1, city1)"
-    ],
-    [
-      "at(person3, city7)",
-      "at(person7, city2)"
-    ],
-    [
-      "at(person7, city2)",
-      "at(person1, city1)"
-    ],
-    [
-      "at(person7, city2)",
-      "at(person3, city7)"
-    ],
-    [
-      "at(person5, city8)",
+      "at(person2, city4)",
       "at(person8, city11)"
     ],
     [
-      "at(person5, city8)",
+      "at(person2, city4)",
+      "at(person10, city9)"
+    ],
+    [
+      "at(person2, city4)",
+      "at(person14, city4)"
+    ],
+    [
+      "at(person2, city4)",
       "at(person15, city6)"
     ],
     [
       "at(person8, city11)",
-      "at(person5, city8)"
+      "at(person1, city1)"
+    ],
+    [
+      "at(person8, city11)",
+      "at(person2, city4)"
+    ],
+    [
+      "at(person8, city11)",
+      "at(person10, city9)"
+    ],
+    [
+      "at(person8, city11)",
+      "at(person14, city4)"
     ],
     [
       "at(person8, city11)",
       "at(person15, city6)"
     ],
     [
-      "at(person15, city6)",
-      "at(person5, city8)"
+      "at(person10, city9)",
+      "at(person1, city1)"
     ],
     [
-      "at(person15, city6)",
+      "at(person10, city9)",
+      "at(person2, city4)"
+    ],
+    [
+      "at(person10, city9)",
       "at(person8, city11)"
     ],
     [
@@ -141,8 +189,48 @@
       "at(person14, city4)"
     ],
     [
+      "at(person10, city9)",
+      "at(person15, city6)"
+    ],
+    [
+      "at(person14, city4)",
+      "at(person1, city1)"
+    ],
+    [
+      "at(person14, city4)",
+      "at(person2, city4)"
+    ],
+    [
+      "at(person14, city4)",
+      "at(person8, city11)"
+    ],
+    [
       "at(person14, city4)",
       "at(person10, city9)"
+    ],
+    [
+      "at(person14, city4)",
+      "at(person15, city6)"
+    ],
+    [
+      "at(person15, city6)",
+      "at(person1, city1)"
+    ],
+    [
+      "at(person15, city6)",
+      "at(person2, city4)"
+    ],
+    [
+      "at(person15, city6)",
+      "at(person8, city11)"
+    ],
+    [
+      "at(person15, city6)",
+      "at(person10, city9)"
+    ],
+    [
+      "at(person15, city6)",
+      "at(person14, city4)"
     ]
   ]
 }

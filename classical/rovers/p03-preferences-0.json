@@ -2,14 +2,18 @@
   "partial_order": [
     [
       "communicated_soil_data(waypoint2)",
+      "communicated_rock_data(waypoint0)"
+    ],
+    [
+      "communicated_soil_data(waypoint2)",
+      "communicated_image_data(objective0, colour)"
+    ],
+    [
+      "communicated_rock_data(waypoint0)",
       "communicated_soil_data(waypoint2)"
     ],
     [
       "communicated_rock_data(waypoint0)",
-      "communicated_rock_data(waypoint0)"
-    ],
-    [
-      "communicated_image_data(objective0, colour)",
       "communicated_image_data(objective0, colour)"
     ],
     [
@@ -17,12 +21,8 @@
       "communicated_soil_data(waypoint2)"
     ],
     [
-      "communicated_soil_data(waypoint2)",
+      "communicated_image_data(objective0, colour)",
       "communicated_rock_data(waypoint0)"
-    ],
-    [
-      "communicated_rock_data(waypoint0)",
-      "communicated_soil_data(waypoint2)"
     ]
   ]
 }

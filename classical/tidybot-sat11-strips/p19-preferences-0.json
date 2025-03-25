@@ -1,103 +1,27 @@
 {
   "partial_order": [
     [
-      "object-done(object0)",
-      "object-done(object0)"
+      "object-done(object1)",
+      "object-done(object6)"
     ],
     [
-      "object-done(object1)",
-      "object-done(object1)"
+      "object-done(object6)",
+      "object-done(object10)"
+    ],
+    [
+      "object-done(object10)",
+      "object-done(object5)"
+    ],
+    [
+      "object-done(object5)",
+      "object-done(object2)"
     ],
     [
       "object-done(object2)",
-      "object-done(object2)"
-    ],
-    [
-      "object-done(object3)",
-      "object-done(object3)"
-    ],
-    [
-      "object-done(object4)",
-      "object-done(object4)"
-    ],
-    [
-      "object-done(object5)",
-      "object-done(object5)"
-    ],
-    [
-      "object-done(object6)",
-      "object-done(object6)"
-    ],
-    [
-      "object-done(object7)",
-      "object-done(object7)"
-    ],
-    [
-      "object-done(object8)",
-      "object-done(object8)"
-    ],
-    [
-      "object-done(object9)",
-      "object-done(object9)"
-    ],
-    [
-      "object-done(object10)",
-      "object-done(object10)"
-    ],
-    [
-      "object-done(object11)",
-      "object-done(object11)"
-    ],
-    [
-      "object-done(object0)",
-      "object-done(object6)"
-    ],
-    [
-      "object-done(object6)",
-      "object-done(object8)"
-    ],
-    [
-      "object-done(object8)",
-      "object-done(object1)"
-    ],
-    [
-      "object-done(object1)",
-      "object-done(object2)"
-    ],
-    [
-      "object-done(object0)",
-      "object-done(object5)"
-    ],
-    [
-      "object-done(object5)",
       "object-done(object0)"
     ],
     [
-      "object-done(object8)",
-      "object-done(object9)"
-    ],
-    [
-      "object-done(object8)",
-      "object-done(object10)"
-    ],
-    [
-      "object-done(object9)",
-      "object-done(object8)"
-    ],
-    [
-      "object-done(object9)",
-      "object-done(object10)"
-    ],
-    [
-      "object-done(object10)",
-      "object-done(object8)"
-    ],
-    [
-      "object-done(object10)",
-      "object-done(object9)"
-    ],
-    [
-      "object-done(object1)",
+      "object-done(object0)",
       "object-done(object4)"
     ],
     [
@@ -109,24 +33,8 @@
       "object-done(object11)"
     ],
     [
-      "object-done(object4)",
-      "object-done(object1)"
-    ],
-    [
-      "object-done(object4)",
-      "object-done(object7)"
-    ],
-    [
-      "object-done(object4)",
-      "object-done(object11)"
-    ],
-    [
       "object-done(object7)",
       "object-done(object1)"
-    ],
-    [
-      "object-done(object7)",
-      "object-done(object4)"
     ],
     [
       "object-done(object7)",
@@ -135,10 +43,6 @@
     [
       "object-done(object11)",
       "object-done(object1)"
-    ],
-    [
-      "object-done(object11)",
-      "object-done(object4)"
     ],
     [
       "object-done(object11)",
@@ -149,8 +53,32 @@
       "object-done(object3)"
     ],
     [
+      "object-done(object2)",
+      "object-done(object9)"
+    ],
+    [
       "object-done(object3)",
       "object-done(object2)"
+    ],
+    [
+      "object-done(object3)",
+      "object-done(object9)"
+    ],
+    [
+      "object-done(object9)",
+      "object-done(object2)"
+    ],
+    [
+      "object-done(object9)",
+      "object-done(object3)"
+    ],
+    [
+      "object-done(object0)",
+      "object-done(object8)"
+    ],
+    [
+      "object-done(object8)",
+      "object-done(object0)"
     ]
   ]
 }

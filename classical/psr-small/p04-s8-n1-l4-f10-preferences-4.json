@@ -1,32 +1,20 @@
 {
   "partial_order": [
     [
-      "do-normal()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-SD6()",
-      "CLOSED-SD6()"
-    ],
-    [
       "CLOSED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-SD4()",
       "CLOSED-SD4()"
     ],
     [
-      "CLOSED-SD2()",
-      "CLOSED-SD2()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "CLOSED-SD1()"
+      "CLOSED-SD4()",
+      "UPDATED-CB1()"
     ],
     [
       "UPDATED-CB1()",
-      "UPDATED-CB1()"
+      "do-normal()"
+    ],
+    [
+      "do-normal()",
+      "CLOSED-SD1()"
     ],
     [
       "do-normal()",
@@ -34,23 +22,7 @@
     ],
     [
       "do-normal()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "do-normal()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "do-normal()",
       "CLOSED-SD2()"
-    ],
-    [
-      "do-normal()",
-      "CLOSED-SD1()"
-    ],
-    [
-      "do-normal()",
-      "UPDATED-CB1()"
     ],
     [
       "CLOSED-SD6()",
@@ -58,71 +30,7 @@
     ],
     [
       "CLOSED-SD6()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-SD6()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "CLOSED-SD6()",
       "CLOSED-SD2()"
-    ],
-    [
-      "CLOSED-SD6()",
-      "CLOSED-SD1()"
-    ],
-    [
-      "CLOSED-SD6()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-SD6()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-SD2()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-SD1()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "CLOSED-SD6()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "CLOSED-SD2()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "CLOSED-SD1()"
-    ],
-    [
-      "CLOSED-SD4()",
-      "UPDATED-CB1()"
     ],
     [
       "CLOSED-SD2()",
@@ -131,70 +39,6 @@
     [
       "CLOSED-SD2()",
       "CLOSED-SD6()"
-    ],
-    [
-      "CLOSED-SD2()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-SD2()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "CLOSED-SD2()",
-      "CLOSED-SD1()"
-    ],
-    [
-      "CLOSED-SD2()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "do-normal()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "CLOSED-SD6()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "CLOSED-SD2()"
-    ],
-    [
-      "CLOSED-SD1()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "do-normal()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD6()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD4()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD2()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "CLOSED-SD1()"
     ]
   ]
 }

@@ -1,1196 +1,228 @@
 {
   "partial_order": [
     [
-      "at(driver1, s16)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(driver2, s13)",
-      "at(driver2, s13)"
-    ],
-    [
-      "at(driver4, s7)",
-      "at(driver4, s7)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(truck1, s2)",
-      "at(truck1, s2)"
-    ],
-    [
-      "at(truck2, s11)",
-      "at(truck2, s11)"
-    ],
-    [
-      "at(truck3, s10)",
-      "at(truck3, s10)"
-    ],
-    [
-      "at(truck4, s3)",
-      "at(truck4, s3)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package7, s7)"
+      "at(package10, s14)",
+      "at(package8, s6)"
     ],
     [
       "at(package8, s6)",
-      "at(package8, s6)"
+      "at(package9, s7)"
     ],
     [
       "at(package9, s7)",
-      "at(package9, s7)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(package11, s13)",
-      "at(package11, s13)"
-    ],
-    [
-      "at(package12, s11)",
-      "at(package12, s11)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(package16, s10)",
-      "at(package16, s10)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package20, s7)",
-      "at(package20, s7)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package24, s2)",
-      "at(package24, s2)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(driver5, s5)",
       "at(truck1, s2)"
     ],
     [
       "at(truck1, s2)",
-      "at(driver2, s13)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(driver1, s16)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(truck5, s16)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(package3, s19)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(package6, s18)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(package10, s14)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(package15, s11)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(package17, s17)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(package18, s15)",
-      "at(package22, s8)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(driver1, s16)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(truck5, s16)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(package3, s19)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(package6, s18)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(package10, s14)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(package15, s11)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(package17, s17)"
-    ],
-    [
-      "at(package22, s8)",
-      "at(package18, s15)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(driver5, s5)",
       "at(package13, s15)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(driver5, s5)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package1, s19)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package2, s10)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package4, s11)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package5, s14)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package7, s7)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package8, s6)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(driver5, s5)"
     ],
     [
       "at(package13, s15)",
       "at(package1, s19)"
     ],
     [
-      "at(package13, s15)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package13, s15)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package14, s6)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package19, s4)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(package21, s3)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package23, s17)",
-      "at(package25, s12)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(driver5, s5)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package1, s19)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package2, s10)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package4, s11)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package5, s14)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package7, s7)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package8, s6)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package13, s15)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package14, s6)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package19, s4)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package21, s3)"
-    ],
-    [
-      "at(package25, s12)",
-      "at(package23, s17)"
-    ],
-    [
-      "at(truck1, s2)",
-      "at(truck2, s11)"
-    ],
-    [
-      "at(truck1, s2)",
-      "at(truck4, s3)"
-    ],
-    [
-      "at(truck1, s2)",
-      "at(package11, s13)"
-    ],
-    [
-      "at(truck1, s2)",
-      "at(package12, s11)"
-    ],
-    [
-      "at(truck1, s2)",
-      "at(package20, s7)"
-    ],
-    [
-      "at(truck2, s11)",
-      "at(truck1, s2)"
-    ],
-    [
-      "at(truck2, s11)",
-      "at(truck4, s3)"
-    ],
-    [
-      "at(truck2, s11)",
-      "at(package11, s13)"
-    ],
-    [
-      "at(truck2, s11)",
-      "at(package12, s11)"
-    ],
-    [
-      "at(truck2, s11)",
-      "at(package20, s7)"
-    ],
-    [
-      "at(truck4, s3)",
-      "at(truck1, s2)"
-    ],
-    [
-      "at(truck4, s3)",
-      "at(truck2, s11)"
-    ],
-    [
-      "at(truck4, s3)",
-      "at(package11, s13)"
-    ],
-    [
-      "at(truck4, s3)",
-      "at(package12, s11)"
-    ],
-    [
-      "at(truck4, s3)",
-      "at(package20, s7)"
-    ],
-    [
-      "at(package11, s13)",
-      "at(truck1, s2)"
-    ],
-    [
-      "at(package11, s13)",
-      "at(truck2, s11)"
-    ],
-    [
-      "at(package11, s13)",
-      "at(truck4, s3)"
-    ],
-    [
-      "at(package11, s13)",
-      "at(package12, s11)"
-    ],
-    [
-      "at(package11, s13)",
-      "at(package20, s7)"
-    ],
-    [
-      "at(package12, s11)",
-      "at(truck1, s2)"
-    ],
-    [
-      "at(package12, s11)",
-      "at(truck2, s11)"
-    ],
-    [
-      "at(package12, s11)",
-      "at(truck4, s3)"
-    ],
-    [
-      "at(package12, s11)",
-      "at(package11, s13)"
-    ],
-    [
-      "at(package12, s11)",
-      "at(package20, s7)"
-    ],
-    [
-      "at(package20, s7)",
-      "at(truck1, s2)"
-    ],
-    [
-      "at(package20, s7)",
-      "at(truck2, s11)"
-    ],
-    [
-      "at(package20, s7)",
-      "at(truck4, s3)"
-    ],
-    [
-      "at(package20, s7)",
-      "at(package11, s13)"
-    ],
-    [
-      "at(package20, s7)",
-      "at(package12, s11)"
-    ],
-    [
-      "at(driver2, s13)",
-      "at(driver4, s7)"
-    ],
-    [
-      "at(driver2, s13)",
+      "at(package1, s19)",
       "at(truck3, s10)"
     ],
     [
+      "at(truck3, s10)",
+      "at(truck4, s3)"
+    ],
+    [
+      "at(truck4, s3)",
+      "at(driver4, s7)"
+    ],
+    [
+      "at(driver4, s7)",
+      "at(package21, s3)"
+    ],
+    [
+      "at(package21, s3)",
+      "at(driver1, s16)"
+    ],
+    [
+      "at(driver1, s16)",
+      "at(driver2, s13)"
+    ],
+    [
       "at(driver2, s13)",
-      "at(package9, s7)"
+      "at(driver5, s5)"
+    ],
+    [
+      "at(driver5, s5)",
+      "at(package3, s19)"
+    ],
+    [
+      "at(package3, s19)",
+      "at(package5, s14)"
+    ],
+    [
+      "at(package5, s14)",
+      "at(truck2, s11)"
+    ],
+    [
+      "at(package10, s14)",
+      "at(package14, s6)"
+    ],
+    [
+      "at(package14, s6)",
+      "at(package10, s14)"
+    ],
+    [
+      "at(truck1, s2)",
+      "at(truck5, s16)"
+    ],
+    [
+      "at(truck5, s16)",
+      "at(truck1, s2)"
+    ],
+    [
+      "at(package13, s15)",
+      "at(package25, s12)"
+    ],
+    [
+      "at(package25, s12)",
+      "at(package13, s15)"
+    ],
+    [
+      "at(package1, s19)",
+      "at(package19, s4)"
+    ],
+    [
+      "at(package1, s19)",
+      "at(package20, s7)"
+    ],
+    [
+      "at(package1, s19)",
+      "at(package22, s8)"
+    ],
+    [
+      "at(package19, s4)",
+      "at(package1, s19)"
+    ],
+    [
+      "at(package19, s4)",
+      "at(package20, s7)"
+    ],
+    [
+      "at(package19, s4)",
+      "at(package22, s8)"
+    ],
+    [
+      "at(package20, s7)",
+      "at(package1, s19)"
+    ],
+    [
+      "at(package20, s7)",
+      "at(package19, s4)"
+    ],
+    [
+      "at(package20, s7)",
+      "at(package22, s8)"
+    ],
+    [
+      "at(package22, s8)",
+      "at(package1, s19)"
+    ],
+    [
+      "at(package22, s8)",
+      "at(package19, s4)"
+    ],
+    [
+      "at(package22, s8)",
+      "at(package20, s7)"
+    ],
+    [
+      "at(driver4, s7)",
+      "at(package6, s18)"
+    ],
+    [
+      "at(package6, s18)",
+      "at(driver4, s7)"
+    ],
+    [
+      "at(driver1, s16)",
+      "at(package2, s10)"
+    ],
+    [
+      "at(driver1, s16)",
+      "at(package11, s13)"
+    ],
+    [
+      "at(driver1, s16)",
+      "at(package23, s17)"
+    ],
+    [
+      "at(driver1, s16)",
+      "at(package24, s2)"
+    ],
+    [
+      "at(package2, s10)",
+      "at(driver1, s16)"
+    ],
+    [
+      "at(package2, s10)",
+      "at(package11, s13)"
+    ],
+    [
+      "at(package2, s10)",
+      "at(package23, s17)"
+    ],
+    [
+      "at(package2, s10)",
+      "at(package24, s2)"
+    ],
+    [
+      "at(package11, s13)",
+      "at(driver1, s16)"
+    ],
+    [
+      "at(package11, s13)",
+      "at(package2, s10)"
+    ],
+    [
+      "at(package11, s13)",
+      "at(package23, s17)"
+    ],
+    [
+      "at(package11, s13)",
+      "at(package24, s2)"
+    ],
+    [
+      "at(package23, s17)",
+      "at(driver1, s16)"
+    ],
+    [
+      "at(package23, s17)",
+      "at(package2, s10)"
+    ],
+    [
+      "at(package23, s17)",
+      "at(package11, s13)"
+    ],
+    [
+      "at(package23, s17)",
+      "at(package24, s2)"
+    ],
+    [
+      "at(package24, s2)",
+      "at(driver1, s16)"
+    ],
+    [
+      "at(package24, s2)",
+      "at(package2, s10)"
+    ],
+    [
+      "at(package24, s2)",
+      "at(package11, s13)"
+    ],
+    [
+      "at(package24, s2)",
+      "at(package23, s17)"
+    ],
+    [
+      "at(driver2, s13)",
+      "at(package7, s7)"
     ],
     [
       "at(driver2, s13)",
@@ -1198,107 +230,99 @@
     ],
     [
       "at(driver2, s13)",
-      "at(package24, s2)"
+      "at(package17, s17)"
     ],
     [
-      "at(driver4, s7)",
+      "at(package7, s7)",
       "at(driver2, s13)"
     ],
     [
-      "at(driver4, s7)",
-      "at(truck3, s10)"
-    ],
-    [
-      "at(driver4, s7)",
-      "at(package9, s7)"
-    ],
-    [
-      "at(driver4, s7)",
+      "at(package7, s7)",
       "at(package16, s10)"
     ],
     [
-      "at(driver4, s7)",
-      "at(package24, s2)"
+      "at(package7, s7)",
+      "at(package17, s17)"
     ],
     [
-      "at(truck3, s10)",
+      "at(package16, s10)",
       "at(driver2, s13)"
     ],
     [
-      "at(truck3, s10)",
-      "at(driver4, s7)"
+      "at(package16, s10)",
+      "at(package7, s7)"
     ],
     [
-      "at(truck3, s10)",
-      "at(package9, s7)"
+      "at(package16, s10)",
+      "at(package17, s17)"
     ],
     [
-      "at(truck3, s10)",
+      "at(package17, s17)",
+      "at(driver2, s13)"
+    ],
+    [
+      "at(package17, s17)",
+      "at(package7, s7)"
+    ],
+    [
+      "at(package17, s17)",
       "at(package16, s10)"
     ],
     [
-      "at(truck3, s10)",
-      "at(package24, s2)"
+      "at(driver5, s5)",
+      "at(package4, s11)"
     ],
     [
-      "at(package9, s7)",
-      "at(driver2, s13)"
+      "at(driver5, s5)",
+      "at(package12, s11)"
     ],
     [
-      "at(package9, s7)",
-      "at(driver4, s7)"
+      "at(driver5, s5)",
+      "at(package18, s15)"
     ],
     [
-      "at(package9, s7)",
-      "at(truck3, s10)"
+      "at(package4, s11)",
+      "at(driver5, s5)"
     ],
     [
-      "at(package9, s7)",
-      "at(package16, s10)"
+      "at(package4, s11)",
+      "at(package12, s11)"
     ],
     [
-      "at(package9, s7)",
-      "at(package24, s2)"
+      "at(package4, s11)",
+      "at(package18, s15)"
     ],
     [
-      "at(package16, s10)",
-      "at(driver2, s13)"
+      "at(package12, s11)",
+      "at(driver5, s5)"
     ],
     [
-      "at(package16, s10)",
-      "at(driver4, s7)"
+      "at(package12, s11)",
+      "at(package4, s11)"
     ],
     [
-      "at(package16, s10)",
-      "at(truck3, s10)"
+      "at(package12, s11)",
+      "at(package18, s15)"
     ],
     [
-      "at(package16, s10)",
-      "at(package9, s7)"
+      "at(package18, s15)",
+      "at(driver5, s5)"
     ],
     [
-      "at(package16, s10)",
-      "at(package24, s2)"
+      "at(package18, s15)",
+      "at(package4, s11)"
     ],
     [
-      "at(package24, s2)",
-      "at(driver2, s13)"
+      "at(package18, s15)",
+      "at(package12, s11)"
     ],
     [
-      "at(package24, s2)",
-      "at(driver4, s7)"
+      "at(truck2, s11)",
+      "at(package15, s11)"
     ],
     [
-      "at(package24, s2)",
-      "at(truck3, s10)"
-    ],
-    [
-      "at(package24, s2)",
-      "at(package9, s7)"
-    ],
-    [
-      "at(package24, s2)",
-      "at(package16, s10)"
+      "at(package15, s11)",
+      "at(truck2, s11)"
     ]
   ]
 }

@@ -1,48 +1,16 @@
 {
   "partial_order": [
     [
-      "home(diamond9)",
+      "home(heart9)",
+      "home(spade9)"
+    ],
+    [
+      "home(spade9)",
+      "home(club9)"
+    ],
+    [
+      "home(club9)",
       "home(diamond9)"
-    ],
-    [
-      "home(club9)",
-      "home(club9)"
-    ],
-    [
-      "home(heart9)",
-      "home(heart9)"
-    ],
-    [
-      "home(spade9)",
-      "home(spade9)"
-    ],
-    [
-      "home(diamond9)",
-      "home(club9)"
-    ],
-    [
-      "home(club9)",
-      "home(heart9)"
-    ],
-    [
-      "home(club9)",
-      "home(spade9)"
-    ],
-    [
-      "home(heart9)",
-      "home(club9)"
-    ],
-    [
-      "home(heart9)",
-      "home(spade9)"
-    ],
-    [
-      "home(spade9)",
-      "home(club9)"
-    ],
-    [
-      "home(spade9)",
-      "home(heart9)"
     ]
   ]
 }

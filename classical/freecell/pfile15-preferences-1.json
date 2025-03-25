@@ -2,35 +2,31 @@
   "partial_order": [
     [
       "home(diamondJ)",
-      "home(diamondJ)"
-    ],
-    [
-      "home(clubJ)",
-      "home(clubJ)"
-    ],
-    [
-      "home(heartJ)",
       "home(heartJ)"
-    ],
-    [
-      "home(spadeJ)",
-      "home(spadeJ)"
-    ],
-    [
-      "home(spadeJ)",
-      "home(heartJ)"
-    ],
-    [
-      "home(heartJ)",
-      "home(diamondJ)"
     ],
     [
       "home(diamondJ)",
       "home(clubJ)"
     ],
     [
+      "home(diamondJ)",
+      "home(spadeJ)"
+    ],
+    [
       "home(clubJ)",
       "home(diamondJ)"
+    ],
+    [
+      "home(clubJ)",
+      "home(spadeJ)"
+    ],
+    [
+      "home(spadeJ)",
+      "home(diamondJ)"
+    ],
+    [
+      "home(spadeJ)",
+      "home(clubJ)"
     ]
   ]
 }

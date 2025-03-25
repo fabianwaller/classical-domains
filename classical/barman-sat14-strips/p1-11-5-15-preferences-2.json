@@ -1,100 +1,48 @@
 {
   "partial_order": [
     [
-      "contains(shot1, cocktail4)",
-      "contains(shot1, cocktail4)"
-    ],
-    [
-      "contains(shot2, cocktail7)",
+      "contains(shot3, cocktail11)",
       "contains(shot2, cocktail7)"
     ],
     [
-      "contains(shot3, cocktail11)",
-      "contains(shot3, cocktail11)"
+      "contains(shot2, cocktail7)",
+      "contains(shot1, cocktail4)"
+    ],
+    [
+      "contains(shot1, cocktail4)",
+      "contains(shot9, cocktail2)"
+    ],
+    [
+      "contains(shot9, cocktail2)",
+      "contains(shot4, cocktail9)"
     ],
     [
       "contains(shot4, cocktail9)",
-      "contains(shot4, cocktail9)"
-    ],
-    [
-      "contains(shot5, cocktail10)",
-      "contains(shot5, cocktail10)"
-    ],
-    [
-      "contains(shot6, cocktail6)",
       "contains(shot6, cocktail6)"
-    ],
-    [
-      "contains(shot7, cocktail5)",
-      "contains(shot7, cocktail5)"
-    ],
-    [
-      "contains(shot8, cocktail1)",
-      "contains(shot8, cocktail1)"
-    ],
-    [
-      "contains(shot9, cocktail2)",
-      "contains(shot9, cocktail2)"
-    ],
-    [
-      "contains(shot10, cocktail8)",
-      "contains(shot10, cocktail8)"
-    ],
-    [
-      "contains(shot11, cocktail3)",
-      "contains(shot11, cocktail3)"
-    ],
-    [
-      "contains(shot12, ingredient2)",
-      "contains(shot12, ingredient2)"
-    ],
-    [
-      "contains(shot13, ingredient3)",
-      "contains(shot13, ingredient3)"
-    ],
-    [
-      "contains(shot14, ingredient3)",
-      "contains(shot14, ingredient3)"
-    ],
-    [
-      "contains(shot6, cocktail6)",
-      "contains(shot1, cocktail4)"
-    ],
-    [
-      "contains(shot1, cocktail4)",
-      "contains(shot2, cocktail7)"
-    ],
-    [
-      "contains(shot2, cocktail7)",
-      "contains(shot13, ingredient3)"
-    ],
-    [
-      "contains(shot13, ingredient3)",
-      "contains(shot7, cocktail5)"
-    ],
-    [
-      "contains(shot7, cocktail5)",
-      "contains(shot8, cocktail1)"
-    ],
-    [
-      "contains(shot8, cocktail1)",
-      "contains(shot4, cocktail9)"
-    ],
-    [
-      "contains(shot6, cocktail6)",
-      "contains(shot10, cocktail8)"
-    ],
-    [
-      "contains(shot10, cocktail8)",
-      "contains(shot6, cocktail6)"
-    ],
-    [
-      "contains(shot1, cocktail4)",
-      "contains(shot3, cocktail11)"
     ],
     [
       "contains(shot3, cocktail11)",
-      "contains(shot1, cocktail4)"
+      "contains(shot10, cocktail8)"
+    ],
+    [
+      "contains(shot3, cocktail11)",
+      "contains(shot14, ingredient3)"
+    ],
+    [
+      "contains(shot10, cocktail8)",
+      "contains(shot3, cocktail11)"
+    ],
+    [
+      "contains(shot10, cocktail8)",
+      "contains(shot14, ingredient3)"
+    ],
+    [
+      "contains(shot14, ingredient3)",
+      "contains(shot3, cocktail11)"
+    ],
+    [
+      "contains(shot14, ingredient3)",
+      "contains(shot10, cocktail8)"
     ],
     [
       "contains(shot2, cocktail7)",
@@ -105,27 +53,27 @@
       "contains(shot2, cocktail7)"
     ],
     [
-      "contains(shot13, ingredient3)",
-      "contains(shot14, ingredient3)"
+      "contains(shot1, cocktail4)",
+      "contains(shot8, cocktail1)"
     ],
     [
-      "contains(shot14, ingredient3)",
+      "contains(shot1, cocktail4)",
       "contains(shot13, ingredient3)"
     ],
     [
       "contains(shot8, cocktail1)",
-      "contains(shot9, cocktail2)"
+      "contains(shot1, cocktail4)"
     ],
     [
       "contains(shot8, cocktail1)",
-      "contains(shot11, cocktail3)"
+      "contains(shot13, ingredient3)"
     ],
     [
-      "contains(shot8, cocktail1)",
-      "contains(shot12, ingredient2)"
+      "contains(shot13, ingredient3)",
+      "contains(shot1, cocktail4)"
     ],
     [
-      "contains(shot9, cocktail2)",
+      "contains(shot13, ingredient3)",
       "contains(shot8, cocktail1)"
     ],
     [
@@ -135,10 +83,6 @@
     [
       "contains(shot9, cocktail2)",
       "contains(shot12, ingredient2)"
-    ],
-    [
-      "contains(shot11, cocktail3)",
-      "contains(shot8, cocktail1)"
     ],
     [
       "contains(shot11, cocktail3)",
@@ -150,15 +94,19 @@
     ],
     [
       "contains(shot12, ingredient2)",
-      "contains(shot8, cocktail1)"
-    ],
-    [
-      "contains(shot12, ingredient2)",
       "contains(shot9, cocktail2)"
     ],
     [
       "contains(shot12, ingredient2)",
       "contains(shot11, cocktail3)"
+    ],
+    [
+      "contains(shot4, cocktail9)",
+      "contains(shot7, cocktail5)"
+    ],
+    [
+      "contains(shot7, cocktail5)",
+      "contains(shot4, cocktail9)"
     ]
   ]
 }

@@ -1,28 +1,12 @@
 {
   "partial_order": [
     [
-      "home(diamondQ)",
+      "home(heartQ)",
       "home(diamondQ)"
     ],
     [
-      "home(clubQ)",
-      "home(clubQ)"
-    ],
-    [
-      "home(heartQ)",
-      "home(heartQ)"
-    ],
-    [
-      "home(spadeQ)",
-      "home(spadeQ)"
-    ],
-    [
       "home(diamondQ)",
       "home(clubQ)"
-    ],
-    [
-      "home(diamondQ)",
-      "home(heartQ)"
     ],
     [
       "home(diamondQ)",
@@ -34,22 +18,6 @@
     ],
     [
       "home(clubQ)",
-      "home(heartQ)"
-    ],
-    [
-      "home(clubQ)",
-      "home(spadeQ)"
-    ],
-    [
-      "home(heartQ)",
-      "home(diamondQ)"
-    ],
-    [
-      "home(heartQ)",
-      "home(clubQ)"
-    ],
-    [
-      "home(heartQ)",
       "home(spadeQ)"
     ],
     [
@@ -59,10 +27,6 @@
     [
       "home(spadeQ)",
       "home(clubQ)"
-    ],
-    [
-      "home(spadeQ)",
-      "home(heartQ)"
     ]
   ]
 }

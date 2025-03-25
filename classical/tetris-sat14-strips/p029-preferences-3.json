@@ -1,224 +1,96 @@
 {
   "partial_order": [
     [
-      "clear(f0-0f)",
+      "clear(f0-1f)",
+      "clear(f1-1f)"
+    ],
+    [
+      "clear(f1-1f)",
+      "clear(f0-2f)"
+    ],
+    [
+      "clear(f0-2f)",
       "clear(f0-0f)"
     ],
     [
       "clear(f0-1f)",
-      "clear(f0-1f)"
+      "clear(f2-1f)"
     ],
     [
-      "clear(f0-2f)",
-      "clear(f0-2f)"
+      "clear(f0-1f)",
+      "clear(f2-2f)"
     ],
     [
-      "clear(f0-3f)",
-      "clear(f0-3f)"
+      "clear(f0-1f)",
+      "clear(f3-3f)"
     ],
     [
-      "clear(f1-0f)",
-      "clear(f1-0f)"
+      "clear(f0-1f)",
+      "clear(f4-1f)"
     ],
     [
-      "clear(f1-1f)",
-      "clear(f1-1f)"
-    ],
-    [
-      "clear(f1-2f)",
-      "clear(f1-2f)"
-    ],
-    [
-      "clear(f1-3f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f2-0f)",
-      "clear(f2-0f)"
+      "clear(f0-1f)",
+      "clear(f5-1f)"
     ],
     [
       "clear(f2-1f)",
+      "clear(f0-1f)"
+    ],
+    [
+      "clear(f2-1f)",
+      "clear(f2-2f)"
+    ],
+    [
+      "clear(f2-1f)",
+      "clear(f3-3f)"
+    ],
+    [
+      "clear(f2-1f)",
+      "clear(f4-1f)"
+    ],
+    [
+      "clear(f2-1f)",
+      "clear(f5-1f)"
+    ],
+    [
+      "clear(f2-2f)",
+      "clear(f0-1f)"
+    ],
+    [
+      "clear(f2-2f)",
       "clear(f2-1f)"
     ],
     [
       "clear(f2-2f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f2-3f)",
-      "clear(f2-3f)"
-    ],
-    [
-      "clear(f3-0f)",
-      "clear(f3-0f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f3-2f)"
-    ],
-    [
-      "clear(f3-3f)",
       "clear(f3-3f)"
     ],
     [
-      "clear(f4-0f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f4-1f)",
+      "clear(f2-2f)",
       "clear(f4-1f)"
     ],
     [
-      "clear(f4-2f)",
-      "clear(f4-2f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f4-3f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f5-1f)",
+      "clear(f2-2f)",
       "clear(f5-1f)"
     ],
     [
-      "clear(f5-2f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f0-0f)",
-      "clear(f0-3f)"
-    ],
-    [
-      "clear(f0-3f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f0-0f)",
+      "clear(f3-3f)",
       "clear(f0-1f)"
     ],
     [
-      "clear(f0-0f)",
-      "clear(f1-0f)"
+      "clear(f3-3f)",
+      "clear(f2-1f)"
     ],
     [
-      "clear(f0-0f)",
-      "clear(f3-2f)"
+      "clear(f3-3f)",
+      "clear(f2-2f)"
     ],
     [
-      "clear(f0-0f)",
+      "clear(f3-3f)",
       "clear(f4-1f)"
     ],
     [
-      "clear(f0-0f)",
-      "clear(f4-3f)"
-    ],
-    [
-      "clear(f0-0f)",
+      "clear(f3-3f)",
       "clear(f5-1f)"
-    ],
-    [
-      "clear(f0-0f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f0-1f)",
-      "clear(f0-0f)"
-    ],
-    [
-      "clear(f0-1f)",
-      "clear(f1-0f)"
-    ],
-    [
-      "clear(f0-1f)",
-      "clear(f3-2f)"
-    ],
-    [
-      "clear(f0-1f)",
-      "clear(f4-1f)"
-    ],
-    [
-      "clear(f0-1f)",
-      "clear(f4-3f)"
-    ],
-    [
-      "clear(f0-1f)",
-      "clear(f5-1f)"
-    ],
-    [
-      "clear(f0-1f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f1-0f)",
-      "clear(f0-0f)"
-    ],
-    [
-      "clear(f1-0f)",
-      "clear(f0-1f)"
-    ],
-    [
-      "clear(f1-0f)",
-      "clear(f3-2f)"
-    ],
-    [
-      "clear(f1-0f)",
-      "clear(f4-1f)"
-    ],
-    [
-      "clear(f1-0f)",
-      "clear(f4-3f)"
-    ],
-    [
-      "clear(f1-0f)",
-      "clear(f5-1f)"
-    ],
-    [
-      "clear(f1-0f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f0-0f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f0-1f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f1-0f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f4-1f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f4-3f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f5-1f)"
-    ],
-    [
-      "clear(f3-2f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f4-1f)",
-      "clear(f0-0f)"
     ],
     [
       "clear(f4-1f)",
@@ -226,55 +98,19 @@
     ],
     [
       "clear(f4-1f)",
-      "clear(f1-0f)"
+      "clear(f2-1f)"
     ],
     [
       "clear(f4-1f)",
-      "clear(f3-2f)"
+      "clear(f2-2f)"
     ],
     [
       "clear(f4-1f)",
-      "clear(f4-3f)"
+      "clear(f3-3f)"
     ],
     [
       "clear(f4-1f)",
       "clear(f5-1f)"
-    ],
-    [
-      "clear(f4-1f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f0-0f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f0-1f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f1-0f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f3-2f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f4-1f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f5-1f)"
-    ],
-    [
-      "clear(f4-3f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f5-1f)",
-      "clear(f0-0f)"
     ],
     [
       "clear(f5-1f)",
@@ -282,83 +118,19 @@
     ],
     [
       "clear(f5-1f)",
-      "clear(f1-0f)"
+      "clear(f2-1f)"
     ],
     [
       "clear(f5-1f)",
-      "clear(f3-2f)"
+      "clear(f2-2f)"
+    ],
+    [
+      "clear(f5-1f)",
+      "clear(f3-3f)"
     ],
     [
       "clear(f5-1f)",
       "clear(f4-1f)"
-    ],
-    [
-      "clear(f5-1f)",
-      "clear(f4-3f)"
-    ],
-    [
-      "clear(f5-1f)",
-      "clear(f5-2f)"
-    ],
-    [
-      "clear(f5-2f)",
-      "clear(f0-0f)"
-    ],
-    [
-      "clear(f5-2f)",
-      "clear(f0-1f)"
-    ],
-    [
-      "clear(f5-2f)",
-      "clear(f1-0f)"
-    ],
-    [
-      "clear(f5-2f)",
-      "clear(f3-2f)"
-    ],
-    [
-      "clear(f5-2f)",
-      "clear(f4-1f)"
-    ],
-    [
-      "clear(f5-2f)",
-      "clear(f4-3f)"
-    ],
-    [
-      "clear(f5-2f)",
-      "clear(f5-1f)"
-    ],
-    [
-      "clear(f0-3f)",
-      "clear(f1-1f)"
-    ],
-    [
-      "clear(f0-3f)",
-      "clear(f1-2f)"
-    ],
-    [
-      "clear(f0-3f)",
-      "clear(f2-0f)"
-    ],
-    [
-      "clear(f0-3f)",
-      "clear(f2-3f)"
-    ],
-    [
-      "clear(f0-3f)",
-      "clear(f3-0f)"
-    ],
-    [
-      "clear(f0-3f)",
-      "clear(f4-2f)"
-    ],
-    [
-      "clear(f1-1f)",
-      "clear(f0-3f)"
-    ],
-    [
-      "clear(f1-1f)",
-      "clear(f1-2f)"
     ],
     [
       "clear(f1-1f)",
@@ -366,15 +138,255 @@
     ],
     [
       "clear(f1-1f)",
-      "clear(f2-3f)"
+      "clear(f3-1f)"
     ],
     [
       "clear(f1-1f)",
-      "clear(f3-0f)"
+      "clear(f3-2f)"
     ],
     [
       "clear(f1-1f)",
+      "clear(f4-3f)"
+    ],
+    [
+      "clear(f1-1f)",
+      "clear(f5-0f)"
+    ],
+    [
+      "clear(f1-1f)",
+      "clear(f5-2f)"
+    ],
+    [
+      "clear(f2-0f)",
+      "clear(f1-1f)"
+    ],
+    [
+      "clear(f2-0f)",
+      "clear(f3-1f)"
+    ],
+    [
+      "clear(f2-0f)",
+      "clear(f3-2f)"
+    ],
+    [
+      "clear(f2-0f)",
+      "clear(f4-3f)"
+    ],
+    [
+      "clear(f2-0f)",
+      "clear(f5-0f)"
+    ],
+    [
+      "clear(f2-0f)",
+      "clear(f5-2f)"
+    ],
+    [
+      "clear(f3-1f)",
+      "clear(f1-1f)"
+    ],
+    [
+      "clear(f3-1f)",
+      "clear(f2-0f)"
+    ],
+    [
+      "clear(f3-1f)",
+      "clear(f3-2f)"
+    ],
+    [
+      "clear(f3-1f)",
+      "clear(f4-3f)"
+    ],
+    [
+      "clear(f3-1f)",
+      "clear(f5-0f)"
+    ],
+    [
+      "clear(f3-1f)",
+      "clear(f5-2f)"
+    ],
+    [
+      "clear(f3-2f)",
+      "clear(f1-1f)"
+    ],
+    [
+      "clear(f3-2f)",
+      "clear(f2-0f)"
+    ],
+    [
+      "clear(f3-2f)",
+      "clear(f3-1f)"
+    ],
+    [
+      "clear(f3-2f)",
+      "clear(f4-3f)"
+    ],
+    [
+      "clear(f3-2f)",
+      "clear(f5-0f)"
+    ],
+    [
+      "clear(f3-2f)",
+      "clear(f5-2f)"
+    ],
+    [
+      "clear(f4-3f)",
+      "clear(f1-1f)"
+    ],
+    [
+      "clear(f4-3f)",
+      "clear(f2-0f)"
+    ],
+    [
+      "clear(f4-3f)",
+      "clear(f3-1f)"
+    ],
+    [
+      "clear(f4-3f)",
+      "clear(f3-2f)"
+    ],
+    [
+      "clear(f4-3f)",
+      "clear(f5-0f)"
+    ],
+    [
+      "clear(f4-3f)",
+      "clear(f5-2f)"
+    ],
+    [
+      "clear(f5-0f)",
+      "clear(f1-1f)"
+    ],
+    [
+      "clear(f5-0f)",
+      "clear(f2-0f)"
+    ],
+    [
+      "clear(f5-0f)",
+      "clear(f3-1f)"
+    ],
+    [
+      "clear(f5-0f)",
+      "clear(f3-2f)"
+    ],
+    [
+      "clear(f5-0f)",
+      "clear(f4-3f)"
+    ],
+    [
+      "clear(f5-0f)",
+      "clear(f5-2f)"
+    ],
+    [
+      "clear(f5-2f)",
+      "clear(f1-1f)"
+    ],
+    [
+      "clear(f5-2f)",
+      "clear(f2-0f)"
+    ],
+    [
+      "clear(f5-2f)",
+      "clear(f3-1f)"
+    ],
+    [
+      "clear(f5-2f)",
+      "clear(f3-2f)"
+    ],
+    [
+      "clear(f5-2f)",
+      "clear(f4-3f)"
+    ],
+    [
+      "clear(f5-2f)",
+      "clear(f5-0f)"
+    ],
+    [
+      "clear(f0-2f)",
+      "clear(f0-3f)"
+    ],
+    [
+      "clear(f0-2f)",
+      "clear(f1-0f)"
+    ],
+    [
+      "clear(f0-2f)",
+      "clear(f1-2f)"
+    ],
+    [
+      "clear(f0-2f)",
+      "clear(f2-3f)"
+    ],
+    [
+      "clear(f0-2f)",
+      "clear(f4-0f)"
+    ],
+    [
+      "clear(f0-2f)",
       "clear(f4-2f)"
+    ],
+    [
+      "clear(f0-2f)",
+      "clear(f5-3f)"
+    ],
+    [
+      "clear(f0-3f)",
+      "clear(f0-2f)"
+    ],
+    [
+      "clear(f0-3f)",
+      "clear(f1-0f)"
+    ],
+    [
+      "clear(f0-3f)",
+      "clear(f1-2f)"
+    ],
+    [
+      "clear(f0-3f)",
+      "clear(f2-3f)"
+    ],
+    [
+      "clear(f0-3f)",
+      "clear(f4-0f)"
+    ],
+    [
+      "clear(f0-3f)",
+      "clear(f4-2f)"
+    ],
+    [
+      "clear(f0-3f)",
+      "clear(f5-3f)"
+    ],
+    [
+      "clear(f1-0f)",
+      "clear(f0-2f)"
+    ],
+    [
+      "clear(f1-0f)",
+      "clear(f0-3f)"
+    ],
+    [
+      "clear(f1-0f)",
+      "clear(f1-2f)"
+    ],
+    [
+      "clear(f1-0f)",
+      "clear(f2-3f)"
+    ],
+    [
+      "clear(f1-0f)",
+      "clear(f4-0f)"
+    ],
+    [
+      "clear(f1-0f)",
+      "clear(f4-2f)"
+    ],
+    [
+      "clear(f1-0f)",
+      "clear(f5-3f)"
+    ],
+    [
+      "clear(f1-2f)",
+      "clear(f0-2f)"
     ],
     [
       "clear(f1-2f)",
@@ -382,11 +394,7 @@
     ],
     [
       "clear(f1-2f)",
-      "clear(f1-1f)"
-    ],
-    [
-      "clear(f1-2f)",
-      "clear(f2-0f)"
+      "clear(f1-0f)"
     ],
     [
       "clear(f1-2f)",
@@ -394,83 +402,75 @@
     ],
     [
       "clear(f1-2f)",
-      "clear(f3-0f)"
+      "clear(f4-0f)"
     ],
     [
       "clear(f1-2f)",
       "clear(f4-2f)"
     ],
     [
-      "clear(f2-0f)",
+      "clear(f1-2f)",
+      "clear(f5-3f)"
+    ],
+    [
+      "clear(f2-3f)",
+      "clear(f0-2f)"
+    ],
+    [
+      "clear(f2-3f)",
       "clear(f0-3f)"
     ],
     [
-      "clear(f2-0f)",
-      "clear(f1-1f)"
+      "clear(f2-3f)",
+      "clear(f1-0f)"
     ],
     [
-      "clear(f2-0f)",
+      "clear(f2-3f)",
       "clear(f1-2f)"
     ],
     [
-      "clear(f2-0f)",
+      "clear(f2-3f)",
+      "clear(f4-0f)"
+    ],
+    [
+      "clear(f2-3f)",
+      "clear(f4-2f)"
+    ],
+    [
+      "clear(f2-3f)",
+      "clear(f5-3f)"
+    ],
+    [
+      "clear(f4-0f)",
+      "clear(f0-2f)"
+    ],
+    [
+      "clear(f4-0f)",
+      "clear(f0-3f)"
+    ],
+    [
+      "clear(f4-0f)",
+      "clear(f1-0f)"
+    ],
+    [
+      "clear(f4-0f)",
+      "clear(f1-2f)"
+    ],
+    [
+      "clear(f4-0f)",
       "clear(f2-3f)"
     ],
     [
-      "clear(f2-0f)",
-      "clear(f3-0f)"
-    ],
-    [
-      "clear(f2-0f)",
+      "clear(f4-0f)",
       "clear(f4-2f)"
     ],
     [
-      "clear(f2-3f)",
-      "clear(f0-3f)"
+      "clear(f4-0f)",
+      "clear(f5-3f)"
     ],
     [
-      "clear(f2-3f)",
-      "clear(f1-1f)"
-    ],
-    [
-      "clear(f2-3f)",
-      "clear(f1-2f)"
-    ],
-    [
-      "clear(f2-3f)",
-      "clear(f2-0f)"
-    ],
-    [
-      "clear(f2-3f)",
-      "clear(f3-0f)"
-    ],
-    [
-      "clear(f2-3f)",
-      "clear(f4-2f)"
-    ],
-    [
-      "clear(f3-0f)",
-      "clear(f0-3f)"
-    ],
-    [
-      "clear(f3-0f)",
-      "clear(f1-1f)"
-    ],
-    [
-      "clear(f3-0f)",
-      "clear(f1-2f)"
-    ],
-    [
-      "clear(f3-0f)",
-      "clear(f2-0f)"
-    ],
-    [
-      "clear(f3-0f)",
-      "clear(f2-3f)"
-    ],
-    [
-      "clear(f3-0f)",
-      "clear(f4-2f)"
+      "clear(f4-2f)",
+      "clear(f0-2f)"
     ],
     [
       "clear(f4-2f)",
@@ -478,15 +478,11 @@
     ],
     [
       "clear(f4-2f)",
-      "clear(f1-1f)"
+      "clear(f1-0f)"
     ],
     [
       "clear(f4-2f)",
       "clear(f1-2f)"
-    ],
-    [
-      "clear(f4-2f)",
-      "clear(f2-0f)"
     ],
     [
       "clear(f4-2f)",
@@ -494,295 +490,63 @@
     ],
     [
       "clear(f4-2f)",
+      "clear(f4-0f)"
+    ],
+    [
+      "clear(f4-2f)",
+      "clear(f5-3f)"
+    ],
+    [
+      "clear(f5-3f)",
+      "clear(f0-2f)"
+    ],
+    [
+      "clear(f5-3f)",
+      "clear(f0-3f)"
+    ],
+    [
+      "clear(f5-3f)",
+      "clear(f1-0f)"
+    ],
+    [
+      "clear(f5-3f)",
+      "clear(f1-2f)"
+    ],
+    [
+      "clear(f5-3f)",
+      "clear(f2-3f)"
+    ],
+    [
+      "clear(f5-3f)",
+      "clear(f4-0f)"
+    ],
+    [
+      "clear(f5-3f)",
+      "clear(f4-2f)"
+    ],
+    [
+      "clear(f0-0f)",
+      "clear(f1-3f)"
+    ],
+    [
+      "clear(f0-0f)",
       "clear(f3-0f)"
     ],
     [
-      "clear(f0-2f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f0-2f)",
-      "clear(f2-1f)"
-    ],
-    [
-      "clear(f0-2f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f0-2f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f0-2f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f0-2f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f0-2f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f0-2f)",
-      "clear(f5-3f)"
+      "clear(f1-3f)",
+      "clear(f0-0f)"
     ],
     [
       "clear(f1-3f)",
-      "clear(f0-2f)"
+      "clear(f3-0f)"
     ],
     [
-      "clear(f1-3f)",
-      "clear(f2-1f)"
+      "clear(f3-0f)",
+      "clear(f0-0f)"
     ],
     [
-      "clear(f1-3f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f1-3f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f1-3f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f1-3f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f1-3f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f1-3f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f2-1f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f2-1f)",
+      "clear(f3-0f)",
       "clear(f1-3f)"
-    ],
-    [
-      "clear(f2-1f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f2-1f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f2-1f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f2-1f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f2-1f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f2-1f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f2-1f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f2-2f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f2-1f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f3-1f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f2-1f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f3-3f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f2-1f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f5-0f)"
-    ],
-    [
-      "clear(f4-0f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f2-1f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f5-0f)",
-      "clear(f5-3f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f0-2f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f1-3f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f2-1f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f2-2f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f3-1f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f3-3f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f4-0f)"
-    ],
-    [
-      "clear(f5-3f)",
-      "clear(f5-0f)"
     ]
   ]
 }

@@ -1,216 +1,140 @@
 {
   "partial_order": [
     [
+      "ON(S, C)",
+      "ON(H, O)"
+    ],
+    [
+      "ON(H, O)",
+      "ON(A, L)"
+    ],
+    [
+      "ON(A, L)",
+      "ON(N, R)"
+    ],
+    [
+      "ON(N, R)",
+      "ON(O, A)"
+    ],
+    [
+      "ON(O, A)",
+      "ON(K, E)"
+    ],
+    [
       "ON(K, E)",
+      "ON(L, J)"
+    ],
+    [
+      "ON(L, J)",
+      "ON(E, N)"
+    ],
+    [
+      "ON(E, N)",
+      "ON(Q, B)"
+    ],
+    [
+      "ON(Q, B)",
+      "ON(D, G)"
+    ],
+    [
+      "ON(D, G)",
+      "ON(J, F)"
+    ],
+    [
+      "ON(N, R)",
+      "ON(T, S)"
+    ],
+    [
+      "ON(T, S)",
+      "ON(N, R)"
+    ],
+    [
+      "ON(K, E)",
+      "ON(M, I)"
+    ],
+    [
+      "ON(M, I)",
       "ON(K, E)"
     ],
     [
       "ON(E, N)",
-      "ON(E, N)"
-    ],
-    [
-      "ON(N, R)",
-      "ON(N, R)"
-    ],
-    [
-      "ON(R, D)",
       "ON(R, D)"
     ],
     [
-      "ON(D, G)",
-      "ON(D, G)"
-    ],
-    [
-      "ON(G, H)",
+      "ON(E, N)",
       "ON(G, H)"
     ],
     [
-      "ON(H, O)",
-      "ON(H, O)"
-    ],
-    [
-      "ON(O, A)",
-      "ON(O, A)"
-    ],
-    [
-      "ON(A, L)",
-      "ON(A, L)"
-    ],
-    [
-      "ON(L, J)",
-      "ON(L, J)"
-    ],
-    [
-      "ON(J, F)",
-      "ON(J, F)"
-    ],
-    [
-      "ON(F, M)",
+      "ON(E, N)",
       "ON(F, M)"
     ],
     [
-      "ON(M, I)",
-      "ON(M, I)"
-    ],
-    [
-      "ON(I, Q)",
-      "ON(I, Q)"
-    ],
-    [
-      "ON(Q, B)",
-      "ON(Q, B)"
-    ],
-    [
-      "ON(B, P)",
-      "ON(B, P)"
-    ],
-    [
-      "ON(P, T)",
-      "ON(P, T)"
-    ],
-    [
-      "ON(T, S)",
-      "ON(T, S)"
-    ],
-    [
-      "ON(S, C)",
-      "ON(S, C)"
-    ],
-    [
-      "ON(F, M)",
-      "ON(A, L)"
-    ],
-    [
-      "ON(A, L)",
-      "ON(M, I)"
-    ],
-    [
-      "ON(M, I)",
-      "ON(J, F)"
-    ],
-    [
-      "ON(J, F)",
-      "ON(N, R)"
-    ],
-    [
-      "ON(N, R)",
-      "ON(R, D)"
+      "ON(R, D)",
+      "ON(E, N)"
     ],
     [
       "ON(R, D)",
       "ON(G, H)"
     ],
     [
+      "ON(R, D)",
+      "ON(F, M)"
+    ],
+    [
       "ON(G, H)",
+      "ON(E, N)"
+    ],
+    [
+      "ON(G, H)",
+      "ON(R, D)"
+    ],
+    [
+      "ON(G, H)",
+      "ON(F, M)"
+    ],
+    [
+      "ON(F, M)",
+      "ON(E, N)"
+    ],
+    [
+      "ON(F, M)",
+      "ON(R, D)"
+    ],
+    [
+      "ON(F, M)",
+      "ON(G, H)"
+    ],
+    [
+      "ON(Q, B)",
       "ON(B, P)"
     ],
     [
       "ON(B, P)",
-      "ON(E, N)"
-    ],
-    [
-      "ON(E, N)",
-      "ON(D, G)"
-    ],
-    [
-      "ON(D, G)",
-      "ON(K, E)"
-    ],
-    [
-      "ON(J, F)",
       "ON(Q, B)"
     ],
     [
-      "ON(Q, B)",
+      "ON(J, F)",
+      "ON(I, Q)"
+    ],
+    [
+      "ON(J, F)",
+      "ON(P, T)"
+    ],
+    [
+      "ON(I, Q)",
       "ON(J, F)"
     ],
     [
-      "ON(N, R)",
-      "ON(L, J)"
-    ],
-    [
-      "ON(N, R)",
-      "ON(T, S)"
-    ],
-    [
-      "ON(L, J)",
-      "ON(N, R)"
-    ],
-    [
-      "ON(L, J)",
-      "ON(T, S)"
-    ],
-    [
-      "ON(T, S)",
-      "ON(N, R)"
-    ],
-    [
-      "ON(T, S)",
-      "ON(L, J)"
-    ],
-    [
-      "ON(R, D)",
-      "ON(H, O)"
-    ],
-    [
-      "ON(H, O)",
-      "ON(R, D)"
-    ],
-    [
-      "ON(E, N)",
-      "ON(O, A)"
-    ],
-    [
-      "ON(E, N)",
-      "ON(I, Q)"
-    ],
-    [
-      "ON(E, N)",
-      "ON(S, C)"
-    ],
-    [
-      "ON(O, A)",
-      "ON(E, N)"
-    ],
-    [
-      "ON(O, A)",
-      "ON(I, Q)"
-    ],
-    [
-      "ON(O, A)",
-      "ON(S, C)"
-    ],
-    [
       "ON(I, Q)",
-      "ON(E, N)"
-    ],
-    [
-      "ON(I, Q)",
-      "ON(O, A)"
-    ],
-    [
-      "ON(I, Q)",
-      "ON(S, C)"
-    ],
-    [
-      "ON(S, C)",
-      "ON(E, N)"
-    ],
-    [
-      "ON(S, C)",
-      "ON(O, A)"
-    ],
-    [
-      "ON(S, C)",
-      "ON(I, Q)"
-    ],
-    [
-      "ON(D, G)",
       "ON(P, T)"
     ],
     [
       "ON(P, T)",
-      "ON(D, G)"
+      "ON(J, F)"
+    ],
+    [
+      "ON(P, T)",
+      "ON(I, Q)"
     ]
   ]
 }

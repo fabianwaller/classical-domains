@@ -1,155 +1,7 @@
 {
   "partial_order": [
     [
-      "at(package-1, city-loc-28)",
-      "at(package-1, city-loc-28)"
-    ],
-    [
-      "at(package-2, city-loc-9)",
-      "at(package-2, city-loc-9)"
-    ],
-    [
-      "at(package-3, city-loc-19)",
-      "at(package-3, city-loc-19)"
-    ],
-    [
-      "at(package-4, city-loc-1)",
-      "at(package-4, city-loc-1)"
-    ],
-    [
-      "at(package-5, city-loc-43)",
-      "at(package-5, city-loc-43)"
-    ],
-    [
-      "at(package-6, city-loc-39)",
-      "at(package-6, city-loc-39)"
-    ],
-    [
-      "at(package-7, city-loc-29)",
-      "at(package-7, city-loc-29)"
-    ],
-    [
-      "at(package-8, city-loc-29)",
-      "at(package-8, city-loc-29)"
-    ],
-    [
-      "at(package-9, city-loc-21)",
-      "at(package-9, city-loc-21)"
-    ],
-    [
-      "at(package-10, city-loc-4)",
-      "at(package-10, city-loc-4)"
-    ],
-    [
-      "at(package-11, city-loc-11)",
-      "at(package-11, city-loc-11)"
-    ],
-    [
-      "at(package-12, city-loc-17)",
-      "at(package-12, city-loc-17)"
-    ],
-    [
-      "at(package-13, city-loc-4)",
-      "at(package-13, city-loc-4)"
-    ],
-    [
-      "at(package-14, city-loc-17)",
-      "at(package-14, city-loc-17)"
-    ],
-    [
-      "at(package-15, city-loc-37)",
-      "at(package-15, city-loc-37)"
-    ],
-    [
-      "at(package-16, city-loc-8)",
-      "at(package-16, city-loc-8)"
-    ],
-    [
-      "at(package-17, city-loc-9)",
-      "at(package-17, city-loc-9)"
-    ],
-    [
-      "at(package-18, city-loc-53)",
-      "at(package-18, city-loc-53)"
-    ],
-    [
-      "at(package-19, city-loc-25)",
-      "at(package-19, city-loc-25)"
-    ],
-    [
-      "at(package-20, city-loc-8)",
-      "at(package-20, city-loc-8)"
-    ],
-    [
       "at(package-21, city-loc-46)",
-      "at(package-21, city-loc-46)"
-    ],
-    [
-      "at(package-22, city-loc-31)",
-      "at(package-22, city-loc-31)"
-    ],
-    [
-      "at(package-23, city-loc-50)",
-      "at(package-23, city-loc-50)"
-    ],
-    [
-      "at(package-24, city-loc-5)",
-      "at(package-24, city-loc-5)"
-    ],
-    [
-      "at(package-25, city-loc-45)",
-      "at(package-25, city-loc-45)"
-    ],
-    [
-      "at(package-26, city-loc-18)",
-      "at(package-26, city-loc-18)"
-    ],
-    [
-      "at(package-27, city-loc-42)",
-      "at(package-27, city-loc-42)"
-    ],
-    [
-      "at(package-28, city-loc-19)",
-      "at(package-28, city-loc-19)"
-    ],
-    [
-      "at(package-29, city-loc-7)",
-      "at(package-29, city-loc-7)"
-    ],
-    [
-      "at(package-30, city-loc-61)",
-      "at(package-30, city-loc-61)"
-    ],
-    [
-      "at(package-9, city-loc-21)",
-      "at(package-1, city-loc-28)"
-    ],
-    [
-      "at(package-1, city-loc-28)",
-      "at(package-5, city-loc-43)"
-    ],
-    [
-      "at(package-5, city-loc-43)",
-      "at(package-20, city-loc-8)"
-    ],
-    [
-      "at(package-20, city-loc-8)",
-      "at(package-4, city-loc-1)"
-    ],
-    [
-      "at(package-4, city-loc-1)",
-      "at(package-7, city-loc-29)"
-    ],
-    [
-      "at(package-7, city-loc-29)",
-      "at(package-14, city-loc-17)"
-    ],
-    [
-      "at(package-14, city-loc-17)",
-      "at(package-15, city-loc-37)"
-    ],
-    [
-      "at(package-15, city-loc-37)",
       "at(package-12, city-loc-17)"
     ],
     [
@@ -158,155 +10,203 @@
     ],
     [
       "at(package-8, city-loc-29)",
-      "at(package-13, city-loc-4)"
+      "at(package-6, city-loc-39)"
     ],
     [
-      "at(package-13, city-loc-4)",
+      "at(package-6, city-loc-39)",
+      "at(package-5, city-loc-43)"
+    ],
+    [
+      "at(package-5, city-loc-43)",
+      "at(package-26, city-loc-18)"
+    ],
+    [
+      "at(package-26, city-loc-18)",
+      "at(package-2, city-loc-9)"
+    ],
+    [
+      "at(package-2, city-loc-9)",
+      "at(package-9, city-loc-21)"
+    ],
+    [
+      "at(package-9, city-loc-21)",
+      "at(package-10, city-loc-4)"
+    ],
+    [
+      "at(package-10, city-loc-4)",
+      "at(package-20, city-loc-8)"
+    ],
+    [
+      "at(package-20, city-loc-8)",
+      "at(package-3, city-loc-19)"
+    ],
+    [
+      "at(package-3, city-loc-19)",
+      "at(package-7, city-loc-29)"
+    ],
+    [
+      "at(package-7, city-loc-29)",
+      "at(package-25, city-loc-45)"
+    ],
+    [
+      "at(package-25, city-loc-45)",
+      "at(package-18, city-loc-53)"
+    ],
+    [
+      "at(package-18, city-loc-53)",
+      "at(package-1, city-loc-28)"
+    ],
+    [
+      "at(package-21, city-loc-46)",
+      "at(package-27, city-loc-42)"
+    ],
+    [
+      "at(package-27, city-loc-42)",
+      "at(package-21, city-loc-46)"
+    ],
+    [
+      "at(package-12, city-loc-17)",
+      "at(package-17, city-loc-9)"
+    ],
+    [
+      "at(package-17, city-loc-9)",
+      "at(package-12, city-loc-17)"
+    ],
+    [
+      "at(package-8, city-loc-29)",
+      "at(package-22, city-loc-31)"
+    ],
+    [
+      "at(package-8, city-loc-29)",
+      "at(package-29, city-loc-7)"
+    ],
+    [
+      "at(package-22, city-loc-31)",
+      "at(package-8, city-loc-29)"
+    ],
+    [
+      "at(package-22, city-loc-31)",
+      "at(package-29, city-loc-7)"
+    ],
+    [
+      "at(package-29, city-loc-7)",
+      "at(package-8, city-loc-29)"
+    ],
+    [
+      "at(package-29, city-loc-7)",
+      "at(package-22, city-loc-31)"
+    ],
+    [
+      "at(package-6, city-loc-39)",
+      "at(package-23, city-loc-50)"
+    ],
+    [
+      "at(package-23, city-loc-50)",
+      "at(package-6, city-loc-39)"
+    ],
+    [
+      "at(package-5, city-loc-43)",
       "at(package-16, city-loc-8)"
+    ],
+    [
+      "at(package-5, city-loc-43)",
+      "at(package-19, city-loc-25)"
+    ],
+    [
+      "at(package-5, city-loc-43)",
+      "at(package-28, city-loc-19)"
+    ],
+    [
+      "at(package-16, city-loc-8)",
+      "at(package-5, city-loc-43)"
     ],
     [
       "at(package-16, city-loc-8)",
       "at(package-19, city-loc-25)"
     ],
     [
+      "at(package-16, city-loc-8)",
+      "at(package-28, city-loc-19)"
+    ],
+    [
       "at(package-19, city-loc-25)",
-      "at(package-6, city-loc-39)"
+      "at(package-5, city-loc-43)"
     ],
     [
-      "at(package-6, city-loc-39)",
-      "at(package-2, city-loc-9)"
+      "at(package-19, city-loc-25)",
+      "at(package-16, city-loc-8)"
     ],
     [
-      "at(package-2, city-loc-9)",
-      "at(package-22, city-loc-31)"
-    ],
-    [
-      "at(package-22, city-loc-31)",
-      "at(package-3, city-loc-19)"
-    ],
-    [
-      "at(package-3, city-loc-19)",
+      "at(package-19, city-loc-25)",
       "at(package-28, city-loc-19)"
     ],
     [
       "at(package-28, city-loc-19)",
-      "at(package-11, city-loc-11)"
-    ],
-    [
-      "at(package-11, city-loc-11)",
-      "at(package-17, city-loc-9)"
-    ],
-    [
-      "at(package-9, city-loc-21)",
-      "at(package-18, city-loc-53)"
-    ],
-    [
-      "at(package-9, city-loc-21)",
-      "at(package-30, city-loc-61)"
-    ],
-    [
-      "at(package-18, city-loc-53)",
-      "at(package-9, city-loc-21)"
-    ],
-    [
-      "at(package-18, city-loc-53)",
-      "at(package-30, city-loc-61)"
-    ],
-    [
-      "at(package-30, city-loc-61)",
-      "at(package-9, city-loc-21)"
-    ],
-    [
-      "at(package-30, city-loc-61)",
-      "at(package-18, city-loc-53)"
-    ],
-    [
-      "at(package-5, city-loc-43)",
-      "at(package-10, city-loc-4)"
-    ],
-    [
-      "at(package-10, city-loc-4)",
       "at(package-5, city-loc-43)"
     ],
     [
-      "at(package-14, city-loc-17)",
-      "at(package-26, city-loc-18)"
+      "at(package-28, city-loc-19)",
+      "at(package-16, city-loc-8)"
     ],
     [
-      "at(package-26, city-loc-18)",
-      "at(package-14, city-loc-17)"
+      "at(package-28, city-loc-19)",
+      "at(package-19, city-loc-25)"
     ],
     [
-      "at(package-12, city-loc-17)",
-      "at(package-23, city-loc-50)"
-    ],
-    [
-      "at(package-12, city-loc-17)",
-      "at(package-25, city-loc-45)"
-    ],
-    [
-      "at(package-12, city-loc-17)",
-      "at(package-29, city-loc-7)"
-    ],
-    [
-      "at(package-23, city-loc-50)",
-      "at(package-12, city-loc-17)"
-    ],
-    [
-      "at(package-23, city-loc-50)",
-      "at(package-25, city-loc-45)"
-    ],
-    [
-      "at(package-23, city-loc-50)",
-      "at(package-29, city-loc-7)"
-    ],
-    [
-      "at(package-25, city-loc-45)",
-      "at(package-12, city-loc-17)"
-    ],
-    [
-      "at(package-25, city-loc-45)",
-      "at(package-23, city-loc-50)"
-    ],
-    [
-      "at(package-25, city-loc-45)",
-      "at(package-29, city-loc-7)"
-    ],
-    [
-      "at(package-29, city-loc-7)",
-      "at(package-12, city-loc-17)"
-    ],
-    [
-      "at(package-29, city-loc-7)",
-      "at(package-23, city-loc-50)"
-    ],
-    [
-      "at(package-29, city-loc-7)",
-      "at(package-25, city-loc-45)"
+      "at(package-2, city-loc-9)",
+      "at(package-13, city-loc-4)"
     ],
     [
       "at(package-13, city-loc-4)",
+      "at(package-2, city-loc-9)"
+    ],
+    [
+      "at(package-9, city-loc-21)",
+      "at(package-15, city-loc-37)"
+    ],
+    [
+      "at(package-15, city-loc-37)",
+      "at(package-9, city-loc-21)"
+    ],
+    [
+      "at(package-20, city-loc-8)",
       "at(package-24, city-loc-5)"
     ],
     [
       "at(package-24, city-loc-5)",
-      "at(package-13, city-loc-4)"
+      "at(package-20, city-loc-8)"
     ],
     [
-      "at(package-2, city-loc-9)",
-      "at(package-21, city-loc-46)"
+      "at(package-3, city-loc-19)",
+      "at(package-14, city-loc-17)"
     ],
     [
-      "at(package-21, city-loc-46)",
-      "at(package-2, city-loc-9)"
+      "at(package-14, city-loc-17)",
+      "at(package-3, city-loc-19)"
     ],
     [
-      "at(package-17, city-loc-9)",
-      "at(package-27, city-loc-42)"
+      "at(package-7, city-loc-29)",
+      "at(package-11, city-loc-11)"
     ],
     [
-      "at(package-27, city-loc-42)",
-      "at(package-17, city-loc-9)"
+      "at(package-11, city-loc-11)",
+      "at(package-7, city-loc-29)"
+    ],
+    [
+      "at(package-18, city-loc-53)",
+      "at(package-30, city-loc-61)"
+    ],
+    [
+      "at(package-30, city-loc-61)",
+      "at(package-18, city-loc-53)"
+    ],
+    [
+      "at(package-1, city-loc-28)",
+      "at(package-4, city-loc-1)"
+    ],
+    [
+      "at(package-4, city-loc-1)",
+      "at(package-1, city-loc-28)"
     ]
   ]
 }

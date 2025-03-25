@@ -2,22 +2,30 @@
   "partial_order": [
     [
       "do-normal()",
+      "UPDATED-CB1()"
+    ],
+    [
+      "do-normal()",
+      "CLOSED-CB3()"
+    ],
+    [
+      "do-normal()",
+      "UPDATED-CB2()"
+    ],
+    [
+      "do-normal()",
+      "UPDATED-CB3()"
+    ],
+    [
+      "CLOSED-CB3()",
       "do-normal()"
     ],
     [
       "CLOSED-CB3()",
-      "CLOSED-CB3()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "UPDATED-CB2()",
       "UPDATED-CB2()"
     ],
     [
-      "UPDATED-CB3()",
+      "CLOSED-CB3()",
       "UPDATED-CB3()"
     ],
     [
@@ -25,8 +33,8 @@
       "do-normal()"
     ],
     [
-      "do-normal()",
-      "UPDATED-CB1()"
+      "UPDATED-CB2()",
+      "CLOSED-CB3()"
     ],
     [
       "UPDATED-CB2()",
@@ -34,15 +42,15 @@
     ],
     [
       "UPDATED-CB3()",
-      "UPDATED-CB2()"
+      "do-normal()"
     ],
     [
-      "do-normal()",
+      "UPDATED-CB3()",
       "CLOSED-CB3()"
     ],
     [
-      "CLOSED-CB3()",
-      "do-normal()"
+      "UPDATED-CB3()",
+      "UPDATED-CB2()"
     ]
   ]
 }

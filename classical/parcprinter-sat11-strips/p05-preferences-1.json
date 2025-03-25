@@ -1,192 +1,108 @@
 {
   "partial_order": [
     [
-      "Hasimage(sheet1, Front, image-1)",
-      "Hasimage(sheet1, Front, image-1)"
-    ],
-    [
-      "Notprintedwith(sheet1, Front, Color)",
-      "Notprintedwith(sheet1, Front, Color)"
-    ],
-    [
-      "Notprintedwith(sheet1, Back, Black)",
-      "Notprintedwith(sheet1, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet1, Back, Color)",
-      "Notprintedwith(sheet1, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet2, Front, image-2)",
-      "Hasimage(sheet2, Front, image-2)"
-    ],
-    [
       "Notprintedwith(sheet2, Front, Black)",
-      "Notprintedwith(sheet2, Front, Black)"
-    ],
-    [
-      "Notprintedwith(sheet2, Back, Black)",
-      "Notprintedwith(sheet2, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet2, Back, Color)",
-      "Notprintedwith(sheet2, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet3, Front, image-3)",
-      "Hasimage(sheet3, Front, image-3)"
-    ],
-    [
-      "Notprintedwith(sheet3, Front, Black)",
-      "Notprintedwith(sheet3, Front, Black)"
-    ],
-    [
-      "Notprintedwith(sheet3, Back, Black)",
-      "Notprintedwith(sheet3, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet3, Back, Color)",
-      "Notprintedwith(sheet3, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet4, Front, image-4)",
-      "Hasimage(sheet4, Front, image-4)"
-    ],
-    [
-      "Notprintedwith(sheet4, Front, Black)",
       "Notprintedwith(sheet4, Front, Black)"
     ],
     [
-      "Notprintedwith(sheet4, Back, Black)",
-      "Notprintedwith(sheet4, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet4, Back, Color)",
-      "Notprintedwith(sheet4, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet5, Front, image-5)",
-      "Hasimage(sheet5, Front, image-5)"
-    ],
-    [
-      "Notprintedwith(sheet5, Front, Black)",
-      "Notprintedwith(sheet5, Front, Black)"
-    ],
-    [
-      "Notprintedwith(sheet5, Back, Black)",
-      "Notprintedwith(sheet5, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet5, Back, Color)",
-      "Notprintedwith(sheet5, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet6, Front, image-6)",
-      "Hasimage(sheet6, Front, image-6)"
-    ],
-    [
-      "Notprintedwith(sheet6, Front, Color)",
-      "Notprintedwith(sheet6, Front, Color)"
-    ],
-    [
-      "Notprintedwith(sheet6, Back, Black)",
-      "Notprintedwith(sheet6, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet6, Back, Color)",
-      "Notprintedwith(sheet6, Back, Color)"
-    ],
-    [
-      "Sideup(sheet1, Front)",
-      "Sideup(sheet1, Front)"
-    ],
-    [
-      "Sideup(sheet2, Front)",
-      "Sideup(sheet2, Front)"
-    ],
-    [
-      "Sideup(sheet3, Front)",
-      "Sideup(sheet3, Front)"
-    ],
-    [
-      "Sideup(sheet4, Front)",
-      "Sideup(sheet4, Front)"
-    ],
-    [
-      "Sideup(sheet5, Front)",
-      "Sideup(sheet5, Front)"
-    ],
-    [
-      "Sideup(sheet6, Front)",
-      "Sideup(sheet6, Front)"
-    ],
-    [
-      "Stackedin(sheet1, sys_OutputTray)",
-      "Stackedin(sheet1, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet2, sys_OutputTray)",
-      "Stackedin(sheet2, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet3, sys_OutputTray)",
-      "Stackedin(sheet3, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet4, sys_OutputTray)",
-      "Stackedin(sheet4, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet5, sys_OutputTray)",
-      "Stackedin(sheet5, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet6, sys_OutputTray)",
-      "Stackedin(sheet6, sys_OutputTray)"
+      "Notprintedwith(sheet4, Front, Black)",
+      "Notprintedwith(sheet1, Back, Color)"
     ],
     [
       "Notprintedwith(sheet1, Back, Color)",
-      "Notprintedwith(sheet1, Front, Color)"
+      "Hasimage(sheet2, Front, image-2)"
     ],
     [
-      "Notprintedwith(sheet1, Front, Color)",
-      "Notprintedwith(sheet2, Front, Black)"
-    ],
-    [
-      "Notprintedwith(sheet2, Front, Black)",
-      "Notprintedwith(sheet3, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet3, Back, Black)",
-      "Sideup(sheet1, Front)"
-    ],
-    [
-      "Sideup(sheet1, Front)",
+      "Hasimage(sheet2, Front, image-2)",
       "Notprintedwith(sheet2, Back, Color)"
     ],
     [
       "Notprintedwith(sheet2, Back, Color)",
-      "Hasimage(sheet3, Front, image-3)"
-    ],
-    [
-      "Hasimage(sheet3, Front, image-3)",
-      "Hasimage(sheet1, Front, image-1)"
-    ],
-    [
-      "Hasimage(sheet1, Front, image-1)",
-      "Notprintedwith(sheet4, Back, Color)"
-    ],
-    [
-      "Notprintedwith(sheet4, Back, Color)",
-      "Hasimage(sheet6, Front, image-6)"
-    ],
-    [
-      "Hasimage(sheet6, Front, image-6)",
       "Stackedin(sheet4, sys_OutputTray)"
     ],
     [
       "Stackedin(sheet4, sys_OutputTray)",
-      "Hasimage(sheet2, Front, image-2)"
+      "Hasimage(sheet1, Front, image-1)"
+    ],
+    [
+      "Hasimage(sheet1, Front, image-1)",
+      "Hasimage(sheet5, Front, image-5)"
+    ],
+    [
+      "Hasimage(sheet5, Front, image-5)",
+      "Stackedin(sheet5, sys_OutputTray)"
+    ],
+    [
+      "Stackedin(sheet5, sys_OutputTray)",
+      "Notprintedwith(sheet1, Front, Color)"
+    ],
+    [
+      "Notprintedwith(sheet1, Front, Color)",
+      "Notprintedwith(sheet5, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet5, Back, Black)",
+      "Stackedin(sheet2, sys_OutputTray)"
+    ],
+    [
+      "Stackedin(sheet2, sys_OutputTray)",
+      "Sideup(sheet6, Front)"
+    ],
+    [
+      "Sideup(sheet6, Front)",
+      "Hasimage(sheet4, Front, image-4)"
+    ],
+    [
+      "Hasimage(sheet4, Front, image-4)",
+      "Notprintedwith(sheet2, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet2, Back, Black)",
+      "Notprintedwith(sheet1, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet1, Back, Black)",
+      "Notprintedwith(sheet3, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet2, Front, Black)",
+      "Hasimage(sheet3, Front, image-3)"
+    ],
+    [
+      "Hasimage(sheet3, Front, image-3)",
+      "Notprintedwith(sheet2, Front, Black)"
+    ],
+    [
+      "Notprintedwith(sheet4, Front, Black)",
+      "Sideup(sheet1, Front)"
+    ],
+    [
+      "Sideup(sheet1, Front)",
+      "Notprintedwith(sheet4, Front, Black)"
+    ],
+    [
+      "Notprintedwith(sheet1, Back, Color)",
+      "Sideup(sheet4, Front)"
+    ],
+    [
+      "Notprintedwith(sheet1, Back, Color)",
+      "Stackedin(sheet6, sys_OutputTray)"
+    ],
+    [
+      "Sideup(sheet4, Front)",
+      "Notprintedwith(sheet1, Back, Color)"
+    ],
+    [
+      "Sideup(sheet4, Front)",
+      "Stackedin(sheet6, sys_OutputTray)"
+    ],
+    [
+      "Stackedin(sheet6, sys_OutputTray)",
+      "Notprintedwith(sheet1, Back, Color)"
+    ],
+    [
+      "Stackedin(sheet6, sys_OutputTray)",
+      "Sideup(sheet4, Front)"
     ],
     [
       "Hasimage(sheet2, Front, image-2)",
@@ -194,295 +110,199 @@
     ],
     [
       "Notprintedwith(sheet6, Back, Color)",
-      "Notprintedwith(sheet3, Front, Black)"
-    ],
-    [
-      "Notprintedwith(sheet3, Front, Black)",
-      "Notprintedwith(sheet2, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet2, Back, Black)",
-      "Sideup(sheet2, Front)"
-    ],
-    [
-      "Notprintedwith(sheet1, Back, Color)",
-      "Hasimage(sheet4, Front, image-4)"
-    ],
-    [
-      "Notprintedwith(sheet1, Back, Color)",
-      "Notprintedwith(sheet4, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet1, Back, Color)",
-      "Hasimage(sheet5, Front, image-5)"
-    ],
-    [
-      "Hasimage(sheet4, Front, image-4)",
-      "Notprintedwith(sheet1, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet4, Front, image-4)",
-      "Notprintedwith(sheet4, Back, Black)"
-    ],
-    [
-      "Hasimage(sheet4, Front, image-4)",
-      "Hasimage(sheet5, Front, image-5)"
-    ],
-    [
-      "Notprintedwith(sheet4, Back, Black)",
-      "Notprintedwith(sheet1, Back, Color)"
-    ],
-    [
-      "Notprintedwith(sheet4, Back, Black)",
-      "Hasimage(sheet4, Front, image-4)"
-    ],
-    [
-      "Notprintedwith(sheet4, Back, Black)",
-      "Hasimage(sheet5, Front, image-5)"
-    ],
-    [
-      "Hasimage(sheet5, Front, image-5)",
-      "Notprintedwith(sheet1, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet5, Front, image-5)",
-      "Hasimage(sheet4, Front, image-4)"
-    ],
-    [
-      "Hasimage(sheet5, Front, image-5)",
-      "Notprintedwith(sheet4, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet1, Front, Color)",
-      "Notprintedwith(sheet1, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet1, Front, Color)",
-      "Notprintedwith(sheet5, Front, Black)"
-    ],
-    [
-      "Notprintedwith(sheet1, Back, Black)",
-      "Notprintedwith(sheet1, Front, Color)"
-    ],
-    [
-      "Notprintedwith(sheet1, Back, Black)",
-      "Notprintedwith(sheet5, Front, Black)"
-    ],
-    [
-      "Notprintedwith(sheet5, Front, Black)",
-      "Notprintedwith(sheet1, Front, Color)"
-    ],
-    [
-      "Notprintedwith(sheet5, Front, Black)",
-      "Notprintedwith(sheet1, Back, Black)"
-    ],
-    [
-      "Notprintedwith(sheet2, Front, Black)",
-      "Stackedin(sheet5, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet5, sys_OutputTray)",
-      "Notprintedwith(sheet2, Front, Black)"
+      "Hasimage(sheet2, Front, image-2)"
     ],
     [
       "Notprintedwith(sheet2, Back, Color)",
-      "Notprintedwith(sheet3, Back, Color)"
+      "Notprintedwith(sheet6, Front, Color)"
     ],
     [
-      "Notprintedwith(sheet3, Back, Color)",
+      "Notprintedwith(sheet2, Back, Color)",
+      "Notprintedwith(sheet6, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet2, Back, Color)",
+      "Stackedin(sheet1, sys_OutputTray)"
+    ],
+    [
+      "Notprintedwith(sheet6, Front, Color)",
       "Notprintedwith(sheet2, Back, Color)"
     ],
     [
-      "Hasimage(sheet1, Front, image-1)",
+      "Notprintedwith(sheet6, Front, Color)",
       "Notprintedwith(sheet6, Back, Black)"
-    ],
-    [
-      "Hasimage(sheet1, Front, image-1)",
-      "Sideup(sheet6, Front)"
-    ],
-    [
-      "Hasimage(sheet1, Front, image-1)",
-      "Stackedin(sheet6, sys_OutputTray)"
-    ],
-    [
-      "Notprintedwith(sheet6, Back, Black)",
-      "Hasimage(sheet1, Front, image-1)"
-    ],
-    [
-      "Notprintedwith(sheet6, Back, Black)",
-      "Sideup(sheet6, Front)"
-    ],
-    [
-      "Notprintedwith(sheet6, Back, Black)",
-      "Stackedin(sheet6, sys_OutputTray)"
-    ],
-    [
-      "Sideup(sheet6, Front)",
-      "Hasimage(sheet1, Front, image-1)"
-    ],
-    [
-      "Sideup(sheet6, Front)",
-      "Notprintedwith(sheet6, Back, Black)"
-    ],
-    [
-      "Sideup(sheet6, Front)",
-      "Stackedin(sheet6, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet6, sys_OutputTray)",
-      "Hasimage(sheet1, Front, image-1)"
-    ],
-    [
-      "Stackedin(sheet6, sys_OutputTray)",
-      "Notprintedwith(sheet6, Back, Black)"
-    ],
-    [
-      "Stackedin(sheet6, sys_OutputTray)",
-      "Sideup(sheet6, Front)"
-    ],
-    [
-      "Hasimage(sheet6, Front, image-6)",
-      "Notprintedwith(sheet6, Front, Color)"
-    ],
-    [
-      "Hasimage(sheet6, Front, image-6)",
-      "Sideup(sheet5, Front)"
     ],
     [
       "Notprintedwith(sheet6, Front, Color)",
-      "Hasimage(sheet6, Front, image-6)"
+      "Stackedin(sheet1, sys_OutputTray)"
     ],
     [
-      "Notprintedwith(sheet6, Front, Color)",
-      "Sideup(sheet5, Front)"
+      "Notprintedwith(sheet6, Back, Black)",
+      "Notprintedwith(sheet2, Back, Color)"
     ],
     [
-      "Sideup(sheet5, Front)",
-      "Hasimage(sheet6, Front, image-6)"
-    ],
-    [
-      "Sideup(sheet5, Front)",
+      "Notprintedwith(sheet6, Back, Black)",
       "Notprintedwith(sheet6, Front, Color)"
     ],
     [
-      "Hasimage(sheet2, Front, image-2)",
-      "Notprintedwith(sheet5, Back, Color)"
-    ],
-    [
-      "Hasimage(sheet2, Front, image-2)",
-      "Stackedin(sheet2, sys_OutputTray)"
-    ],
-    [
-      "Notprintedwith(sheet5, Back, Color)",
-      "Hasimage(sheet2, Front, image-2)"
-    ],
-    [
-      "Notprintedwith(sheet5, Back, Color)",
-      "Stackedin(sheet2, sys_OutputTray)"
-    ],
-    [
-      "Stackedin(sheet2, sys_OutputTray)",
-      "Hasimage(sheet2, Front, image-2)"
-    ],
-    [
-      "Stackedin(sheet2, sys_OutputTray)",
-      "Notprintedwith(sheet5, Back, Color)"
-    ],
-    [
-      "Notprintedwith(sheet3, Front, Black)",
+      "Notprintedwith(sheet6, Back, Black)",
       "Stackedin(sheet1, sys_OutputTray)"
     ],
     [
       "Stackedin(sheet1, sys_OutputTray)",
+      "Notprintedwith(sheet2, Back, Color)"
+    ],
+    [
+      "Stackedin(sheet1, sys_OutputTray)",
+      "Notprintedwith(sheet6, Front, Color)"
+    ],
+    [
+      "Stackedin(sheet1, sys_OutputTray)",
+      "Notprintedwith(sheet6, Back, Black)"
+    ],
+    [
+      "Hasimage(sheet1, Front, image-1)",
       "Notprintedwith(sheet3, Front, Black)"
     ],
     [
-      "Notprintedwith(sheet2, Back, Black)",
-      "Notprintedwith(sheet4, Front, Black)"
+      "Hasimage(sheet1, Front, image-1)",
+      "Hasimage(sheet6, Front, image-6)"
     ],
     [
-      "Notprintedwith(sheet2, Back, Black)",
-      "Notprintedwith(sheet5, Back, Black)"
+      "Hasimage(sheet1, Front, image-1)",
+      "Sideup(sheet2, Front)"
     ],
     [
-      "Notprintedwith(sheet2, Back, Black)",
-      "Sideup(sheet3, Front)"
+      "Hasimage(sheet1, Front, image-1)",
+      "Sideup(sheet5, Front)"
     ],
     [
-      "Notprintedwith(sheet2, Back, Black)",
-      "Sideup(sheet4, Front)"
+      "Notprintedwith(sheet3, Front, Black)",
+      "Hasimage(sheet1, Front, image-1)"
     ],
     [
-      "Notprintedwith(sheet4, Front, Black)",
-      "Notprintedwith(sheet2, Back, Black)"
+      "Notprintedwith(sheet3, Front, Black)",
+      "Hasimage(sheet6, Front, image-6)"
     ],
     [
-      "Notprintedwith(sheet4, Front, Black)",
-      "Notprintedwith(sheet5, Back, Black)"
+      "Notprintedwith(sheet3, Front, Black)",
+      "Sideup(sheet2, Front)"
     ],
     [
-      "Notprintedwith(sheet4, Front, Black)",
-      "Sideup(sheet3, Front)"
+      "Notprintedwith(sheet3, Front, Black)",
+      "Sideup(sheet5, Front)"
     ],
     [
-      "Notprintedwith(sheet4, Front, Black)",
-      "Sideup(sheet4, Front)"
+      "Hasimage(sheet6, Front, image-6)",
+      "Hasimage(sheet1, Front, image-1)"
     ],
     [
-      "Notprintedwith(sheet5, Back, Black)",
-      "Notprintedwith(sheet2, Back, Black)"
+      "Hasimage(sheet6, Front, image-6)",
+      "Notprintedwith(sheet3, Front, Black)"
     ],
     [
-      "Notprintedwith(sheet5, Back, Black)",
-      "Notprintedwith(sheet4, Front, Black)"
+      "Hasimage(sheet6, Front, image-6)",
+      "Sideup(sheet2, Front)"
     ],
     [
-      "Notprintedwith(sheet5, Back, Black)",
-      "Sideup(sheet3, Front)"
-    ],
-    [
-      "Notprintedwith(sheet5, Back, Black)",
-      "Sideup(sheet4, Front)"
-    ],
-    [
-      "Sideup(sheet3, Front)",
-      "Notprintedwith(sheet2, Back, Black)"
-    ],
-    [
-      "Sideup(sheet3, Front)",
-      "Notprintedwith(sheet4, Front, Black)"
-    ],
-    [
-      "Sideup(sheet3, Front)",
-      "Notprintedwith(sheet5, Back, Black)"
-    ],
-    [
-      "Sideup(sheet3, Front)",
-      "Sideup(sheet4, Front)"
-    ],
-    [
-      "Sideup(sheet4, Front)",
-      "Notprintedwith(sheet2, Back, Black)"
-    ],
-    [
-      "Sideup(sheet4, Front)",
-      "Notprintedwith(sheet4, Front, Black)"
-    ],
-    [
-      "Sideup(sheet4, Front)",
-      "Notprintedwith(sheet5, Back, Black)"
-    ],
-    [
-      "Sideup(sheet4, Front)",
-      "Sideup(sheet3, Front)"
+      "Hasimage(sheet6, Front, image-6)",
+      "Sideup(sheet5, Front)"
     ],
     [
       "Sideup(sheet2, Front)",
+      "Hasimage(sheet1, Front, image-1)"
+    ],
+    [
+      "Sideup(sheet2, Front)",
+      "Notprintedwith(sheet3, Front, Black)"
+    ],
+    [
+      "Sideup(sheet2, Front)",
+      "Hasimage(sheet6, Front, image-6)"
+    ],
+    [
+      "Sideup(sheet2, Front)",
+      "Sideup(sheet5, Front)"
+    ],
+    [
+      "Sideup(sheet5, Front)",
+      "Hasimage(sheet1, Front, image-1)"
+    ],
+    [
+      "Sideup(sheet5, Front)",
+      "Notprintedwith(sheet3, Front, Black)"
+    ],
+    [
+      "Sideup(sheet5, Front)",
+      "Hasimage(sheet6, Front, image-6)"
+    ],
+    [
+      "Sideup(sheet5, Front)",
+      "Sideup(sheet2, Front)"
+    ],
+    [
+      "Notprintedwith(sheet1, Front, Color)",
+      "Notprintedwith(sheet5, Front, Black)"
+    ],
+    [
+      "Notprintedwith(sheet5, Front, Black)",
+      "Notprintedwith(sheet1, Front, Color)"
+    ],
+    [
+      "Notprintedwith(sheet5, Back, Black)",
+      "Notprintedwith(sheet5, Back, Color)"
+    ],
+    [
+      "Notprintedwith(sheet5, Back, Color)",
+      "Notprintedwith(sheet5, Back, Black)"
+    ],
+    [
+      "Hasimage(sheet4, Front, image-4)",
+      "Notprintedwith(sheet4, Back, Color)"
+    ],
+    [
+      "Notprintedwith(sheet4, Back, Color)",
+      "Hasimage(sheet4, Front, image-4)"
+    ],
+    [
+      "Notprintedwith(sheet2, Back, Black)",
+      "Notprintedwith(sheet3, Back, Color)"
+    ],
+    [
+      "Notprintedwith(sheet2, Back, Black)",
+      "Stackedin(sheet3, sys_OutputTray)"
+    ],
+    [
+      "Notprintedwith(sheet3, Back, Color)",
+      "Notprintedwith(sheet2, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet3, Back, Color)",
       "Stackedin(sheet3, sys_OutputTray)"
     ],
     [
       "Stackedin(sheet3, sys_OutputTray)",
-      "Sideup(sheet2, Front)"
+      "Notprintedwith(sheet2, Back, Black)"
+    ],
+    [
+      "Stackedin(sheet3, sys_OutputTray)",
+      "Notprintedwith(sheet3, Back, Color)"
+    ],
+    [
+      "Notprintedwith(sheet1, Back, Black)",
+      "Sideup(sheet3, Front)"
+    ],
+    [
+      "Sideup(sheet3, Front)",
+      "Notprintedwith(sheet1, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet3, Back, Black)",
+      "Notprintedwith(sheet4, Back, Black)"
+    ],
+    [
+      "Notprintedwith(sheet4, Back, Black)",
+      "Notprintedwith(sheet3, Back, Black)"
     ]
   ]
 }

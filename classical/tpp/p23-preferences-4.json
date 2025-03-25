@@ -1,112 +1,20 @@
 {
   "partial_order": [
     [
-      "stored(goods1, level4)",
-      "stored(goods1, level4)"
-    ],
-    [
-      "stored(goods2, level2)",
+      "stored(goods6, level3)",
       "stored(goods2, level2)"
     ],
     [
-      "stored(goods3, level1)",
+      "stored(goods2, level2)",
       "stored(goods3, level1)"
     ],
     [
-      "stored(goods4, level4)",
-      "stored(goods4, level4)"
-    ],
-    [
-      "stored(goods5, level3)",
-      "stored(goods5, level3)"
-    ],
-    [
-      "stored(goods6, level3)",
-      "stored(goods6, level3)"
-    ],
-    [
-      "stored(goods7, level1)",
-      "stored(goods7, level1)"
-    ],
-    [
-      "stored(goods8, level2)",
-      "stored(goods8, level2)"
-    ],
-    [
-      "stored(goods9, level5)",
+      "stored(goods3, level1)",
       "stored(goods9, level5)"
     ],
     [
-      "stored(goods10, level5)",
-      "stored(goods10, level5)"
-    ],
-    [
-      "stored(goods11, level1)",
-      "stored(goods11, level1)"
-    ],
-    [
-      "stored(goods12, level2)",
-      "stored(goods12, level2)"
-    ],
-    [
-      "stored(goods13, level2)",
-      "stored(goods13, level2)"
-    ],
-    [
       "stored(goods9, level5)",
-      "stored(goods3, level1)"
-    ],
-    [
-      "stored(goods3, level1)",
-      "stored(goods6, level3)"
-    ],
-    [
-      "stored(goods6, level3)",
-      "stored(goods2, level2)"
-    ],
-    [
-      "stored(goods2, level2)",
-      "stored(goods5, level3)"
-    ],
-    [
-      "stored(goods5, level3)",
       "stored(goods1, level4)"
-    ],
-    [
-      "stored(goods1, level4)",
-      "stored(goods4, level4)"
-    ],
-    [
-      "stored(goods3, level1)",
-      "stored(goods8, level2)"
-    ],
-    [
-      "stored(goods8, level2)",
-      "stored(goods3, level1)"
-    ],
-    [
-      "stored(goods2, level2)",
-      "stored(goods10, level5)"
-    ],
-    [
-      "stored(goods2, level2)",
-      "stored(goods13, level2)"
-    ],
-    [
-      "stored(goods10, level5)",
-      "stored(goods2, level2)"
-    ],
-    [
-      "stored(goods10, level5)",
-      "stored(goods13, level2)"
-    ],
-    [
-      "stored(goods13, level2)",
-      "stored(goods2, level2)"
-    ],
-    [
-      "stored(goods13, level2)",
-      "stored(goods10, level5)"
     ],
     [
       "stored(goods1, level4)",
@@ -114,19 +22,51 @@
     ],
     [
       "stored(goods7, level1)",
+      "stored(goods4, level4)"
+    ],
+    [
+      "stored(goods9, level5)",
+      "stored(goods13, level2)"
+    ],
+    [
+      "stored(goods13, level2)",
+      "stored(goods9, level5)"
+    ],
+    [
+      "stored(goods1, level4)",
+      "stored(goods5, level3)"
+    ],
+    [
+      "stored(goods1, level4)",
+      "stored(goods10, level5)"
+    ],
+    [
+      "stored(goods5, level3)",
       "stored(goods1, level4)"
     ],
     [
-      "stored(goods4, level4)",
+      "stored(goods5, level3)",
+      "stored(goods10, level5)"
+    ],
+    [
+      "stored(goods10, level5)",
+      "stored(goods1, level4)"
+    ],
+    [
+      "stored(goods10, level5)",
+      "stored(goods5, level3)"
+    ],
+    [
+      "stored(goods7, level1)",
       "stored(goods11, level1)"
     ],
     [
-      "stored(goods4, level4)",
+      "stored(goods7, level1)",
       "stored(goods12, level2)"
     ],
     [
       "stored(goods11, level1)",
-      "stored(goods4, level4)"
+      "stored(goods7, level1)"
     ],
     [
       "stored(goods11, level1)",
@@ -134,11 +74,19 @@
     ],
     [
       "stored(goods12, level2)",
-      "stored(goods4, level4)"
+      "stored(goods7, level1)"
     ],
     [
       "stored(goods12, level2)",
       "stored(goods11, level1)"
+    ],
+    [
+      "stored(goods4, level4)",
+      "stored(goods8, level2)"
+    ],
+    [
+      "stored(goods8, level2)",
+      "stored(goods4, level4)"
     ]
   ]
 }

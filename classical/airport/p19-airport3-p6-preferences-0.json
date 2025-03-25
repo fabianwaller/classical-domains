@@ -1,27 +1,27 @@
 {
   "partial_order": [
     [
+      "airborne(airplane_DFBOY, seg_09_0_150)",
+      "is-parked(airplane_CFBEG, seg_A01_0_100)"
+    ],
+    [
       "is-parked(airplane_CFBEG, seg_A01_0_100)",
+      "airborne(airplane_WURST, seg_09_0_150)"
+    ],
+    [
+      "is-parked(airplane_CFBEG, seg_A01_0_100)",
+      "airborne(airplane_DAEWH, seg_09_0_150)"
+    ],
+    [
+      "is-parked(airplane_CFBEG, seg_A01_0_100)",
+      "is-parked(airplane_4XEKD, seg_B01_0_100)"
+    ],
+    [
+      "airborne(airplane_DAEWH, seg_09_0_150)",
       "is-parked(airplane_CFBEG, seg_A01_0_100)"
     ],
     [
       "airborne(airplane_DAEWH, seg_09_0_150)",
-      "airborne(airplane_DAEWH, seg_09_0_150)"
-    ],
-    [
-      "airborne(airplane_DFBOY, seg_09_0_150)",
-      "airborne(airplane_DFBOY, seg_09_0_150)"
-    ],
-    [
-      "airborne(airplane_WURST, seg_09_0_150)",
-      "airborne(airplane_WURST, seg_09_0_150)"
-    ],
-    [
-      "is-parked(airplane_HOLGI, seg_B02_0_100)",
-      "is-parked(airplane_HOLGI, seg_B02_0_100)"
-    ],
-    [
-      "is-parked(airplane_4XEKD, seg_B01_0_100)",
       "is-parked(airplane_4XEKD, seg_B01_0_100)"
     ],
     [
@@ -29,80 +29,12 @@
       "is-parked(airplane_CFBEG, seg_A01_0_100)"
     ],
     [
-      "is-parked(airplane_CFBEG, seg_A01_0_100)",
-      "airborne(airplane_DAEWH, seg_09_0_150)"
-    ],
-    [
-      "is-parked(airplane_CFBEG, seg_A01_0_100)",
-      "airborne(airplane_DFBOY, seg_09_0_150)"
-    ],
-    [
-      "is-parked(airplane_CFBEG, seg_A01_0_100)",
-      "airborne(airplane_WURST, seg_09_0_150)"
-    ],
-    [
-      "is-parked(airplane_CFBEG, seg_A01_0_100)",
-      "is-parked(airplane_HOLGI, seg_B02_0_100)"
-    ],
-    [
-      "airborne(airplane_DAEWH, seg_09_0_150)",
-      "is-parked(airplane_CFBEG, seg_A01_0_100)"
-    ],
-    [
-      "airborne(airplane_DAEWH, seg_09_0_150)",
-      "airborne(airplane_DFBOY, seg_09_0_150)"
-    ],
-    [
-      "airborne(airplane_DAEWH, seg_09_0_150)",
-      "airborne(airplane_WURST, seg_09_0_150)"
-    ],
-    [
-      "airborne(airplane_DAEWH, seg_09_0_150)",
-      "is-parked(airplane_HOLGI, seg_B02_0_100)"
-    ],
-    [
-      "airborne(airplane_DFBOY, seg_09_0_150)",
-      "is-parked(airplane_CFBEG, seg_A01_0_100)"
-    ],
-    [
-      "airborne(airplane_DFBOY, seg_09_0_150)",
-      "airborne(airplane_DAEWH, seg_09_0_150)"
-    ],
-    [
-      "airborne(airplane_DFBOY, seg_09_0_150)",
-      "airborne(airplane_WURST, seg_09_0_150)"
-    ],
-    [
-      "airborne(airplane_DFBOY, seg_09_0_150)",
-      "is-parked(airplane_HOLGI, seg_B02_0_100)"
-    ],
-    [
-      "airborne(airplane_WURST, seg_09_0_150)",
-      "is-parked(airplane_CFBEG, seg_A01_0_100)"
-    ],
-    [
-      "airborne(airplane_WURST, seg_09_0_150)",
+      "is-parked(airplane_4XEKD, seg_B01_0_100)",
       "airborne(airplane_DAEWH, seg_09_0_150)"
     ],
     [
       "airborne(airplane_WURST, seg_09_0_150)",
-      "airborne(airplane_DFBOY, seg_09_0_150)"
-    ],
-    [
-      "airborne(airplane_WURST, seg_09_0_150)",
       "is-parked(airplane_HOLGI, seg_B02_0_100)"
-    ],
-    [
-      "is-parked(airplane_HOLGI, seg_B02_0_100)",
-      "is-parked(airplane_CFBEG, seg_A01_0_100)"
-    ],
-    [
-      "is-parked(airplane_HOLGI, seg_B02_0_100)",
-      "airborne(airplane_DAEWH, seg_09_0_150)"
-    ],
-    [
-      "is-parked(airplane_HOLGI, seg_B02_0_100)",
-      "airborne(airplane_DFBOY, seg_09_0_150)"
     ],
     [
       "is-parked(airplane_HOLGI, seg_B02_0_100)",

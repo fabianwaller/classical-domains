@@ -1,72 +1,80 @@
 {
   "partial_order": [
     [
-      "do-normal()",
+      "CLOSED-CB5()",
+      "UPDATED-CB4()"
+    ],
+    [
+      "UPDATED-CB4()",
+      "UPDATED-CB3()"
+    ],
+    [
+      "UPDATED-CB3()",
+      "CLOSED-CB2()"
+    ],
+    [
+      "CLOSED-CB2()",
+      "UPDATED-CB5()"
+    ],
+    [
+      "UPDATED-CB5()",
       "do-normal()"
     ],
     [
       "CLOSED-CB5()",
-      "CLOSED-CB5()"
-    ],
-    [
-      "CLOSED-CB3()",
-      "CLOSED-CB3()"
-    ],
-    [
-      "CLOSED-SD3()",
       "CLOSED-SD3()"
     ],
     [
-      "CLOSED-CB2()",
-      "CLOSED-CB2()"
-    ],
-    [
-      "CLOSED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "UPDATED-CB1()",
-      "UPDATED-CB1()"
-    ],
-    [
-      "UPDATED-CB2()",
+      "CLOSED-CB5()",
       "UPDATED-CB2()"
     ],
     [
-      "UPDATED-CB3()",
-      "UPDATED-CB3()"
+      "CLOSED-SD3()",
+      "CLOSED-CB5()"
     ],
     [
-      "UPDATED-CB4()",
-      "UPDATED-CB4()"
+      "CLOSED-SD3()",
+      "UPDATED-CB2()"
     ],
     [
-      "UPDATED-CB5()",
-      "UPDATED-CB5()"
+      "UPDATED-CB2()",
+      "CLOSED-CB5()"
     ],
     [
-      "CLOSED-CB1()",
-      "UPDATED-CB5()"
-    ],
-    [
-      "UPDATED-CB5()",
-      "do-normal()"
+      "UPDATED-CB2()",
+      "CLOSED-SD3()"
     ],
     [
       "do-normal()",
-      "UPDATED-CB2()"
+      "CLOSED-CB3()"
     ],
     [
-      "UPDATED-CB2()",
-      "CLOSED-SD3()"
+      "do-normal()",
+      "CLOSED-CB1()"
     ],
     [
-      "CLOSED-SD3()",
-      "CLOSED-CB2()"
+      "do-normal()",
+      "UPDATED-CB1()"
     ],
     [
-      "CLOSED-CB2()",
-      "CLOSED-CB5()"
+      "CLOSED-CB3()",
+      "do-normal()"
+    ],
+    [
+      "CLOSED-CB3()",
+      "CLOSED-CB1()"
+    ],
+    [
+      "CLOSED-CB3()",
+      "UPDATED-CB1()"
+    ],
+    [
+      "CLOSED-CB1()",
+      "do-normal()"
+    ],
+    [
+      "CLOSED-CB1()",
+      "CLOSED-CB3()"
     ],
     [
       "CLOSED-CB1()",
@@ -74,31 +82,15 @@
     ],
     [
       "UPDATED-CB1()",
-      "CLOSED-CB1()"
-    ],
-    [
-      "do-normal()",
-      "CLOSED-CB3()"
-    ],
-    [
-      "CLOSED-CB3()",
       "do-normal()"
     ],
     [
-      "CLOSED-SD3()",
-      "UPDATED-CB3()"
+      "UPDATED-CB1()",
+      "CLOSED-CB3()"
     ],
     [
-      "UPDATED-CB3()",
-      "CLOSED-SD3()"
-    ],
-    [
-      "CLOSED-CB2()",
-      "UPDATED-CB4()"
-    ],
-    [
-      "UPDATED-CB4()",
-      "CLOSED-CB2()"
+      "UPDATED-CB1()",
+      "CLOSED-CB1()"
     ]
   ]
 }

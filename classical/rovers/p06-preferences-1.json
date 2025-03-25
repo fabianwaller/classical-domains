@@ -1,83 +1,131 @@
 {
   "partial_order": [
     [
-      "communicated_soil_data(waypoint5)",
+      "communicated_soil_data(waypoint4)",
       "communicated_soil_data(waypoint5)"
     ],
     [
-      "communicated_soil_data(waypoint1)",
-      "communicated_soil_data(waypoint1)"
+      "communicated_soil_data(waypoint4)",
+      "communicated_soil_data(waypoint2)"
     ],
     [
       "communicated_soil_data(waypoint4)",
+      "communicated_rock_data(waypoint2)"
+    ],
+    [
+      "communicated_soil_data(waypoint4)",
+      "communicated_rock_data(waypoint3)"
+    ],
+    [
+      "communicated_soil_data(waypoint4)",
+      "communicated_image_data(objective0, colour)"
+    ],
+    [
+      "communicated_soil_data(waypoint4)",
+      "communicated_image_data(objective0, low_res)"
+    ],
+    [
+      "communicated_soil_data(waypoint2)",
       "communicated_soil_data(waypoint4)"
     ],
     [
       "communicated_soil_data(waypoint2)",
-      "communicated_soil_data(waypoint2)"
+      "communicated_rock_data(waypoint2)"
     ],
     [
-      "communicated_rock_data(waypoint0)",
-      "communicated_rock_data(waypoint0)"
+      "communicated_soil_data(waypoint2)",
+      "communicated_rock_data(waypoint3)"
+    ],
+    [
+      "communicated_soil_data(waypoint2)",
+      "communicated_image_data(objective0, colour)"
+    ],
+    [
+      "communicated_soil_data(waypoint2)",
+      "communicated_image_data(objective0, low_res)"
     ],
     [
       "communicated_rock_data(waypoint2)",
+      "communicated_soil_data(waypoint4)"
+    ],
+    [
+      "communicated_rock_data(waypoint2)",
+      "communicated_soil_data(waypoint2)"
+    ],
+    [
+      "communicated_rock_data(waypoint2)",
+      "communicated_rock_data(waypoint3)"
+    ],
+    [
+      "communicated_rock_data(waypoint2)",
+      "communicated_image_data(objective0, colour)"
+    ],
+    [
+      "communicated_rock_data(waypoint2)",
+      "communicated_image_data(objective0, low_res)"
+    ],
+    [
+      "communicated_rock_data(waypoint3)",
+      "communicated_soil_data(waypoint4)"
+    ],
+    [
+      "communicated_rock_data(waypoint3)",
+      "communicated_soil_data(waypoint2)"
+    ],
+    [
+      "communicated_rock_data(waypoint3)",
       "communicated_rock_data(waypoint2)"
     ],
     [
       "communicated_rock_data(waypoint3)",
+      "communicated_image_data(objective0, colour)"
+    ],
+    [
+      "communicated_rock_data(waypoint3)",
+      "communicated_image_data(objective0, low_res)"
+    ],
+    [
+      "communicated_image_data(objective0, colour)",
+      "communicated_soil_data(waypoint4)"
+    ],
+    [
+      "communicated_image_data(objective0, colour)",
+      "communicated_soil_data(waypoint2)"
+    ],
+    [
+      "communicated_image_data(objective0, colour)",
+      "communicated_rock_data(waypoint2)"
+    ],
+    [
+      "communicated_image_data(objective0, colour)",
       "communicated_rock_data(waypoint3)"
     ],
     [
       "communicated_image_data(objective0, colour)",
-      "communicated_image_data(objective0, colour)"
-    ],
-    [
-      "communicated_image_data(objective1, low_res)",
-      "communicated_image_data(objective1, low_res)"
-    ],
-    [
-      "communicated_image_data(objective0, low_res)",
       "communicated_image_data(objective0, low_res)"
     ],
     [
       "communicated_image_data(objective0, low_res)",
-      "communicated_soil_data(waypoint2)"
-    ],
-    [
-      "communicated_soil_data(waypoint2)",
-      "communicated_rock_data(waypoint3)"
-    ],
-    [
-      "communicated_rock_data(waypoint3)",
-      "communicated_image_data(objective0, colour)"
-    ],
-    [
-      "communicated_image_data(objective0, colour)",
-      "communicated_soil_data(waypoint1)"
-    ],
-    [
-      "communicated_soil_data(waypoint1)",
-      "communicated_soil_data(waypoint5)"
-    ],
-    [
-      "communicated_soil_data(waypoint5)",
-      "communicated_rock_data(waypoint2)"
-    ],
-    [
-      "communicated_rock_data(waypoint3)",
-      "communicated_image_data(objective1, low_res)"
-    ],
-    [
-      "communicated_image_data(objective1, low_res)",
-      "communicated_rock_data(waypoint3)"
-    ],
-    [
-      "communicated_soil_data(waypoint1)",
       "communicated_soil_data(waypoint4)"
     ],
     [
-      "communicated_soil_data(waypoint4)",
+      "communicated_image_data(objective0, low_res)",
+      "communicated_soil_data(waypoint2)"
+    ],
+    [
+      "communicated_image_data(objective0, low_res)",
+      "communicated_rock_data(waypoint2)"
+    ],
+    [
+      "communicated_image_data(objective0, low_res)",
+      "communicated_rock_data(waypoint3)"
+    ],
+    [
+      "communicated_image_data(objective0, low_res)",
+      "communicated_image_data(objective0, colour)"
+    ],
+    [
+      "communicated_soil_data(waypoint5)",
       "communicated_soil_data(waypoint1)"
     ],
     [
@@ -85,8 +133,44 @@
       "communicated_rock_data(waypoint0)"
     ],
     [
+      "communicated_soil_data(waypoint5)",
+      "communicated_image_data(objective1, low_res)"
+    ],
+    [
+      "communicated_soil_data(waypoint1)",
+      "communicated_soil_data(waypoint5)"
+    ],
+    [
+      "communicated_soil_data(waypoint1)",
+      "communicated_rock_data(waypoint0)"
+    ],
+    [
+      "communicated_soil_data(waypoint1)",
+      "communicated_image_data(objective1, low_res)"
+    ],
+    [
       "communicated_rock_data(waypoint0)",
       "communicated_soil_data(waypoint5)"
+    ],
+    [
+      "communicated_rock_data(waypoint0)",
+      "communicated_soil_data(waypoint1)"
+    ],
+    [
+      "communicated_rock_data(waypoint0)",
+      "communicated_image_data(objective1, low_res)"
+    ],
+    [
+      "communicated_image_data(objective1, low_res)",
+      "communicated_soil_data(waypoint5)"
+    ],
+    [
+      "communicated_image_data(objective1, low_res)",
+      "communicated_soil_data(waypoint1)"
+    ],
+    [
+      "communicated_image_data(objective1, low_res)",
+      "communicated_rock_data(waypoint0)"
     ]
   ]
 }

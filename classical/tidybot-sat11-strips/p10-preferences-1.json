@@ -1,24 +1,12 @@
 {
   "partial_order": [
     [
-      "object-done(object0)",
-      "object-done(object0)"
-    ],
-    [
       "object-done(object1)",
-      "object-done(object1)"
-    ],
-    [
-      "object-done(object2)",
-      "object-done(object2)"
-    ],
-    [
-      "object-done(object3)",
       "object-done(object3)"
     ],
     [
-      "object-done(object0)",
-      "object-done(object1)"
+      "object-done(object3)",
+      "object-done(object0)"
     ],
     [
       "object-done(object0)",
@@ -27,14 +15,6 @@
     [
       "object-done(object2)",
       "object-done(object0)"
-    ],
-    [
-      "object-done(object1)",
-      "object-done(object3)"
-    ],
-    [
-      "object-done(object3)",
-      "object-done(object1)"
     ]
   ]
 }

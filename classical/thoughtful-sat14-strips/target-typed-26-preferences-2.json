@@ -1,19 +1,7 @@
 {
   "partial_order": [
     [
-      "HOME(CK)",
-      "HOME(CK)"
-    ],
-    [
       "HOME(DK)",
-      "HOME(DK)"
-    ],
-    [
-      "HOME(HK)",
-      "HOME(HK)"
-    ],
-    [
-      "HOME(SK)",
       "HOME(SK)"
     ],
     [
@@ -22,15 +10,11 @@
     ],
     [
       "HOME(CK)",
-      "HOME(DK)"
-    ],
-    [
-      "HOME(DK)",
       "HOME(HK)"
     ],
     [
       "HOME(HK)",
-      "HOME(DK)"
+      "HOME(CK)"
     ]
   ]
 }

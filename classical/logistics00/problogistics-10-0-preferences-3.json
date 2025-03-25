@@ -1,51 +1,51 @@
 {
   "partial_order": [
     [
+      "at(obj33, apt3)",
+      "at(obj31, pos3)"
+    ],
+    [
       "at(obj31, pos3)",
-      "at(obj31, pos3)"
-    ],
-    [
-      "at(obj33, apt3)",
-      "at(obj33, apt3)"
-    ],
-    [
-      "at(obj41, apt3)",
       "at(obj41, apt3)"
     ],
     [
-      "at(obj23, pos4)",
+      "at(obj41, apt3)",
       "at(obj23, pos4)"
     ],
     [
-      "at(obj11, pos3)",
-      "at(obj11, pos3)"
+      "at(obj33, apt3)",
+      "at(obj12, apt1)"
     ],
     [
-      "at(obj22, apt2)",
-      "at(obj22, apt2)"
+      "at(obj33, apt3)",
+      "at(obj21, pos4)"
+    ],
+    [
+      "at(obj33, apt3)",
+      "at(obj42, pos4)"
     ],
     [
       "at(obj12, apt1)",
+      "at(obj33, apt3)"
+    ],
+    [
+      "at(obj12, apt1)",
+      "at(obj21, pos4)"
+    ],
+    [
+      "at(obj12, apt1)",
+      "at(obj42, pos4)"
+    ],
+    [
+      "at(obj21, pos4)",
+      "at(obj33, apt3)"
+    ],
+    [
+      "at(obj21, pos4)",
       "at(obj12, apt1)"
     ],
     [
       "at(obj21, pos4)",
-      "at(obj21, pos4)"
-    ],
-    [
-      "at(obj42, pos4)",
-      "at(obj42, pos4)"
-    ],
-    [
-      "at(obj32, pos1)",
-      "at(obj32, pos1)"
-    ],
-    [
-      "at(obj23, pos4)",
-      "at(obj41, apt3)"
-    ],
-    [
-      "at(obj41, apt3)",
       "at(obj42, pos4)"
     ],
     [
@@ -53,15 +53,35 @@
       "at(obj33, apt3)"
     ],
     [
-      "at(obj33, apt3)",
-      "at(obj11, pos3)"
+      "at(obj42, pos4)",
+      "at(obj12, apt1)"
     ],
     [
-      "at(obj11, pos3)",
+      "at(obj42, pos4)",
+      "at(obj21, pos4)"
+    ],
+    [
+      "at(obj31, pos3)",
+      "at(obj22, apt2)"
+    ],
+    [
+      "at(obj22, apt2)",
       "at(obj31, pos3)"
     ],
     [
       "at(obj23, pos4)",
+      "at(obj11, pos3)"
+    ],
+    [
+      "at(obj23, pos4)",
+      "at(obj32, pos1)"
+    ],
+    [
+      "at(obj11, pos3)",
+      "at(obj23, pos4)"
+    ],
+    [
+      "at(obj11, pos3)",
       "at(obj32, pos1)"
     ],
     [
@@ -69,36 +89,8 @@
       "at(obj23, pos4)"
     ],
     [
-      "at(obj41, apt3)",
-      "at(obj21, pos4)"
-    ],
-    [
-      "at(obj21, pos4)",
-      "at(obj41, apt3)"
-    ],
-    [
-      "at(obj33, apt3)",
-      "at(obj22, apt2)"
-    ],
-    [
-      "at(obj33, apt3)",
-      "at(obj12, apt1)"
-    ],
-    [
-      "at(obj22, apt2)",
-      "at(obj33, apt3)"
-    ],
-    [
-      "at(obj22, apt2)",
-      "at(obj12, apt1)"
-    ],
-    [
-      "at(obj12, apt1)",
-      "at(obj33, apt3)"
-    ],
-    [
-      "at(obj12, apt1)",
-      "at(obj22, apt2)"
+      "at(obj32, pos1)",
+      "at(obj11, pos3)"
     ]
   ]
 }

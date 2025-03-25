@@ -1,24 +1,12 @@
 {
   "partial_order": [
     [
-      "home(diamond5)",
-      "home(diamond5)"
+      "home(spade5)",
+      "home(club5)"
     ],
     [
       "home(club5)",
-      "home(club5)"
-    ],
-    [
-      "home(heart5)",
-      "home(heart5)"
-    ],
-    [
-      "home(spade5)",
-      "home(spade5)"
-    ],
-    [
-      "home(diamond5)",
-      "home(club5)"
+      "home(diamond5)"
     ],
     [
       "home(diamond5)",
@@ -27,14 +15,6 @@
     [
       "home(heart5)",
       "home(diamond5)"
-    ],
-    [
-      "home(club5)",
-      "home(spade5)"
-    ],
-    [
-      "home(spade5)",
-      "home(club5)"
     ]
   ]
 }

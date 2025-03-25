@@ -2,42 +2,10 @@
   "partial_order": [
     [
       "on(B17, A4)",
-      "on(B17, A4)"
-    ],
-    [
-      "on(B14, A1)",
-      "on(B14, A1)"
-    ],
-    [
-      "on(B6, A3)",
-      "on(B6, A3)"
-    ],
-    [
-      "on(B2, A3)",
-      "on(B2, A3)"
-    ],
-    [
-      "on(B5, A3)",
-      "on(B5, A3)"
-    ],
-    [
-      "normal(S12)",
-      "normal(S12)"
-    ],
-    [
-      "normal(S13)",
       "normal(S13)"
     ],
     [
-      "normal(S34)",
-      "normal(S34)"
-    ],
-    [
-      "normal(S23)",
-      "normal(S23)"
-    ],
-    [
-      "on(B17, A4)",
+      "normal(S13)",
       "on(B6, A3)"
     ],
     [
@@ -50,10 +18,6 @@
     ],
     [
       "on(B17, A4)",
-      "normal(S34)"
-    ],
-    [
-      "on(B17, A4)",
       "normal(S23)"
     ],
     [
@@ -63,10 +27,6 @@
     [
       "on(B14, A1)",
       "on(B2, A3)"
-    ],
-    [
-      "on(B14, A1)",
-      "normal(S34)"
     ],
     [
       "on(B14, A1)",
@@ -82,26 +42,6 @@
     ],
     [
       "on(B2, A3)",
-      "normal(S34)"
-    ],
-    [
-      "on(B2, A3)",
-      "normal(S23)"
-    ],
-    [
-      "normal(S34)",
-      "on(B17, A4)"
-    ],
-    [
-      "normal(S34)",
-      "on(B14, A1)"
-    ],
-    [
-      "normal(S34)",
-      "on(B2, A3)"
-    ],
-    [
-      "normal(S34)",
       "normal(S23)"
     ],
     [
@@ -115,10 +55,6 @@
     [
       "normal(S23)",
       "on(B2, A3)"
-    ],
-    [
-      "normal(S23)",
-      "normal(S34)"
     ],
     [
       "on(B6, A3)",
@@ -130,7 +66,7 @@
     ],
     [
       "on(B6, A3)",
-      "normal(S13)"
+      "normal(S34)"
     ],
     [
       "on(B5, A3)",
@@ -142,7 +78,7 @@
     ],
     [
       "on(B5, A3)",
-      "normal(S13)"
+      "normal(S34)"
     ],
     [
       "normal(S12)",
@@ -154,18 +90,18 @@
     ],
     [
       "normal(S12)",
-      "normal(S13)"
+      "normal(S34)"
     ],
     [
-      "normal(S13)",
+      "normal(S34)",
       "on(B6, A3)"
     ],
     [
-      "normal(S13)",
+      "normal(S34)",
       "on(B5, A3)"
     ],
     [
-      "normal(S13)",
+      "normal(S34)",
       "normal(S12)"
     ]
   ]
